@@ -1,0 +1,1263 @@
+﻿species,synonym,continent,country,island_mainland,last_seen,rediscovery_date,rediscovered_years_lost,lost_years_lost,years_lost,body_mass,forest,savanna,shrubland,grassland,wetlands_inland,desert,artificial_terrestrial,marine_habitats,invasive_species,habitat_loss,overexploitation,pollution,climate_change,HDI,survey_effort_score
+Abronia anzuetoi,0,North America,Guatemala,0,1974,NA,NA,47,47,19.7,1,0,0,0,0,0,0,0,0,1,1,0,1,0.663,3
+Abronia campbelli,0,North America,Guatemala,0,1993,2010,17,NA,17,18,1,0,0,0,0,0,0,0,0,1,1,0,1,0.663,2
+Abronia frosti,0,North America,Guatemala,0,1998,2010,12,NA,12,20,1,0,0,0,0,0,0,0,0,1,1,0,1,0.663,3
+Abronia mitchelli,0,North America,Mexico,0,1974,NA,NA,47,47,19.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Abronia ochoterenai,0,North America,Mexico,0,1935,NA,NA,86,86,19.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,1
+Abronia ornelasi,0,North America,Mexico,0,1985,NA,NA,36,36,19.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,1
+Abronia ramirezi,0,North America,Mexico,0,1990,NA,NA,31,31,19.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,2
+Acanthodactylus spinicauda,0,Africa,Algeria,0,1901,2015,114,NA,114,5.58,0,0,1,0,0,1,0,0,0,0,0,0,0,0.748,1
+Acanthosaura bintangensis,0,Asia,Malaysia,0,2008,NA,NA,13,13,36.7,1,0,0,0,0,0,0,0,0,1,0,0,0,0.81,3
+Acanthosaura brachypoda,0,Asia,Vietnam,0,2006,NA,NA,15,15,36.7,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Acerodon humilis,0,Asia,Indonesia,1,1899,1999,100,NA,100,352.43,1,0,0,0,0,0,0,0,0,0,1,0,0,0.72,1
+Acrocephalus longirostris,0,Oceania,French Polynesia,1,1981,NA,NA,40,40,20.37,1,0,1,0,0,0,1,0,1,1,1,0,0,0.7,4
+Acrocephalus orinus,0,Asia,Afghanistan; Tajikistan,0,1867,2006,139,NA,139,9.5,1,0,1,1,1,0,0,0,0,1,1,0,0,0.668,4
+Actenoides bougainvillei,0,Oceania,Papua New Guinea,1,1953,1994,41,NA,41,188,1,0,0,0,0,0,0,0,1,0,0,0,0,0.555,4
+Adenomus kandianus,0,Asia,Sri Lanka,0,1872,2009,137,NA,137,3,1,0,0,0,1,0,0,0,1,1,1,1,1,0.782,1
+Adercosaurus vixadnexus,0,South America,Venezuela,0,1995,NA,NA,26,26,3.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.711,1
+Aegotheles savesi,0,Oceania,New Caledonia,1,1998,NA,NA,23,23,107.75,1,0,0,0,0,0,0,0,1,1,1,0,0,0.8,4
+Aegotheles tatei,0,Asia; Oceania,Indonesia; Papua New Guinea,0,1969,2003,34,NA,34,52,1,0,0,0,0,0,0,0,0,0,1,0,0,0.718,1
+Aepypodius bruijnii,0,Asia,Indonesia,1,1938,2002,64,NA,64,1487.75,1,0,0,0,0,0,0,0,1,1,1,0,0,0.718,4
+Agama lucyae,0,Africa,Ethiopia,0,1964,NA,NA,57,57,72.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0.485,1
+Aipysurus apraefrontalis,0,Oceania,Australia,1,2000,2015,15,NA,15,1430.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0.944,4
+Aipysurus foliosquama,0,Oceania,Australia,1,2001,2015,14,NA,14,1430.3,0,0,0,0,0,0,0,1,0,1,0,0,0,0.944,4
+Aipysurus fuscus,0,Oceania,Australia,1,2005,NA,NA,16,16,1430.3,0,0,0,0,0,0,0,1,0,0,0,0,1,0.944,4
+Alinea lanceolata,0,North America,Barbados,1,1889,NA,NA,132,132,16.8,1,0,0,0,0,0,0,0,1,1,0,0,0,0.814,4
+Allobates caribe,0,South America,Venezuela,0,2000,NA,NA,21,21,0.54,1,0,0,0,1,0,0,0,1,1,1,0,0,0.726,3
+Allobates humilis,0,South America,Venezuela,0,1980,2002,22,NA,22,2.32,1,0,0,0,1,0,0,0,0,1,0,0,1,0.711,3
+Allobates mcdiarmidi,0,South America,Bolivia,0,2005,NA,NA,16,16,2.32,1,0,0,0,1,0,0,0,1,1,0,1,0,0.703,2
+Allobates ranoides,0,South America,Colombia,0,2001,NA,NA,20,20,2.32,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,2
+Allocebus trichotis,0,Africa,Madagascar,0,1875,1989,114,NA,114,78.09,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Alopoglossus lehmanni,0,South America,Colombia,0,1962,NA,NA,59,59,4.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,2
+Alsodes montanus,0,South America,Chile,0,1902,1964,62,NA,62,32.76,0,0,1,0,1,0,0,0,0,1,0,1,0,0.851,1
+Alsophis antiguae,0,North America,Antigua and Barbuda,1,1936,1965,29,NA,29,363.5,1,0,0,0,0,0,0,0,1,1,0,0,1,0.778,1
+Altiphrynoides osgoodi,0,Africa,Ethiopia,0,2003,NA,NA,18,18,79.56,1,0,1,0,1,0,0,0,1,1,1,0,0,0.47,3
+Amaurocichla bocagii,0,Africa,Sao Tome and Principe,1,1928,1990,62,NA,62,25.2,1,0,0,0,0,0,0,0,1,1,1,0,0,0.625,3
+Amaurornis olivieri,0,Africa,Madagascar,0,1962,1995,33,NA,33,184.21,0,0,0,0,1,0,0,0,1,1,1,0,1,0.528,1
+Amazilia alfaroana,0,North America,Costa Rica,0,1895,NA,NA,126,126,4.7,1,0,0,0,0,0,0,0,0,1,0,0,0,0.794,2
+Amazilia castaneiventris,0,South America,Colombia,0,1979,2004,25,NA,25,5,1,0,1,0,0,0,1,0,0,1,1,0,0,0.767,1
+Amblyornis flavifrons,0,Asia,Indonesia,0,1895,1981,86,NA,86,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,4
+Ameerega boliviana,0,South America,Bolivia,0,1902,1998,96,NA,96,0.87,1,0,0,0,1,0,1,0,0,1,1,0,1,0.718,1
+Ameerega planipaleae,0,South America,Peru,0,1996,2007,11,NA,11,0.87,1,0,0,0,1,0,1,0,0,1,1,1,0,0.777,1
+Amerotyphlops tasymicris,0,North America,"Saint Vincent and the Grenadines, Grenada",1,1968,2010,42,NA,42,21.3,1,0,0,0,0,0,1,0,1,1,0,0,1,0.738,4
+Amietophrynus danielae,0,Africa,Côte d'Ivoire,0,1977,NA,NA,44,44,71.56,1,0,0,0,0,0,0,1,0,0,0,0,0,0.516,1
+Amolops kaulbacki,0,Asia,Myanmar,0,1935,NA,NA,86,86,36,1,0,0,0,1,0,0,0,0,0,0,0,0,0.583,1
+Amolops mengyangensis,0,Asia,China; Lao PDR; Vietnam,0,1957,NA,NA,64,64,36,1,0,0,0,1,0,0,0,0,1,1,0,0,0.761,1
+Amphiglossus mandady,0,Africa,Madagascar,0,1999,NA,NA,22,22,4.6,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Amphiglossus spilostichus,0,Africa,Madagascar,0,1996,NA,NA,25,25,2.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Amphiglossus stylus,0,Africa,Madagascar,0,1999,NA,NA,22,22,2.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Amphisbaena absaberi,0,South America,Brazil,0,1993,NA,NA,28,28,72.4,0,1,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Amphisbaena acrobeles,0,South America,Brazil,0,2003,NA,NA,18,18,72.4,0,1,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Amphisbaena arda,0,South America,Brazil,0,2000,NA,NA,21,21,72.4,1,1,0,0,0,0,1,0,0,0,0,0,0,0.765,1
+Amphisbaena bagual,0,South America,Argentina,0,2002,NA,NA,19,19,72.4,1,1,0,1,0,0,0,0,0,0,0,0,0,0.845,1
+Amphisbaena brevis,0,South America,Brazil,0,2001,NA,NA,20,20,72.4,1,1,0,1,0,0,0,0,0,0,0,0,0,0.765,1
+Amphisbaena carlgansi,0,North America,Cuba,0,1994,2019,25,NA,25,72.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.783,1
+Amphisbaena cayemite,0,North America,Haiti,0,1971,NA,NA,50,50,72.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,1
+Amphisbaena cerradensis,0,South America,Brazil,0,2006,NA,NA,15,15,72.4,0,1,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Amphisbaena leali,0,North America,Haiti,0,1991,NA,NA,30,30,72.4,1,0,0,0,0,0,0,0,1,1,1,0,0,0.51,1
+Amphisbaena myersi,0,South America,Suriname,0,1963,NA,NA,58,58,72.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.738,1
+Amphisbaena polygrammica,0,South America,Peru,0,1900,NA,NA,121,121,72.4,0,1,0,0,0,0,0,0,0,1,0,0,0,0.777,1
+Amphisbaena rozei,0,South America,Venezuela,0,1953,NA,NA,68,68,72.4,1,0,0,0,0,0,0,0,0,1,0,0,0,0.711,2
+Amphisbaena stejnegeri,0,South America,Guyana,0,1921,NA,NA,100,100,72.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.682,1
+Amphisbaena tragorrhectes,0,South America,Brazil,0,1968,NA,NA,53,53,72.4,0,1,0,0,0,0,0,0,0,1,0,0,0,0.765,1
+Anadia altaserrania,0,South America,Colombia,0,1939,NA,NA,82,82,5.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0.767,1
+Anadia blakei,0,South America,Venezuela,0,1992,NA,NA,29,29,5.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.711,1
+Anas nesiotis,0,Oceania,New Zealand Sub Antarctic Islands,1,1886,1975,89,NA,89,465.5,1,0,0,1,1,0,0,1,1,0,0,0,0,0.931,1
+Andinobates abditus,0,South America,Ecuador,0,1974,NA,NA,47,47,0.87,1,0,0,0,0,0,0,0,1,1,1,1,1,0.759,3
+Andinobates viridis,0,South America,Colombia,0,2005,NA,NA,16,16,0.87,1,0,0,0,0,0,0,0,1,1,0,0,0,0.767,2
+Andinophryne olallai,0,South America,Ecuador,0,1970,2012,42,NA,42,39,1,0,0,0,1,0,0,0,0,1,1,0,0,0.759,3
+Anilios insperatus,0,Oceania,Australia,0,1992,NA,NA,29,29,44.7,1,0,0,0,0,0,1,0,1,1,0,0,0,0.944,3
+Anodorhynchus glaucus,0,South America,Argentina; Brazil; Paraguay; Uruguay,0,2001,NA,NA,20,20,1150.39,1,1,0,0,0,0,0,0,0,1,1,0,0,0.83,4
+Anodorhynchus leari,0,South America,Brazil,0,1856,1978,122,NA,122,940,0,1,1,0,0,0,0,0,0,1,1,0,0,0.765,4
+Anolis alfaroi,0,North America,Cuba,0,1990,2020,30,NA,30,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.783,2
+Anolis altitudinalis,0,North America,Cuba,0,1989,NA,NA,32,32,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.783,1
+Anolis birama,0,North America,Cuba,0,1980,2019,39,NA,39,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.783,1
+Anolis carlostoddi,0,South America,Venezuela,0,1984,NA,NA,37,37,9.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0.711,1
+Anolis garridoi,0,North America,Cuba,0,1991,2020,29,NA,29,9.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0.783,1
+Anolis incredulus,0,North America,Cuba,0,1963,NA,NA,58,58,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.783,2
+Anolis juangundlachi,0,North America,Cuba,0,2008,NA,NA,13,13,9.5,0,0,0,1,0,0,0,0,0,1,0,0,1,0.783,1
+Anolis laevis,0,South America,Peru,0,1850,NA,NA,171,171,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Anolis lamari,0,South America,Colombia,0,1980,NA,NA,41,41,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Anolis oporinus,0,North America,Cuba,0,1990,NA,NA,31,31,9.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.783,2
+Anolis paravertebralis,0,South America,Colombia,0,1920,NA,NA,101,101,9.5,1,0,0,0,0,0,1,0,0,0,0,0,0,0.767,1
+Anolis proboscis,0,South America,Ecuador,0,1955,2005,50,NA,50,9.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.759,1
+Anolis radulinus,0,South America,Colombia,0,1862,NA,NA,159,159,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Anolis roosevelti,0,North America,"Puerto Rico, British Virgin Islands, U.S. Virgin Islands",1,1932,NA,NA,89,89,9.5,1,0,0,0,0,0,0,0,1,1,0,0,0,0.945,4
+Anolis singularis,0,North America,Haiti,0,1962,NA,NA,59,59,2.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,3
+Anolis vicarius,0,South America,Colombia,0,1981,NA,NA,40,40,9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Anomaloglossus degranvillei,0,South America,French Guiana,0,2009,NA,NA,12,12,13.16,1,0,0,0,1,0,0,0,1,1,0,0,0,0.793,2
+Ansonia latidisca,0,Asia,Indonesia; Malaysia,0,1924,2011,87,NA,87,79.56,1,0,0,0,1,0,0,0,0,1,1,1,0,0.81,1
+Ansonia ornata,0,Asia,India,0,1890,1990,100,NA,100,79.55791,1,0,0,0,1,0,0,0,0,1,1,0,0,0.645,1
+Ansonia siamensis,0,Asia,Thailand,0,1998,NA,NA,23,23,79.56,1,0,0,0,1,0,0,0,0,1,0,0,0,0.777,1
+Aplastodiscus musicus,0,South America,Brazil,0,1949,NA,NA,72,72,3.49,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,1
+Aplonis pelzelni,0,Oceania,Micronesia,1,1995,NA,NA,26,26,74.62,1,0,0,0,0,0,1,0,1,1,1,0,0,0.614,3
+Apomys sacobianus,0,Asia,Philippines,0,1991,2011,20,NA,20,34.88,1,0,0,0,0,0,1,0,0,0,0,0,0,0.718,1
+Aproteles bulmerae,0,Oceania,Papua New Guinea,0,1970,1992,22,NA,22,623.91,1,0,0,0,0,0,1,0,0,1,1,0,0,0.555,3
+Aquiloeurycea praecellens,0,North America,Mexico,0,1940,NA,NA,81,81,1.05,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Ara glaucogularis,0,South America,Bolivia,0,1922,1992,70,NA,70,784,1,1,0,0,0,0,1,0,1,0,1,0,1,0.718,1
+Arborophila davidi,0,Asia,Cambodia; Vietnam,0,1927,1991,64,NA,64,241,1,0,1,0,0,0,1,0,0,1,1,0,0,0.704,1
+Arctocephalus philippii,0,South America,"Chile, Peru, Colombia",0,1900,1965,65,NA,65,94999.99,0,0,0,0,0,0,0,1,0,0,1,1,0,0.851,1
+Arctocephalus townsendi,0,North America,"Mexico, USA",1,1850,1954,104,NA,104,101063.71,0,0,0,0,0,0,0,1,0,1,1,1,0,0.926,1
+Aromobates alboguttatus,0,South America,Venezuela,0,1995,NA,NA,26,26,13.16,1,0,0,0,1,0,0,0,1,1,0,1,1,0.726,3
+Aromobates haydeeae,0,South America,Venezuela,0,1995,NA,NA,26,26,13.16,1,0,0,0,1,0,1,0,1,1,0,1,1,0.726,1
+Aromobates leopardalis,0,South America,Venezuela,0,1995,NA,NA,26,26,13.16,1,0,1,1,1,0,0,0,1,0,0,1,0,0.726,3
+Aromobates molinarii,0,South America,Venezuela,0,2007,NA,NA,14,14,13.16,1,0,0,0,1,0,0,0,0,1,0,0,0,0.726,1
+Aromobates nocturnus,0,South America,Venezuela,0,1991,NA,NA,30,30,13.16,1,0,0,0,1,0,0,0,1,1,0,1,0,0.726,2
+Aromobates serranus,0,South America,Venezuela,0,1985,NA,NA,36,36,13.16,1,0,0,0,1,0,0,0,1,1,0,0,0,0.726,1
+Arthroleptides dutoiti,0,Africa,Kenya; Uganda,0,1962,NA,NA,59,59,3,1,0,0,0,1,0,0,0,1,1,1,0,0,0.579,4
+Arthroleptis aureoli,0,Africa,Guinea; Sierra Leone,0,1963,2003,40,NA,40,2.69,1,0,0,0,0,0,1,0,0,1,1,0,0,0.477,1
+Arthroleptis kutogundua,0,Africa,Tanzania,0,1930,NA,NA,91,91,2.69,1,0,0,1,0,0,0,0,0,1,1,0,0,0.529,3
+Arthroleptis troglodytes,0,Africa,Zimbabwe,0,1962,2016,54,NA,54,2.69,0,0,0,1,0,0,0,0,0,1,0,0,0,0.563,2
+Arthrosaura testigensis,0,South America,Venezuela,0,1988,NA,NA,33,33,3.4,0,0,0,1,0,0,0,0,0,0,0,0,0,0.711,1
+Asaccus saffinae,0,Asia,Iraq,0,2008,NA,NA,13,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.674,1
+Asymblepharus mahabharatus,0,Asia,Nepal,0,1998,NA,NA,23,23,1.34,1,0,0,0,0,0,0,0,0,0,0,0,0,0.602,1
+Asymblepharus nepalensis,0,Asia,Nepal,0,1991,NA,NA,30,30,1.34,1,0,0,0,0,0,0,0,0,0,0,0,0,0.602,1
+Atelopus angelito,0,South America,Colombia; Ecuador,0,2000,NA,NA,21,21,6.51,1,0,1,0,1,0,0,0,1,1,0,0,0,0.761,1
+Atelopus ardila,0,South America,Colombia,0,1989,NA,NA,32,32,6.51,0,0,1,1,1,0,0,0,1,1,0,0,1,0.767,3
+Atelopus arsyecue,0,South America,Colombia,0,1991,2019,28,NA,28,15,1,0,0,1,1,0,0,0,1,1,1,1,0,0.767,1
+Atelopus arthuri,0,South America,Ecuador,0,1988,NA,NA,33,33,6.51,1,0,0,1,1,0,0,0,1,1,1,1,1,0.759,2
+Atelopus bomolochos,0,South America,Ecuador,0,1991,2002,11,NA,11,8.8,1,0,1,1,1,0,0,0,1,1,1,0,0,0.759,3
+Atelopus boulengeri,0,South America,Ecuador,0,1984,NA,NA,37,37,6.51,1,0,0,0,1,0,0,0,1,1,0,1,1,0.759,1
+Atelopus carauta,0,South America,Colombia,0,1987,NA,NA,34,34,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,1
+Atelopus carbonerensis,0,South America,Venezuela,0,1998,NA,NA,23,23,6.51,1,0,0,0,1,0,0,0,1,1,1,0,1,0.726,3
+Atelopus carrikeri,0,South America,Colombia,0,1994,2008,14,NA,14,8.8,1,0,0,1,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus chirripoensis,0,North America,Costa Rica,0,1980,NA,NA,41,41,6.51,0,0,1,1,1,0,0,0,0,0,0,0,0,0.794,3
+Atelopus chocoensis,0,South America,Colombia,0,1998,NA,NA,23,23,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,2
+Atelopus coynei,0,South America,Ecuador,0,1984,2012,28,NA,28,6.51,1,0,0,0,1,0,0,0,1,1,1,0,0,0.759,1
+Atelopus cruciger,0,South America,Venezuela,0,1982,2003,21,NA,21,8.8,1,0,0,0,1,0,0,0,1,1,0,0,1,0.711,1
+Atelopus dimorphus,0,South America,Peru,0,1980,NA,NA,41,41,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,1
+Atelopus ebenoides,0,South America,Colombia,0,2005,NA,NA,16,16,6.51,1,0,0,1,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus erythropus,0,South America,Bolivia; Peru,0,2004,NA,NA,17,17,6.51,1,0,0,0,1,0,0,0,1,0,0,0,0,0.777,3
+Atelopus eusebianus,0,South America,Colombia,0,2004,NA,NA,17,17,6.51,0,0,0,1,1,0,0,0,1,1,0,1,0,0.767,3
+Atelopus eusebiodiazi,0,South America,Peru,0,1997,NA,NA,24,24,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,2
+Atelopus famelicus,0,South America,Colombia,0,2005,NA,NA,16,16,6.51,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus farci,0,South America,Colombia,0,2003,NA,NA,18,18,6.51,1,0,0,0,1,0,0,0,1,1,1,1,0,0.767,3
+Atelopus galactogaster,0,South America,Colombia,0,1995,NA,NA,26,26,6.51,1,0,0,0,1,0,0,0,1,0,0,0,0,0.767,1
+Atelopus gigas ,0,South America,Colombia,0,1970,NA,NA,51,51,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,3
+Atelopus guanujo,0,South America,Ecuador,0,1988,NA,NA,33,33,6.51,1,0,0,0,1,0,0,0,1,1,1,0,0,0.759,2
+Atelopus guitarraensis,0,South America,Colombia,0,1990,NA,NA,31,31,6.51,0,0,0,1,1,0,0,0,1,0,0,0,0,0.767,1
+Atelopus halihelos,0,South America,Ecuador,0,1984,NA,NA,37,37,6.51,1,0,0,0,1,0,0,0,1,1,1,0,0,0.759,2
+Atelopus ignescens,0,South America,Ecuador,0,1988,2016,28,NA,28,15,1,0,1,1,1,0,0,0,1,1,0,0,1,0.759,3
+Atelopus laetissimus,0,South America,Colombia,0,1992,2006,14,NA,14,9.18,1,0,0,0,1,0,0,0,1,1,1,1,0,0.767,1
+Atelopus longibrachius,0,South America,Colombia,0,1990,NA,NA,31,31,6.51,1,0,0,0,1,0,0,0,1,1,1,1,0,0.767,1
+Atelopus lynchi,0,South America,Ecuador,0,1984,NA,NA,37,37,6.51,1,0,0,0,1,0,0,0,1,1,1,1,0,0.759,2
+Atelopus mandingues,0,South America,Colombia,0,1992,NA,NA,29,29,6.51,1,0,0,1,1,0,0,0,1,0,0,0,0,0.767,1
+Atelopus mindoensis,0,South America,Ecuador,0,1973,2019,46,NA,46,15,1,0,0,0,1,0,0,0,1,1,1,0,0,0.759,2
+Atelopus minutulus,0,South America,Colombia,0,1985,NA,NA,36,36,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,3
+Atelopus monohernandezii ,0,South America,Colombia,0,1982,NA,NA,39,39,6.51,1,0,0,0,1,0,0,0,1,0,0,0,0,0.767,2
+Atelopus mucubajiensis,0,South America,Venezuela,0,2004,NA,NA,17,17,6.51,1,0,0,1,1,0,0,0,1,1,1,1,1,0.726,4
+Atelopus muisca,0,South America,Colombia,0,2008,NA,NA,13,13,6.51,1,0,0,1,1,0,0,0,1,1,0,0,0,0.767,1
+Atelopus nahumae,0,South America,Colombia,0,1992,2006,14,NA,14,8.8,1,0,0,0,1,0,0,0,0,1,1,1,0,0.767,1
+Atelopus nicefori,0,South America,Colombia,0,1988,NA,NA,33,33,6.51,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,2
+Atelopus onorei,0,South America,Ecuador,0,1990,NA,NA,31,31,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.759,3
+Atelopus orcesi ,0,South America,Ecuador,0,1998,NA,NA,23,23,6.51,1,0,0,0,1,0,0,0,1,1,0,1,0,0.759,4
+Atelopus oxyrhynchus,0,South America,Venezuela,0,1994,NA,NA,27,27,6.51,1,0,0,0,1,0,0,0,1,1,1,1,1,0.726,3
+Atelopus pachydermus,0,South America,Ecuador; Peru,0,1995,NA,NA,26,26,6.51,1,0,1,1,1,0,0,0,1,1,0,0,0,0.777,3
+Atelopus palmatus,0,South America,Ecuador,0,2008,NA,NA,13,13,6.51,1,0,0,0,1,0,0,0,1,1,1,0,0,0.759,1
+Atelopus pastuso,0,South America,Colombia; Ecuador,0,1993,NA,NA,28,28,6.51,0,0,1,1,1,0,0,0,1,1,0,0,1,0.761,2
+Atelopus pedimarmoratus ,0,South America,Colombia,0,1963,NA,NA,58,58,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,2
+Atelopus peruensis,0,South America,Peru,0,1998,NA,NA,23,23,6.51,0,0,0,1,1,0,0,0,1,0,1,1,0,0.777,2
+Atelopus petersi,0,South America,Ecuador,0,1996,NA,NA,25,25,6.51,1,0,0,0,1,0,0,0,1,0,0,0,1,0.759,2
+Atelopus petriruizi,0,South America,Colombia,0,1998,NA,NA,23,23,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,1
+Atelopus pictiventris ,0,South America,Colombia,0,1996,NA,NA,25,25,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,1
+Atelopus pinangoi,0,South America,Venezuela,0,1997,NA,NA,24,24,6.51,1,0,0,0,1,0,0,0,1,1,1,1,1,0.726,3
+Atelopus planispina,0,South America,Ecuador,0,1985,NA,NA,36,36,6.51,1,0,0,0,1,0,0,0,1,1,1,1,0,0.759,2
+Atelopus podocarpus,0,South America,Ecuador; Peru,0,1994,NA,NA,27,27,6.51,0,0,1,1,1,0,0,0,1,1,0,0,0,0.777,3
+Atelopus pyrodactylus,0,South America,Peru,0,2006,NA,NA,15,15,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,1
+Atelopus quimbaya ,0,South America,Colombia,0,1997,NA,NA,24,24,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,2
+Atelopus reticulatus,0,South America,Peru,0,1992,NA,NA,29,29,6.51,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,1
+Atelopus sanjosei,0,South America,Colombia,0,1993,NA,NA,28,28,6.51,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus seminiferus,0,South America,Peru,0,1874,2001,127,NA,127,8.8,1,0,0,0,1,0,1,0,0,1,0,1,0,0.777,1
+Atelopus sernai,0,South America,Colombia,0,2001,NA,NA,20,20,6.51,1,0,0,1,1,0,0,0,1,1,0,1,0,0.767,3
+Atelopus simulatus,0,South America,Colombia,0,2003,NA,NA,18,18,6.51,1,0,1,0,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus siranus ,0,South America,Peru,0,1988,NA,NA,33,33,6.51,1,0,0,0,1,0,0,0,0,1,0,0,1,0.777,4
+Atelopus sonsonensis,0,South America,Colombia,0,1996,NA,NA,25,25,6.51,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,1
+Atelopus sorianoi,0,South America,Venezuela,0,1990,NA,NA,31,31,6.51,1,0,0,0,1,0,0,0,1,0,1,0,1,0.726,1
+Atelopus subornatus ,0,South America,Colombia,0,1993,NA,NA,28,28,6.51,1,0,0,0,1,0,1,0,1,1,1,1,0,0.767,2
+Atelopus tamaense ,0,South America,Venezuela,0,1987,NA,NA,34,34,6.51,0,0,1,1,1,0,0,0,1,1,0,0,0,0.726,4
+Atelopus zeteki,0,South America,Panama,0,2009,NA,NA,12,12,15,1,0,0,0,1,0,0,0,1,1,1,1,0,0.795,4
+Athene blewitti,0,Asia,India,0,1884,1997,113,NA,113,241,1,0,0,0,0,0,0,0,1,1,1,1,0,0.645,3
+Atlapetes blancae,0,South America,Colombia,0,1971,2018,47,NA,47,27.1,1,0,1,0,0,0,0,0,1,1,0,0,0,0.767,4
+Atlapetes pallidiceps,0,South America,Ecuador,0,1969,1998,29,NA,29,30,0,0,1,0,0,0,1,0,1,1,0,0,1,0.759,3
+Atlapetes terborghi,0,South America,Peru,0,1968,NA,NA,53,53,30,1,0,0,0,0,0,0,0,0,1,0,0,0,0.777,1
+Atopophrynus syntomopus,0,South America,Colombia,0,1980,NA,NA,41,41,4,1,0,0,0,1,0,0,0,0,1,0,0,0,0.767,3
+Atractus andinus,0,South America,Colombia,0,1943,NA,NA,78,78,41.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Atractus boulengerii,0,South America,Colombia,0,1896,2009,113,NA,113,41.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Atractus microrhynchus,0,South America,"Ecuador, Peru",0,1868,2012,144,NA,144,26,1,0,0,0,0,0,0,0,0,1,0,0,0,0.777,1
+Atractus peruvianus,0,South America,Peru,0,1862,NA,NA,159,159,41.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Atrichornis clamosus,0,Oceania,Australia,0,1889,1961,72,NA,72,41.525,1,0,1,0,1,0,0,0,1,1,0,0,1,0.944,4
+Austrochaperina brevipes,0,Oceania,Papua New Guinea,0,1896,1986,90,NA,90,1.52,1,0,0,0,0,0,0,0,1,0,0,0,0,0.555,1
+Austrochaperina yelaensis,0,Oceania,Papua New Guinea,1,1960,2004,44,NA,44,1.52,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Aythya innotata,0,Africa,Madagascar,0,1991,2006,15,NA,15,685,0,0,0,0,1,0,0,0,1,1,1,1,0,0.528,3
+Bachia micromela,0,South America,Brazil,0,2001,NA,NA,20,20,1.2,1,1,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Bachia psamophila,0,South America,Brazil,0,2002,NA,NA,19,19,1.2,1,1,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Bachia remota,0,South America,Brazil,0,2005,NA,NA,16,16,1.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Baikia africana,0,Africa,Nigeria,0,1963,NA,NA,58,58,72.4,0,1,0,0,0,0,1,0,0,0,0,0,0,0.539,1
+Balantiopteryx infusca,0,South America,"Colombia, Ecuador",0,1891,1991,100,NA,100,9.05,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Bangsia aureocincta,0,South America,Colombia,0,1946,1992,46,NA,46,42.075,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Bangsia melanochlamys,0,South America,Colombia,0,1948,1999,51,NA,51,37.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Barbourula busuangensis,0,Asia,Philippines,1,1923,1940,17,NA,17,59,1,0,0,0,1,0,0,0,0,1,1,1,0,0.718,1
+Barbourula kalimantanensis,0,Asia,Indonesia,0,1995,2007,12,NA,12,6.5,1,0,0,0,1,0,0,0,0,1,1,1,1,0.718,1
+Barkudia insularis,0,Asia,India,0,1917,2003,86,NA,86,34.4,1,0,1,0,0,0,0,0,0,1,1,0,0,0.645,1
+Biswamoyopterus biswasi,0,Asia,India,0,1981,NA,NA,40,40,1585,1,0,0,0,0,0,0,0,0,1,1,0,1,0.647,3
+Boana secedens,0,South America,Brazil,0,1963,NA,NA,58,58,38.36,1,0,0,0,1,0,0,0,0,0,0,0,0,0.765,1
+Bokermannohyla clepsydra,0,South America,Brazil,0,1925,NA,NA,96,96,7.8,1,0,0,0,1,0,0,0,0,0,0,0,0,0.765,1
+Bokermannohyla izecksohni,0,South America,Brazil,0,2008,NA,NA,13,13,7.8,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,1
+Bokermannohyla langei,0,South America,Brazil,0,1965,NA,NA,56,56,7.8,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,3
+Bolitoglossa capitana,0,South America,Colombia,0,2004,NA,NA,17,17,18.12,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Bolitoglossa nussbaumi,0,North America,Guatemala,0,1998,NA,NA,23,23,18.12,1,0,0,0,0,0,0,0,0,1,1,0,1,0.651,3
+Boophis williamsi,0,Africa,Madagascar,0,1979,2001,22,NA,22,16.5,1,0,0,1,1,0,0,0,1,1,0,1,0,0.528,1
+Bos sauveli,0,Asia,Cambodia; Lao PDR; Thailand; Vietnam,0,1969.5,NA,NA,51.5,51.5,795660.88,1,1,0,1,0,0,0,0,1,1,1,0,0,0.765,4
+Bostrychia bocagei,0,Africa,Sao Tome and Principe,1,1920,1990,70,NA,70,1245.25,1,0,0,0,1,0,0,0,1,1,1,0,0,0.625,3
+Brachycephalus nodoterga,0,South America,Brazil,0,1920,NA,NA,101,101,12,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Brachymeles dalawangdaliri,0,Asia,Philippines,1,1972,NA,NA,49,49,25.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachymeles elerae,0,Asia,Philippines,0,1920,2010,90,NA,90,7.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachymeles isangdaliri,0,Asia,Philippines,0,2009,NA,NA,12,12,25.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachymeles ligtas,0,Asia,Philippines,1,2009,NA,NA,12,12,25.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachymeles lukbani,0,Asia,Philippines,0,2008,NA,NA,13,13,25.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachymeles vermis,0,Asia,Philippines,1,1980,NA,NA,41,41,25.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Brachymeles wrighti,0,Asia,Philippines,0,1925,NA,NA,96,96,25.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Brachytarsomys villosa,0,Africa,Madagascar,0,1962,1999,37,NA,37,209.995,1,0,0,0,0,0,0,0,1,1,1,0,0,0.528,1
+Bradypterus seebohmi,0,Asia,Philippines,0,1894,2004,110,NA,110,17.7,0,0,0,1,0,0,0,0,0,1,1,0,0,0.718,2
+Bradytriton silus,0,North America,Guatemala; Mexico,0,1976,2009,33,NA,33,18.12,1,0,0,0,0,0,0,0,0,1,1,1,1,0.779,3
+Bronchocela orlovi,0,Asia,Vietnam,0,1993,NA,NA,28,28,30.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Brookesia lambertoni,0,Africa,Madagascar,0,1921,NA,NA,100,100,2.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Bufoides kempi,0,Asia,India,0,2002,NA,NA,19,19,0.87,1,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Bunolagus monticularis,0,Africa,South Africa,0,1902,1929,27,NA,27,1500.005,0,0,1,0,0,0,0,0,1,1,1,0,0,0.709,1
+Cabalus lafresnayanus,1,Oceania,New Caledonia,1,1890,NA,NA,131,131,341.89,1,0,0,0,0,0,0,0,1,0,0,0,0,0.8,4
+Cabalus lafresnayanus,0,Oceania,New Caledonia,1,1890,NA,NA,131,131,341.89,1,0,0,0,0,0,0,0,1,0,0,0,0,0.8,4
+Cacicus koepckeae,0,South America,Brazil; Peru,0,1965,1998,33,NA,33,64.375,1,0,0,0,0,0,0,0,0,1,0,0,0,0.777,2
+Caiman crocodilus apaporiensis,0,South America,Colombia,0,1952,2018,66,NA,66,10900,1,1,1,1,1,0,0,0,0,1,1,0,0,0.767,1
+Calcochloris tytonis,0,Africa,Somalia,0,1964,NA,NA,57,57,24.05,0,1,0,0,0,0,0,0,0,0,0,0,0,0.364,1
+Caledoniscincus cryptos,0,Oceania,New Caledonia,1,1990,NA,NA,31,31,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Caledoniscincus terma,0,Oceania,New Caledonia,1,1995,NA,NA,26,26,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0.813,1
+Callaeas cinereus,0,Oceania,South Island (New Zealand),0,2007,NA,NA,14,14,225.5,1,0,1,0,0,0,0,0,1,1,1,0,0,0.921,4
+Callixalus pictus,0,Africa,The Democratic Republic of Congo,0,1950,NA,NA,71,71,1.42,1,0,0,0,1,0,0,0,0,1,1,0,0,0.48,1
+Calluella volzi,0,Asia,Indonesia,0,1905,1999,94,NA,94,24.86,1,0,0,0,1,0,0,0,0,1,1,0,0,0.718,1
+Calotes bhutanensis,0,Asia,Bhutan,0,1967,NA,NA,54,54,21.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.654,3
+Calyptura cristata,0,South America,Brazil,0,1996,NA,NA,25,25,17.66,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,3
+Campephilus imperialis,0,North America,Mexico,0,1956,NA,NA,65,65,497.75,1,0,0,0,0,0,0,0,0,0,1,0,0,0.767,4
+Campephilus principalis,0,North America,Cuba; USA,0,1944,NA,NA,77,77,497.75,1,0,0,0,0,0,0,0,0,1,1,0,0,0.926,4
+Campylopterus phainopeplus,0,South America,Colombia,0,2010,NA,NA,11,11,7.5,1,0,0,1,0,0,1,0,0,1,0,1,0,0.767,3
+Caprimulgus noctitherus,0,North America,Puerto Rico,1,1911,1961,50,NA,50,62.06,1,0,1,0,0,0,1,0,1,1,0,0,0,0.845,3
+Caprimulgus prigoginei,0,Africa,The Democratic Republic of Congo,0,1955,NA,NA,66,66,62,1,0,0,0,0,0,0,0,0,0,0,0,0,0.48,3
+Caprimulgus solala,0,Africa,Ethiopia,0,1989,2009,20,NA,20,62.06,0,0,0,1,0,0,0,0,0,1,1,0,0,0.485,2
+Caprolagus hispidus,0,Asia,Bhutan; India; Nepal,0,1845,1971,126,NA,126,2498.495,0,0,0,1,1,0,0,0,1,1,1,0,1,0.654,1
+Cardioglossa cyaneospila,0,Africa,Burundi; The Democratic Republic of Congo; Rwanda,0,1949,2011,62,NA,62,3.7,1,0,0,0,1,0,0,0,0,1,1,0,0,0.543,1
+Carlia sukur,0,Asia,Indonesia,1,1908,NA,NA,113,113,2.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Carpococcyx viridis,0,Asia,Indonesia,0,1916,1997,81,NA,81,497.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Carpomys melanurus,0,Asia,Philippines,0,1896,2008,112,NA,112,229.57,1,0,0,0,0,0,0,0,0,1,0,0,0,0.718,1
+Cebus flavius,0,South America,Brazil,0,1774,2006,232,NA,232,2617.02,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Celatiscincus euryotis,0,Oceania,New Caledonia,1,1992,NA,NA,29,29,1.3,1,0,0,0,0,0,0,0,1,1,1,0,0,0.813,1
+Celestus adercus,0,North America,Panama,0,2009,NA,NA,12,12,41,1,0,0,0,0,0,0,0,0,0,0,0,0,0.815,1
+Celestus anelpistus,0,North America,Dominican Republic,0,1977,NA,NA,44,44,449.6,1,0,0,0,0,0,0,0,1,1,0,0,0,0.756,2
+Celestus duquesneyi,0,North America,Jamaica,1,1935,1997,62,NA,62,41,1,0,0,0,0,0,0,0,1,1,1,0,0,0.734,4
+Celestus fowleri,0,North America,Jamaica,1,1970,NA,NA,51,51,19.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.734,4
+Celestus ingridae,1,North America,Mexico,0,2001,NA,NA,20,20,54.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Celestus microblepharis,0,North America,Jamaica,1,1952,NA,NA,69,69,41,0,0,1,0,0,0,1,0,1,1,0,0,0,0.734,4
+Celestus occiduus,0,North America,Jamaica,1,1840,NA,NA,181,181,449.6,1,0,0,0,1,0,0,0,1,1,1,0,0,0.734,4
+Celeus obrieni,0,South America,Brazil,0,1926,2006,80,NA,80,113.5,0,1,1,0,0,0,0,0,0,1,1,0,0,0.765,3
+Centrolene geckoideum,0,South America,Colombia; Ecuador,0,1997,NA,NA,24,24,68,1,0,0,0,1,0,0,0,1,1,1,1,0,0.761,1
+Centrolene pipilatum,0,South America,Ecuador,0,1977,NA,NA,44,44,17,1,0,0,0,1,0,0,0,1,1,0,0,0,0.759,1
+Cercopithecus sclateri,0,Africa,Nigeria,0,1902.5,1988,85.5,NA,85.5,3304.99,1,0,0,0,0,0,1,0,0,1,1,1,0,0.539,3
+Cercosaura steyeri,0,South America,Argentina,0,1994,NA,NA,27,27,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0.845,1
+Chacodelphys formosa,0,South America,Argentina,0,1920,2004,84,NA,84,22.88,0,0,1,0,0,0,0,0,0,1,1,0,0,0.83,1
+Chalcides ebneri,0,Africa,Morocco,0,1970,NA,NA,51,51,28.2,0,0,1,0,0,0,1,0,0,1,0,0,0,0.686,1
+Chalcides pentadactylus,0,Asia,India,0,1870,NA,NA,151,151,28.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0.645,1
+Chamaeleon monoceras,1,Africa,Madagascar,0,1905,NA,NA,116,116,71.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Charmosyna amabilis,0,Oceania,Fiji,1,2002,NA,NA,19,19,47.74,1,0,0,0,0,0,0,0,1,1,1,0,0,0.724,4
+Charmosyna diadema,0,Oceania,New Caledonia,1,1913,NA,NA,108,108,47.74,1,0,1,0,0,0,0,0,1,1,0,0,0,0.8,3
+Charmosyna toxopei,0,Asia,Indonesia,1,1981,2014,33,NA,33,47.74,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Cheirogaleus sibreei,0,Africa,Madagascar,0,1894,2001,107,NA,107,420.11,1,0,0,0,0,0,0,0,0,1,0,0,0,0.528,1
+Chelodina kuchlingi,0,Oceania,Australia,0,1997,NA,NA,24,24,1614,0,0,0,0,1,0,0,0,0,0,0,0,0,0.944,4
+Chelonoidis phantasticus,0,South America,Ecuador,1,1964,2019,55,NA,55,140518.1,0,0,1,0,0,0,0,0,0,1,0,0,0,0.759,4
+Chiasmocleis sapiranga,0,South America,Brazil,0,2005,NA,NA,16,16,2.02,0,0,1,0,0,0,0,0,0,0,0,0,0,0.765,1
+Chinchilla lanigera,0,South America,Chile,0,1955,1978,23,NA,23,485,0,0,1,0,0,0,0,0,0,1,1,0,0,0.851,2
+Chirindia mpwapwaensis,0,Africa,Tanzania,0,1929,NA,NA,92,92,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.529,1
+Chiromantis simus,0,Asia,Bangladesh; India,0,1911,1999,88,NA,88,13.4,1,0,1,0,1,0,0,0,0,0,0,0,0,0.645,1
+Chiropterotriton casasi,0,North America,Mexico,0,1969,NA,NA,52,52,18.12,1,0,0,0,0,0,0,0,1,1,1,0,0,0.767,1
+Chodsigoa sodalis,0,Asia,Taiwan,0,1913,1997,84,NA,84,13.06,1,0,0,0,0,0,0,0,0,0,1,0,0,0.916,1
+Chrysochloris visagiei,2,Africa,South Africa,0,1950,NA,NA,71,71,36.72,0,0,1,0,0,0,0,0,0,1,0,0,0,0.709,3
+Cisticola melanurus,0,Africa,Angola; The Democratic Republic of Congo,0,1972,2005,33,NA,33,8.75,0,1,0,0,0,0,0,0,0,1,1,0,0,0.581,1
+Clytoctantes alixii,0,South America,Colombia; Venezuela,0,1965,2004,39,NA,39,31,1,0,0,0,0,0,1,0,0,1,1,0,0,0.767,2
+Clytoctantes atrogularis,0,South America,Brazil,0,1986,2004,18,NA,18,31,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Clytorhynchus sanctaecrucis,0,Oceania,Solomon Islands,1,1927,2004,77,NA,77,29.725,1,0,0,0,0,0,0,0,1,1,1,0,0,0.567,1
+Cnemaspis amith,0,Asia,Sri Lanka,0,1850,NA,NA,171,171,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.782,3
+Cnemaspis andersonii,0,Asia,India,1,1905,NA,NA,116,116,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.645,1
+Cnemaspis bayuensis,0,Asia,Malaysia,0,2008,NA,NA,13,13,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Cnemaspis dezwaani,0,Asia,Indonesia,1,2009,NA,NA,12,12,0.86,1,0,0,0,0,0,1,0,0,0,0,0,0,0.718,1
+Cnemaspis jacobsoni,0,Asia,Indonesia,1,1913,NA,NA,108,108,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cnemaspis laoensis,0,Asia,Lao PDR,0,1998,NA,NA,23,23,0.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0.613,1
+Cnemaspis latha,0,Asia,Sri Lanka,0,2006,NA,NA,15,15,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.782,2
+Cnemaspis menikay,0,Asia,Sri Lanka,0,2006,NA,NA,15,15,0.86,1,0,0,0,0,0,1,0,0,0,0,0,0,0.782,1
+Cnemaspis minang,0,Asia,Indonesia,0,2007,NA,NA,14,14,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cnemaspis monticola,0,Asia,India,0,1850,NA,NA,171,171,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.645,1
+Cnemaspis pagai,0,Asia,Indonesia,1,2009,NA,NA,12,12,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cnemaspis punctata,0,Asia,Sri Lanka,0,2007,NA,NA,14,14,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.782,1
+Cnemaspis rajabasa,0,Asia,Indonesia,0,1996,NA,NA,25,25,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cnemaspis sundagekko,0,Asia,Indonesia,1,1925,NA,NA,96,96,0.86,0,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cnemaspis tapanuli,0,Asia,Indonesia,0,1975,NA,NA,46,46,0.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Coeligena orina,0,South America,Colombia,0,1951,2004,53,NA,53,6.6,1,0,1,0,0,0,0,0,0,1,1,0,1,0.767,1
+Columba argentina,0,Asia,Indonesia; Malaysia,0,1931,2008,77,NA,77,328.7,1,0,0,0,0,0,1,0,1,1,1,0,0,0.81,2
+Columbina cyanopis,0,South America,Brazil,0,1941,2015,74,NA,74,46,0,1,0,1,0,0,0,0,1,1,0,0,0,0.765,3
+Complicitus nigrigularis,0,Asia,Indonesia,0,2004,NA,NA,17,17,8.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Conothraupis mesoleuca,0,South America,Brazil,0,1938,2003,65,NA,65,25.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.765,1
+Conraua derooi,0,Africa,Ghana; Togo,0,1980,2005,25,NA,25,67,1,0,0,0,1,0,0,0,0,1,1,1,0,0.611,3
+Contomastix vittata,0,South America,Bolivia,0,1900,2014,114,NA,114,6.9,1,0,0,0,0,0,1,0,0,1,1,0,0,0.718,1
+Copeoglossum margaritae,0,South America,Venezuela,1,1967,NA,NA,54,54,16.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.711,1
+Copsychus cebuensis,0,Asia,Philippines,1,1965,1981,16,NA,16,28.57,1,0,1,0,0,0,1,0,0,1,1,0,0,0.718,1
+Correlophus belepensis,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,48.2,1,0,0,0,0,0,0,0,1,1,1,0,0,0.813,1
+Correlophus ciliatus,0,Oceania,New Caledonia,1,1883,1994,111,NA,111,48.2,1,0,0,0,0,0,0,0,1,1,1,0,0,0.813,1
+Corvus unicolor,0,Asia,Indonesia,1,1900,2007,107,NA,107,253.5,1,0,0,0,0,0,0,0,1,1,1,0,0,0.718,3
+Crateromys australis,0,Asia,Philippines,1,1975,2012,37,NA,37,517.32,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,2
+Crateromys paulus,0,Asia,Philippines,1,1953,NA,NA,68,68,451.51,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Craugastor adamastus,0,North America,Guatemala,0,1985,NA,NA,36,36,55.33,1,0,0,0,1,0,0,0,1,1,1,1,0,0.651,1
+Craugastor andi,0,North America,Costa Rica,0,1985,NA,NA,36,36,55.33,1,0,0,0,1,0,0,0,1,0,0,0,1,0.794,4
+Craugastor catalinae,0,North America,Costa Rica; Panama,0,1990,NA,NA,31,31,55.33,1,0,0,0,1,0,0,0,1,1,1,0,0,0.794,3
+Craugastor chrysozetetes,0,North America,Honduras,0,1994,NA,NA,27,27,55.33,1,0,0,0,1,0,0,0,0,1,1,1,1,0.623,3
+Craugastor cruzi,0,North America,Honduras,0,1988,NA,NA,33,33,55.33,1,0,0,0,1,0,0,0,1,1,1,0,1,0.623,4
+Craugastor epochthidius,0,North America,Honduras,0,1999,NA,NA,22,22,55.33,1,0,0,0,1,0,0,0,1,1,1,1,1,0.623,2
+Craugastor fecundus,0,North America,Honduras,0,1989,NA,NA,32,32,55.33,1,0,0,0,1,0,0,0,1,1,1,0,1,0.623,3
+Craugastor fleischmanni,0,North America,Costa Rica,0,2010,NA,NA,11,11,55.33,1,0,0,0,1,0,0,0,1,0,0,0,1,0.794,3
+Craugastor gulosus,0,North America,Costa Rica; Panama,0,2006,NA,NA,15,15,55.33,1,0,0,0,1,0,0,0,1,1,1,0,1,0.794,3
+Craugastor merendonensis,0,North America,Honduras,0,1975,NA,NA,46,46,55.33,1,0,0,0,1,0,0,0,1,1,0,0,0,0.623,3
+Craugastor milesi,0,North America,Honduras,0,1992,2009,17,NA,17,55.33,1,0,0,0,1,0,0,0,1,1,1,1,1,0.634,3
+Craugastor obesus,0,North America,Costa Rica; Panama,0,1984,NA,NA,37,37,55.33,1,0,0,0,1,0,0,0,1,0,0,0,1,0.794,2
+Craugastor olanchano,0,North America,Honduras,0,2001,NA,NA,20,20,55.33,1,0,0,0,0,0,0,0,1,1,0,0,1,0.623,3
+Craugastor phasma,0,North America,Costa Rica,0,1992,NA,NA,29,29,42.48,1,0,0,0,1,0,0,0,1,0,0,1,0,0.794,3
+Craugastor punctariolus,0,North America,Panama,0,2010,NA,NA,11,11,55.33,1,0,0,0,1,0,0,0,1,1,1,1,0,0.777,1
+Craugastor rhyacobatrachus,0,North America,Costa Rica; Panama,0,1982,NA,NA,39,39,55.33,1,0,0,0,1,0,0,0,1,1,1,0,1,0.794,1
+Craugastor saltuarius,0,North America,Honduras,0,1992.5,NA,NA,28.5,28.5,55.33,1,0,0,0,0,0,0,0,1,1,1,0,1,0.623,3
+Craugastor trachydermus,0,North America,Guatemala,0,1989,NA,NA,32,32,55.33,1,0,0,0,1,0,0,0,1,1,1,0,0,0.651,2
+Crithagra flavigula,0,Africa,Ethiopia,0,1886,1989,103,NA,103,17.09,0,0,1,1,0,1,0,0,0,1,0,0,0,0.485,1
+Crocias langbianis,0,Asia,Vietnam,0,1938,1994,56,NA,56,50,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,2
+Crocidura andamanensis,0,Asia,India,1,1902,1999,97,NA,97,12.63,1,0,0,0,0,0,0,0,0,1,0,0,1,0.645,1
+Crocidura dhofarensis,0,Asia,"Oman, Yemen",0,1977,2005,28,NA,28,11.5,0,0,0,0,0,0,1,0,0,0,0,0,0,0.813,1
+Crocidura jenkinsi,0,Asia,India,1,1978,1999,21,NA,21,31.03,1,0,0,0,0,0,0,0,0,1,1,0,1,0.645,1
+Crocidura macmillani,0,Africa,Ethiopia,0,1915,2002,87,NA,87,12.8,1,1,0,0,0,0,0,0,0,1,1,0,0,0.485,1
+Crocidura picea,0,Africa,Cameroon,0,1940,1999,59,NA,59,12.63,1,0,0,1,0,0,0,0,0,1,1,0,0,0.563,1
+Crocidura trichura,0,Oceania,Christmas Island,1,1985,NA,NA,36,36,5.25,1,0,0,0,0,0,0,0,1,1,0,0,0,0.944,3
+Crocidura wimmeri,0,Africa,Côte d'Ivoire,0,1982,2012,30,NA,30,23.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.538,2
+Crossodactylodes pintoi,0,South America,Brazil,0,1938,NA,NA,83,83,131.79,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Crossodactylus grandis,0,South America,Brazil,0,1965,NA,NA,56,56,3.55,0,0,0,1,1,0,0,0,0,1,0,0,1,0.765,1
+Cryptoblepharus ahli,0,Africa,Mozambique,1,1848,NA,NA,173,173,1.7,0,0,0,0,0,0,0,1,0,0,0,0,0,0.456,1
+Cryptoblepharus wulbu,0,Oceania,Australia,0,2000,NA,NA,21,21,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.944,1
+Cryptochloris wintoni,0,Africa,South Africa,0,1937,NA,NA,84,84,22.88,0,0,1,0,0,0,1,0,0,1,0,0,0,0.709,3
+Cryptochloris zyli,0,Africa,South Africa,0,2003,NA,NA,18,18,21.095,0,0,1,0,0,0,0,0,0,1,0,0,0,0.709,1
+Cryptotis endersi,0,North America,Panama,0,1941,1980,39,NA,39,8.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.815,1
+Cryptotis nelsoni,0,North America,Mexico,0,1900,2009,109,NA,109,7,1,0,0,1,0,0,0,0,0,1,1,0,0,0.779,1
+Ctenotus aphrodite,0,Oceania,Australia,0,1983,NA,NA,38,38,5.3,1,1,0,1,0,0,0,0,0,0,0,0,0,0.944,1
+Ctenotus serotinus,0,Oceania,Australia,0,1982.5,NA,NA,38.5,38.5,5.3,0,0,0,0,0,1,0,0,1,1,0,0,0,0.944,3
+Ctenotus zastictus,0,Oceania,Australia,0,1986,NA,NA,35,35,5.3,0,0,0,1,0,0,0,0,1,1,0,0,0,0.944,1
+Cuora yunnanensis,0,Asia,China,0,1925,2004,79,NA,79,574.4,0,0,0,0,1,0,0,0,0,0,1,0,0,0.761,4
+Cuora zhoui,0,Asia,China,0,2009,NA,NA,12,12,574.4,0,0,0,0,1,0,0,0,0,0,1,0,0,0.761,1
+Cuscomys oblativa,0,South America,Peru,0,1500,2009,509,NA,509,221.82,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,3
+Cycloramphus asper,0,South America,Brazil,0,1977.5,NA,NA,43.5,43.5,10.1,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,1
+Cycloramphus bolitoglossus,0,South America,Brazil,0,2003,NA,NA,18,18,10.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Cycloramphus brasiliensis,0,South America,Brazil,0,1864,NA,NA,157,157,10.1,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,1
+Cycloramphus diringshofeni,0,South America,Brazil,0,1957,NA,NA,64,64,10.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Cycloramphus granulosus,0,South America,Brazil,0,1929,NA,NA,92,92,10.1,1,0,0,0,1,0,0,0,1,0,0,0,0,0.765,1
+Cycloramphus ohausi,0,South America,Brazil,0,1907,NA,NA,114,114,10.1,1,0,0,0,1,0,0,0,1,0,0,0,0,0.765,1
+Cycloramphus valae,0,South America,Brazil,0,1982,NA,NA,39,39,10.1,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,1
+Cyclura collei,0,North America,Jamaica,1,1945,1970,25,NA,25,5069.7,1,0,0,0,0,0,0,0,1,1,0,0,0,0.734,1
+Cynisca degrysi,0,Africa,Sierra Leone,0,1888,NA,NA,133,133,0.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0.452,1
+Cynisca gansi,0,Africa,Nigeria,0,1965,NA,NA,56,56,0.7,1,0,0,0,0,0,0,0,0,1,0,1,0,0.539,4
+Cynisca haugi,0,Africa,Gabon,0,1901,NA,NA,120,120,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.703,1
+Cynisca kigomensis,0,Africa,Nigeria,0,1967,NA,NA,54,54,0.7,0,1,0,0,0,0,0,0,0,1,0,0,0,0.539,2
+Cynisca nigeriensis,0,Africa,Nigeria,0,1966,NA,NA,55,55,0.7,0,1,0,0,0,0,0,0,0,0,0,0,0,0.539,1
+Cynisca schaeferi,0,Africa,Cameroon,0,1911,NA,NA,110,110,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.563,1
+Cynisca williamsi,0,Africa,Ghana,0,1963,NA,NA,58,58,0.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0.611,1
+Cynops wolterstorffi,0,Asia,China,0,1979,NA,NA,42,42,6.7,0,0,0,0,1,0,0,0,1,1,1,1,0,0.761,1
+Cyornis ruckii,0,Asia,Indonesia,0,1918,NA,NA,103,103,16.91,1,0,0,0,0,0,0,0,0,1,1,0,0,0.707,2
+Cyrtodactylus batik,0,Asia,Indonesia,0,2009,NA,NA,12,12,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Cyrtodactylus cucphuongensis,0,Asia,Vietnam,0,2008,NA,NA,13,13,8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Cyrtodactylus derongo,0,Oceania,Papua New Guinea,0,1969,NA,NA,52,52,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Cyrtodactylus eisenmanae,0,Asia,Vietnam,1,2006,NA,NA,15,15,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Cyrtodactylus jarakensis,0,Asia,Malaysia,0,2007,NA,NA,14,14,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Cyrtodactylus jeyporensis,0,Asia,India,0,1877,2010,133,NA,133,8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.645,2
+Cyrtodactylus khammouanensis,0,Asia,Lao PDR,0,2009,NA,NA,12,12,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0.613,1
+Cyrtodactylus kimberleyensis,0,Oceania,Australia,1,2007,NA,NA,14,14,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0.944,1
+Cyrtodactylus manos,0,Oceania,Papua New Guinea,0,2001,NA,NA,20,20,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Cyrtodactylus minor,0,Oceania,Papua New Guinea,0,2003,NA,NA,18,18,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Cyrtodactylus surin,0,Asia,Thailand,1,2005,NA,NA,16,16,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Cyrtodactylus tamaiensis,0,Asia,Myanmar,0,1939,NA,NA,82,82,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.583,2
+Cyrtopodion belaense,0,Asia,Pakistan,0,2003,NA,NA,18,18,2.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0.557,1
+Dactylopsila tatei,0,Oceania,Papua New Guinea,1,1932,1992,60,NA,60,359,1,0,0,0,0,0,0,0,0,1,0,0,0,0.555,1
+Dalophia gigantea,0,Africa,The Democratic Republic of Congo,0,1903,NA,NA,118,118,583,0,1,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Dalophia luluae,0,Africa,The Democratic Republic of Congo,0,1932,NA,NA,89,89,583,0,1,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Dasia johnsinghi,0,Asia,India,0,2005,NA,NA,16,16,39.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.645,1
+Dendrolagus mayri,0,Asia,Indonesia,0,1928,2018,90,NA,90,8202.843,1,0,0,0,0,0,0,0,0,0,1,0,0,0.707,1
+Dendromus vernayi,0,Africa,Angola,0,1937,NA,NA,84,84,10.6,0,1,0,0,0,0,1,0,0,0,0,0,0,0.581,1
+Dendrophidion atlantica,0,South America,Brazil,0,2006,NA,NA,15,15,471,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Dendrophidion boshelli,0,South America,Colombia,0,1938,2014,76,NA,76,471,1,0,0,0,1,0,0,0,0,1,0,0,0,0.767,3
+Dendrophryniscus proboscideus,0,South America,Brazil,0,1936,2000,64,NA,64,88.5,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,1
+Dendropsophus amicorum,0,South America,Venezuela,0,1968,NA,NA,53,53,15.45,1,0,0,0,1,0,0,0,0,1,0,0,1,0.726,2
+Dendropsophus ruschii,0,South America,Brazil,0,1987,2005,18,NA,18,29,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,1
+Dendrotriton cuchumatanus,0,North America,Guatemala,0,1975,2005,30,NA,30,18.12,1,0,0,0,0,0,0,0,0,0,1,0,1,0.663,2
+Dibamus alfredi,0,Asia,Thailand,0,1961,NA,NA,60,60,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Dibamus booliati,0,Asia,Malaysia,0,2001,NA,NA,20,20,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Dibamus deharvengi,0,Asia,Vietnam,0,1995,NA,NA,26,26,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Dibamus dezwaani,0,Asia,Indonesia,1,1910,NA,NA,111,111,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Dibamus ingeri,0,Asia,"Indonesia, Malaysia",0,1989,NA,NA,32,32,23.8,1,0,0,0,0,0,0,0,0,0,1,0,0,0.718,1
+Dibamus kondaoensis,0,Asia,Vietnam,1,1987,NA,NA,34,34,23.8,1,0,0,0,0,0,1,0,0,1,0,0,0,0.704,1
+Dibamus montanus,0,Asia,Vietnam,0,1917,NA,NA,104,104,23.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Dibamus somsaki,0,Asia,Thailand,0,1995,NA,NA,26,26,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Dibamus tebal,0,Asia,Indonesia,1,1913,NA,NA,108,108,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,2
+Dibamus vorisi,0,Asia,Indonesia,0,1990,NA,NA,31,31,23.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Dicaeum quadricolor,0,Asia,Philippines,1,1906,1992,86,NA,86,8.18,1,0,0,0,0,0,0,0,1,1,1,0,1,0.718,3
+Dierogekko baaba,0,Oceania,New Caledonia,1,2006,NA,NA,15,15,10.9,0,0,1,0,0,0,0,0,1,1,1,0,0,0.813,1
+Dierogekko inexpectatus,0,Oceania,New Caledonia,1,2008,NA,NA,13,13,10.9,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Dierogekko kaalaensis,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,10.9,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Dierogekko poumensis,0,Oceania,New Caledonia,1,2007,NA,NA,14,14,10.9,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Dierogekko thomaswhitei,0,Oceania,New Caledonia,1,2004,NA,NA,17,17,10.9,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Diglossa gloriosissima,0,South America,Colombia,0,1965,2003,38,NA,38,16.025,1,0,1,0,0,0,0,0,0,1,0,0,0,0.767,2
+Diploderma ngoclinensis,1,Asia,Vietnam,0,2004,NA,NA,17,17,8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Diplogale hosei,0,Asia,"Brunei, Indonesia, Malaysia",0,1955,2005,50,NA,50,5452.04,1,0,0,0,0,0,0,0,0,1,1,0,0,0.838,1
+Diploglossus ingridae,1,North America,Mexico,0,2001,NA,NA,20,20,54.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Dipodomys gravipes,0,North America,Mexico,0,1986,2017,31,NA,31,83.96,0,0,0,0,0,1,0,0,0,1,0,0,0,0.779,1
+Diporiphora convergens,0,Oceania,Australia,0,1972,NA,NA,49,49,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.944,1
+Ditaxodon taeniatus,0,South America,Brazil,0,1992.5,NA,NA,28.5,28.5,363.5,1,1,0,1,0,0,0,0,0,0,0,0,0,0.765,1
+Dobsonia chapmani,0,Asia,Philippines,1,1975,2001,26,NA,26,269.61,1,0,0,0,0,0,1,0,0,1,1,0,0,0.718,3
+Draco biaro,0,Asia,Indonesia,1,1998,NA,NA,23,23,4.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Draco iskandari,0,Asia,Indonesia,1,1998,NA,NA,23,23,9.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Dryophytes bocourti,0,North America,Guatemala,0,1984,NA,NA,37,37,6.56,1,0,0,1,0,0,0,0,1,1,0,1,0,0.651,3
+Duttaphrynus sumatranus,0,Asia,Indonesia,0,1860,2001,141,NA,141,122.3,1,0,0,0,1,0,0,0,0,1,0,1,0,0.718,1
+Duttaphrynus valhallae,0,Asia,Indonesia,1,1908,NA,NA,113,113,112.3,1,0,0,0,1,0,0,0,0,0,0,0,0,0.707,1
+Dysithamnus occidentalis,0,South America,Colombia; Ecuador,0,1941,1991,50,NA,50,16.57,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Echinosaura sulcarostrum,0,South America,Guyana,0,2004,NA,NA,17,17,4.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.682,1
+Ecnomiohyla echinata,0,North America,Mexico,0,1962,NA,NA,59,59,17.1,1,0,0,0,1,0,0,0,1,0,1,0,0,0.767,3
+Ecnomiohyla rabborum,0,North America,Panama,0,2007,NA,NA,14,14,17.1,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,2
+Ectophylla alba,0,North America,Costa Rica; Honduras; Nicaragua; Panama,0,1885,1961,76,NA,76,5.55,1,0,0,0,0,0,0,0,0,1,0,0,0,0.815,1
+Ectopoglossus atopoglossus,0,South America,Colombia,0,1995,NA,NA,26,26,0.865,1,0,0,0,1,0,0,0,1,1,1,1,0,0.767,2
+Eleoscytalopus psychopompus,0,South America,Brazil,0,1983,2004,21,NA,21,16.25,1,0,0,0,0,0,0,0,0,1,0,0,0,0.765,3
+Elephantulus fuscipes,0,Africa,The Democratic Republic of Congo; South Sudan; Uganda,0,1967,NA,NA,54,54,57,0,1,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Elephantulus revoilii,0,Africa,Somalia,0,1970,2019,49,NA,49,32.49,0,1,1,0,0,0,0,0,0,0,0,0,0,0.285,3
+Eleutherodactylus cubanus,0,North America,Cuba,0,1936,1994,58,NA,58,0.18,1,0,0,0,0,0,0,0,0,1,1,0,0,0.783,3
+Eleutherodactylus darlingtoni,0,North America,Haiti,0,1985,NA,NA,36,36,34.72,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,2
+Eleutherodactylus eneidae,0,North America,Puerto Rico,1,1990,NA,NA,31,31,34.72,1,0,0,0,0,0,0,0,1,0,0,0,1,0.845,3
+Eleutherodactylus glanduliferoides,0,North America,Haiti,0,1985,NA,NA,36,36,34.72,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,1
+Eleutherodactylus jamaicensis,0,North America,Jamaica,1,1987,NA,NA,34,34,34.72,1,0,0,0,0,0,0,0,1,1,1,0,1,0.726,2
+Eleutherodactylus jasperi,0,North America,Puerto Rico,1,1981,NA,NA,40,40,34.72,1,0,0,0,0,0,0,0,1,1,0,0,1,0.845,4
+Eleutherodactylus junori,0,North America,Jamaica,1,1985,NA,NA,36,36,6.83,1,0,0,0,0,0,1,0,1,1,1,0,1,0.726,3
+Eleutherodactylus karlschmidti,0,North America,Puerto Rico,1,1976,NA,NA,45,45,34.72,1,0,0,0,1,0,0,0,1,0,0,0,1,0.845,4
+Eleutherodactylus limbensis,0,North America,Haiti,0,1958,NA,NA,63,63,34.72,1,0,0,0,1,0,0,0,0,0,0,0,0,0.51,1
+Eleutherodactylus lucioi,0,North America,Haiti,0,1980,NA,NA,41,41,6.83,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,1
+Eleutherodactylus orcutti,0,North America,Jamaica,1,1985,NA,NA,36,36,34.72,1,0,0,1,0,0,0,0,1,1,1,1,1,0.726,2
+Eleutherodactylus rucillensis,0,North America,Dominican Republic,0,1986,NA,NA,35,35,34.72,1,0,0,0,1,0,0,0,0,0,0,0,0,0.756,1
+Eleutherodactylus schmidti,0,North America,Dominican Republic; Haiti,0,1985,NA,NA,36,36,34.72,1,0,0,0,1,0,0,0,1,1,0,0,0,0.745,3
+Eleutherodactylus sisyphodemus,0,North America,Jamaica,1,1984,NA,NA,37,37,34.72,1,0,0,0,0,0,0,0,1,1,1,0,1,0.726,2
+Eleutherodactylus turquinensis,0,North America,Cuba,0,1936,1994,58,NA,58,6.82,1,0,0,0,1,0,0,0,1,1,1,0,0,0.783,3
+Elusor macrurus,0,Oceania,Australia,0,1975,1995,20,NA,20,1214.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0.944,4
+Embernagra longicauda,0,South America,Brazil,0,1918,1928,10,NA,10,45.55,0,1,1,1,0,0,1,0,0,1,0,0,0,0.765,3
+Emmochliophis fugleri,0,South America,Ecuador,0,1965,2019,54,NA,54,363.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.759,1
+Emoia aneityumensis,0,Oceania,Vanuatu,1,2004,NA,NA,17,17,12.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.609,1
+Emoia campbelli,0,Oceania,Fiji,1,1983,NA,NA,38,38,12.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.743,1
+Emoia coggeri,0,Oceania,Papua New Guinea,0,1963,NA,NA,58,58,12.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Emoia cyclops,0,Oceania,Papua New Guinea,0,1938,NA,NA,83,83,12.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,3
+Emoia erronan,0,Oceania,Vanuatu,1,2005,NA,NA,16,16,12.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.609,1
+Emoia laobaoense,0,Asia,Vietnam,0,1937,NA,NA,84,84,12.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0.704,1
+Emoia loyaltiensis,0,Oceania,New Caledonia,1,2003,NA,NA,18,18,12.1,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Emoia oriva,0,Oceania,Fiji,1,1986,NA,NA,35,35,12.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.743,1
+Emoia paniai,0,Oceania,Papua New Guinea,0,1959,NA,NA,62,62,12.1,1,0,0,1,0,0,0,0,0,0,0,0,0,0.555,1
+Emoia rufilabialis,0,Oceania,Solomon Islands,1,1998,NA,NA,23,23,12.1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.567,1
+Emoia taumakoensis,0,Oceania,Solomon Islands,1,1981,NA,NA,40,40,12.1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.567,1
+Emoia tuitarere,0,Oceania,Cook Islands,1,2000,NA,NA,21,21,12.1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.829,1
+Emydura subglobosa subglobosa,0,Oceania,Australia,0,1996,2014,18,NA,18,1030,0,0,0,0,1,0,0,0,1,0,1,0,1,0.944,4
+Enhydris indica,1,Asia,"Malaysia, Singapore",0,1995,2014,19,NA,19,256.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0.938,1
+Enyalioides sophiarothschildae,0,South America,Peru,0,2008,NA,NA,13,13,47.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Enyalius erythroceneus,0,South America,Brazil,0,2005,NA,NA,16,16,45.2,1,0,1,0,0,0,0,0,0,0,0,0,0,0.765,1
+Epibator greeri,0,Oceania,New Caledonia,1,1979,2019,40,NA,40,4.4,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Epictia rubrolineata,0,South America,Peru,0,1901,NA,NA,120,120,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Eremias cholistanica,0,Asia,Pakistan,0,2004,NA,NA,17,17,13.9,0,0,1,0,0,1,0,0,0,0,0,0,0,0.557,1
+Eremias isfahanica,0,Asia,Iran,0,2009,NA,NA,12,12,13.9,0,0,1,0,0,1,0,0,0,1,0,0,0,0.783,1
+Eremiascincus butlerorum,0,Asia,Indonesia,1,1989,NA,NA,32,32,11.9,1,0,0,0,0,0,1,0,0,0,0,0,0,0.718,1
+Ericabatrachus baleensis,0,Africa,Ethiopia,0,2009,NA,NA,12,12,7.2,1,0,0,0,1,0,0,0,1,1,1,0,0,0.47,1
+Eriocnemis godini,0,South America,Ecuador,0,1850,NA,NA,171,171,4.9,1,0,1,0,0,0,0,0,0,1,0,0,0,0.759,3
+Eriocnemis mirabilis,0,South America,Colombia,0,1987,1997,10,NA,10,4.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,4
+Eriocnemis nigrivestis,0,South America,Ecuador,0,1950,1980,30,NA,30,4.9,1,0,0,0,0,0,0,0,0,1,1,0,1,0.759,1
+Erythrolamprus cursor,0,North America,Martinique,1,1968,NA,NA,53,53,159.3,1,0,1,0,0,0,0,0,1,0,1,0,0,0.848,1
+Erythrolamprus ornatus,0,North America,Saint Lucia,1,1973,2012,39,NA,39,159.3,1,0,1,0,0,0,0,0,0,1,0,0,1,0.759,1
+Erythrolamprus perfuscus,0,North America,Barbados,1,1963,NA,NA,58,58,159.3,1,0,0,0,0,0,0,0,1,1,0,0,0,0.814,1
+Erythrolamprus williamsi,0,South America,Venezuela,0,2010,NA,NA,11,11,159.3,1,0,0,0,0,0,0,0,0,1,0,0,0,0.711,1
+Estrilda poliopareia,0,Africa,Benin; Nigeria,0,1987,2002,15,NA,15,7.55,1,0,0,1,1,0,0,0,0,0,0,0,0,0.545,1
+Eugongylus sulaensis,0,Asia,Indonesia,1,1914,NA,NA,107,107,60.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Eumeces cholistanensis,0,Asia,Pakistan,0,2002,NA,NA,19,19,81.3,0,0,1,0,0,1,0,0,0,0,0,0,0,0.557,1
+Eumeces indothalensis,0,Asia,Pakistan,0,1984,NA,NA,37,37,81.3,0,0,0,1,1,1,0,0,0,0,0,0,0,0.557,1
+Eumecia johnstoni,0,Africa,Malawi,0,1897,NA,NA,124,124,503.9,0,1,0,1,0,0,0,0,0,0,0,0,0,0.483,1
+Eumyias additus,0,Asia,Indonesia,1,1925,1995,70,NA,70,22.5,1,0,1,0,0,0,0,0,0,1,1,0,0,0.718,1
+Eupetaurus cinereus,0,Asia,Pakistan,0,1924,1994,70,NA,70,2521.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.557,2
+Euphlyctis ghoshi,0,Asia,India,0,1975,NA,NA,46,46,300,0,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Eurochelidon sirintarae,0,Asia,Thailand,0,1978,NA,NA,43,43,18.63,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,2
+Eurostopodus diabolicus,0,Asia,Indonesia,0,1931,1996,65,NA,65,113.16,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Eurostopodus exul,0,Oceania,New Caledonia,1,1939,NA,NA,82,82,140.25,0,0,0,1,0,0,0,0,1,1,1,0,0,0.8,3
+Eurycea robusta,0,North America,USA,0,1955,NA,NA,66,66,18.12,0,0,0,0,1,0,0,0,0,1,0,0,0,0.926,3
+Euspondylus auyanensis,0,South America,Venezuela,0,1998,NA,NA,23,23,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.711,2
+Eutrichomyias rowleyi,0,Asia,Indonesia,1,1873,1998,125,NA,125,19,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Eutriorchis astur,0,Africa,Madagascar,0,1950,1993,43,NA,43,770,1,0,0,0,0,0,1,0,0,1,1,0,1,0.528,3
+Eutropis darevskii,0,Asia,Vietnam,0,1991,NA,NA,30,30,30.7,0,0,0,0,0,0,1,0,0,0,0,0,0,0.704,1
+Eutropis gansi,0,Asia,India,0,1990,NA,NA,31,31,30.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.645,1
+Eutropis macrophthalma,0,Asia,Indonesia,1,1999,NA,NA,22,22,30.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Eutropis quadratilobus,0,Asia,Bhutan,0,1972,NA,NA,49,49,30.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.654,1
+Excidobates mysteriosus,0,South America,Peru,0,1929,1982,53,NA,53,0.865,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,1
+Feylinia boulengeri,0,Africa,Gabon,0,1917,NA,NA,104,104,21.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.703,1
+Ficedula bonthaina,0,Asia,Indonesia,0,1931,1995,64,NA,64,11.31,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Ficedula disposita,0,Asia,Philippines,0,1967,1991,24,NA,24,11.31,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Flexiseps stylus,0,Africa,Madagascar,0,1999,NA,NA,22,22,2.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Formicivora erythronotos,0,South America,Brazil,0,1850,1987,137,NA,137,10.65,0,0,1,0,0,0,1,0,0,1,0,0,0,0.765,3
+Fregetta maoriana,0,Oceania,Australia; North Island (New Zealand),1,1850,2003,153,NA,153,35,1,0,1,0,0,0,0,1,1,0,0,0,0,0.944,1
+Funisciurus duchaillui,0,Africa,Gabon,0,1952,1993,41,NA,41,187,1,0,0,0,0,0,0,0,0,0,0,0,0,0.703,1
+Furcifer monoceras,1,Africa,Madagascar,0,1905,NA,NA,116,116,71.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Furcifer voeltzkowi,0,Africa,Madagascar,0,1913,2018,105,NA,105,71.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,2
+Gallicolumba menagei,0,Asia,Philippines,1,1891,NA,NA,130,130,194.25,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,2
+Gallirallus lafresnayanus,1,Oceania,New Caledonia,1,1890,NA,NA,131,131,341.89,1,0,0,0,0,0,0,0,1,0,0,0,0,0.8,4
+Gallotia bravoana,0,Europe,Spain,1,1800,1999,199,NA,199,219.7,0,0,1,0,0,0,0,0,1,1,1,0,0,0.904,4
+Garrulax bieti,1,Asia,China,0,1989,2008,19,NA,19,82.34,1,0,0,0,0,0,0,0,0,1,1,0,0,0.761,1
+Garrulax courtoisi,0,Asia,China,0,1919,2000,81,NA,81,56,1,0,1,0,0,0,0,0,0,1,1,0,0,0.761,4
+Gastrotheca angustifrons,0,South America,Ecuador; Colombia,0,1995,NA,NA,26,26,9.9,1,0,0,0,1,0,0,0,1,1,1,1,0,0.761,2
+Gastrotheca antomia,0,South America,Colombia,0,1997,NA,NA,24,24,9.9,1,0,0,0,0,0,0,0,1,1,1,0,0,0.767,2
+Gastrotheca christiani,0,South America,Argentina,0,1996,NA,NA,25,25,9.9,1,0,0,0,0,0,0,0,1,1,1,0,0,0.83,2
+Gastrotheca cornuta,0,North America; South America,Colombia; Costa Rica; Ecuador; Panama,0,2005,2018,13,NA,13,13.35,1,0,0,0,1,0,0,0,1,1,1,1,0,0.815,1
+Gastrotheca ernestoi,0,South America,Brazil,0,1920,NA,NA,101,101,9.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Gastrotheca fulvorufa,0,South America,Brazil,0,1911,NA,NA,110,110,9.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Gastrotheca guentheri,0,South America,Ecuador; Colombia,0,1996,NA,NA,25,25,9.9,1,0,0,0,1,0,0,0,1,1,1,1,1,0.761,2
+Gastrotheca splendens,0,South America,Bolivia,0,1857,1997,140,NA,140,13.35,1,0,0,0,0,0,0,0,1,0,0,0,0,0.718,1
+Gegeneophis seshachari,0,Asia,India,0,1967,2003,36,NA,36,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0.645,1
+Gekko guishanicus,0,Asia,Taiwan,1,1998,NA,NA,23,23,31,0,0,0,0,0,0,1,0,0,0,0,0,0,0.916,1
+Genetta cristata,0,Africa,Cameroon; Nigeria,0,1933,1989,56,NA,56,1519.535,1,0,0,0,0,0,1,0,0,1,1,0,0,0.563,1
+Geocapromys ingrahami,0,North America,Bahamas,1,1931,1953,22,NA,22,733.52,1,0,1,0,0,0,0,0,1,0,0,0,1,0.814,2
+Geoemyda silvatica,1,Asia,India,0,1911,1982,71,NA,71,230,1,0,0,0,0,0,0,0,1,1,1,0,1,0.645,1
+Geoscincus haraldmeieri,0,Oceania,New Caledonia,1,1975,NA,NA,46,46,31.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0.813,1
+Glaphyromorphus arnhemicus,0,Oceania,Australia,0,1960,NA,NA,61,61,8.7,1,0,1,0,0,0,0,1,0,1,0,0,0,0.944,1
+Glaucidium mooreorum,0,South America,Brazil,0,2001,NA,NA,20,20,51,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,3
+Glischropus javanus,0,Asia,Indonesia,0,1939,2004,65,NA,65,5.37,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Gonatodes infernalis,0,South America,Venezuela,0,2007,NA,NA,14,14,1.7,0,0,0,0,0,0,0,0,0,1,0,0,0,0.711,4
+Gonatodes lichenosus,0,South America,Venezuela,0,2009,NA,NA,12,12,1.7,1,0,0,0,0,0,1,0,0,1,0,0,0,0.711,1
+Goniurosaurus huuliensis,0,Asia,Vietnam,0,2003,NA,NA,18,18,13.8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Gonocephalus lacunosus,0,Asia,Indonesia,0,1990,NA,NA,31,31,39.9,1,0,0,0,0,0,0,0,0,1,0,0,0,0.718,1
+Gonocephalus mjobergi,0,Asia,Indonesia,0,1924,NA,NA,97,97,39.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Grallaria chthonia,0,South America,Venezuela,0,1956,2016,60,NA,60,92,1,0,0,0,0,0,0,0,0,1,0,0,0,0.711,2
+Grallaria milleri,0,South America,Colombia,0,1942,1994,52,NA,52,52.5,1,0,0,0,0,0,1,0,0,1,1,0,0,0.767,3
+Gymnobelideus leadbeateri,0,Oceania,Australia,0,1910,1961,51,NA,51,133.66,1,0,0,0,0,0,0,0,0,1,1,0,0,0.944,3
+Haackgreerius miopus,0,Africa,Somalia,0,1959,NA,NA,62,62,31.7,0,0,1,0,0,0,0,0,0,0,0,0,0,0.285,1
+Hapalopsittaca fuertesi,0,South America,Colombia,0,1911,2002,91,NA,91,122.33,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Harpesaurus beccarii,0,Asia,Indonesia,0,1915,1988,73,NA,73,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Harpesaurus borneensis,0,Asia,"Indonesia, Malaysia",0,1997,2017,20,NA,20,4.94,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,3
+Harpesaurus ensicauda,0,Asia,Indonesia,1,1912,NA,NA,109,109,5.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,3
+Harpesaurus modiglianii,0,Asia,Indonesia,0,1933,2018,85,NA,85,13.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,2
+Harpiola grisea,0,Asia,India,0,1872,2002,130,NA,130,5.61,1,0,0,0,0,0,0,0,0,1,1,0,0,0.645,1
+Hemidactylus aporus,0,Africa,Annobon Island (Equatorial Guinea),1,1903,NA,NA,118,118,5.8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.592,1
+Hemidactylus endophis,0,Asia,Oman,0,1885,NA,NA,136,136,5.8,1,0,0,0,0,0,1,0,0,0,0,0,0,0.813,1
+Hemidactylus klauberi,0,Africa,Somalia,0,1931,NA,NA,90,90,5.8,1,0,0,0,0,0,1,0,0,0,0,0,0,0.285,1
+Hemidactylus lopezjuradoi,0,Africa,Cape Verde,1,1997,NA,NA,24,24,5.8,0,0,1,0,0,0,0,0,0,1,0,0,0,0.651,1
+Hemidactylus makolowodei,0,Africa,Cameroon,0,2001,NA,NA,20,20,5.8,1,1,0,0,0,0,1,0,0,1,0,0,0,0.563,1
+Hemidactylus newtoni,0,Africa,Annobon Island (Equatorial Guinea),1,1897,NA,NA,124,124,5.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.592,1
+Hemidactylus romeshkanicus,0,Asia,Iran,0,2007,NA,NA,14,14,5.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.783,1
+Hemignathus affinis,0,Oceania,Hawaii,1,1995,NA,NA,26,26,26.5,1,0,0,0,0,0,0,0,1,1,0,0,1,0.945,4
+Hemignathus hanapepe,0,Oceania,Hawaii,1,1899,NA,NA,122,122,26.5,1,0,0,0,0,0,0,0,1,1,0,0,0,0.945,4
+Hemitriccus inornatus,0,South America,Brazil; Suriname,0,1831,1992,161,NA,161,8.35,1,0,1,0,0,0,0,0,0,0,0,0,0,0.765,1
+Hemitriccus kaempferi,0,South America,Brazil,0,1929,1991,62,NA,62,8.85,1,0,1,0,1,0,0,0,0,1,1,0,0,0.765,1
+Heosemys depressa,0,Asia,"Bangladesh, Myanmar",0,1925,2009,84,NA,84,950,1,0,0,0,1,0,0,0,0,1,1,0,0,0.632,1
+Herpetoreas pealii,0,Asia,India,0,1891,2018,127,NA,127,189.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.645,3
+Heterodactylus septentrionalis,0,South America,Brazil,0,2007,NA,NA,14,14,2.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,3
+Heteromirafra archeri,0,Africa,Ethiopia; Somalia,0,1955,2011,56,NA,56,26.6,0,1,1,1,0,0,0,0,1,1,0,0,1,0.485,1
+Hipposideros marisae,0,Africa,Côte d'Ivoire; Guinea; Liberia; Sierra Leone,0,1989,2009,20,NA,20,10.09,1,0,0,0,0,0,0,0,0,1,0,0,0,0.538,1
+Hipposideros ridleyi,0,Asia,Brunei; Malaysia; Singapore,0,1910,1975,65,NA,65,9.59,1,0,0,0,0,0,0,0,0,1,1,0,0,0.838,3
+Holcosus orcesi,0,South America,Ecuador,0,1959,NA,NA,62,62,22.6,0,0,1,0,0,0,0,0,1,1,0,0,0,0.759,3
+Holoaden bradei,0,South America,Brazil,0,1976,NA,NA,45,45,4,0,0,1,1,0,0,0,0,0,1,0,0,1,0.765,3
+Holoaden luederwaldti,0,South America,Brazil,0,1967,2005,38,NA,38,4,0,0,1,1,0,0,0,0,0,1,0,0,0,0.765,1
+Hyalinobatrachium talamancae,0,North America,Costa Rica,0,1952,2001,49,NA,49,7.2,1,0,0,0,1,0,0,0,0,1,1,0,0,0.81,1
+Hydrobates macrodactylus,0,North America,Mexico,1,1912,NA,NA,109,109,49.94,1,0,0,0,0,0,0,1,1,0,0,0,0,0.767,3
+Hydrophis annandalei,1,Asia,"Malaysia, Thailand, Indonesia, Singapore, Vietnam, Borneo, Java",0,1993,NA,NA,28,28,1133.3,0,0,0,0,1,0,0,1,0,1,1,0,0,0.938,1
+Hydrophis hendersoni,0,Asia,Myanmar,0,1903,NA,NA,118,118,1133.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0.583,1
+Hydrophis klossi,0,Asia,"Indonesia, Thailand",0,1912,NA,NA,109,109,1133.3,0,0,0,0,0,0,0,1,0,1,1,0,0,0.777,1
+Hydrophis nigrocinctus,0,Asia,"Bangladesh, India, Myanmar",0,1943,NA,NA,78,78,1133.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0.645,1
+Hydrophis torquatus,0,Asia,"Cambodia, Malaysia, Thailand, Indonesia",0,1990,NA,NA,31,31,1133.3,0,0,0,0,1,0,0,1,0,1,1,0,0,0.81,1
+Hydrophis vorisi,0,Oceania,Papua New Guinea,0,1984,NA,NA,37,37,1133.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0.555,1
+Hydrornis schneideri,0,Asia,Indonesia,0,1918,1988,70,NA,70,106.22,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,2
+Hyla nicefori,0,South America,Colombia,0,1945,NA,NA,76,76,46.56,0,0,0,0,0,0,0,0,0,1,0,0,0,0.767,1
+Hylarana igorota,0,Asia,Philippines,0,1920,2001,81,NA,81,35,1,0,0,0,1,0,0,0,0,1,1,1,0,0.718,1
+Hylodes mertensi,0,South America,Brazil,0,1965,NA,NA,56,56,3.55,1,0,0,0,1,0,0,0,0,0,1,1,0,0.765,1
+Hylodes regius,0,South America,Brazil,0,1979,2014,35,NA,35,3.55,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,3
+Hyloscirtus charazani,0,South America,Bolivia,0,1970,1997,27,NA,27,17.36,1,0,0,0,1,0,0,0,0,1,0,1,0,0.718,1
+Hyloscirtus chlorosteus,0,South America,Bolivia,0,1975,NA,NA,46,46,17.36,1,0,0,0,1,0,0,0,1,1,1,1,0,0.703,1
+Hyloscirtus lynchi,0,South America,Colombia,0,2010,NA,NA,11,11,17.36,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,1
+Hyloscirtus pantostictus,0,South America,Colombia; Ecuador,0,2008,NA,NA,13,13,17.36,1,0,0,0,1,0,1,0,0,1,1,0,0,0.761,1
+Hyloxalus abditaurantius,0,South America,Colombia,0,1995,NA,NA,26,26,0.865,1,0,0,0,1,0,1,0,1,1,1,1,0,0.767,3
+Hyloxalus anthracinus,0,South America,Ecuador,0,1991,NA,NA,30,30,0.865,1,0,0,1,1,0,0,0,1,1,1,0,0,0.759,1
+Hyloxalus edwardsi,0,South America,Colombia,0,1996,NA,NA,25,25,0.865,1,0,0,0,1,0,0,0,0,1,0,1,0,0.767,1
+Hyloxalus maquipucuna,0,South America,Ecuador,0,1990,NA,NA,31,31,0.865,1,0,0,0,1,0,0,0,0,0,0,0,0,0.759,1
+Hyloxalus marmoreoventris,0,South America,Ecuador,0,1962,NA,NA,59,59,0.865,1,0,0,0,1,0,0,0,1,1,1,1,0,0.759,1
+Hyloxalus ruizi,0,South America,Colombia,0,1979,NA,NA,42,42,0.865,1,0,0,0,1,0,0,0,0,1,0,1,0,0.767,3
+Hynobius turkestanicus,0,Asia,Kyrgyzstan; Tajikistan; Uzbekistan,0,1909,NA,NA,112,112,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0.71,1
+Hyophryne histrio,0,South America,Brazil,0,1954,2000,46,NA,46,24.86,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,1
+Hypsiboas cymbalum,0,South America,Brazil,0,1965,NA,NA,56,56,38.36,1,0,0,0,1,0,0,0,1,1,1,0,0,0.765,2
+Hypsiboas melanopleura,0,South America,Peru,0,1912,2004,92,NA,92,6,1,0,0,0,1,0,1,0,1,0,0,0,0,0.777,1
+Hypsiglena ochrorhyncha unaocularus,0,North America,Mexico,1,1936,2013,77,NA,77,104,0,0,1,0,0,0,0,0,1,0,0,0,0,0.779,3
+Hypsilurus nigrigularis,0,Oceania,Indonesia,0,1874,NA,NA,147,147,50.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Hypsirhynchus ater,0,North America,Jamaica,1,1925,NA,NA,96,96,363.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0.734,1
+Hypsirhynchus melanichnus,0,North America,"Dominican Republic, Haiti",0,1910,NA,NA,111,111,363.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0.756,3
+Ialtris parishi,0,North America,Haiti,0,1970,NA,NA,51,51,363.5,1,0,0,0,0,0,0,0,1,1,1,0,0,0.51,3
+Ichnotropis chapini,0,Africa,The Democratic Republic of Congo,0,1925,NA,NA,96,96,13.9,0,1,0,0,0,0,0,0,0,1,0,0,0,0.48,1
+Ichnotropis tanganicana,0,Africa,"Burundi, Tanzania, Zambia, The Democratic Republic of Congo",0,1896,NA,NA,125,125,13.9,0,1,0,0,0,0,0,0,0,0,0,0,0,0.584,1
+Ichthyophis hypocyaneus,0,Asia,Indonesia,0,1827,2000,173,NA,173,76.1,1,0,0,0,1,0,1,0,0,0,1,1,0,0.718,1
+Ichthyophis singaporensis,0,Asia,Singapore,1,1847,NA,NA,174,174,76.1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.935,1
+Incilius fastidiosus,0,North America,Costa Rica; Panama,0,1990,NA,NA,31,31,53.32,1,0,0,0,1,0,0,0,1,1,1,0,0,0.794,2
+Incilius majordomus,0,North America,Panama,0,1980,NA,NA,41,41,53.32,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,3
+Incilius peripatetes,0,North America,Panama,0,1980,NA,NA,41,41,53.32,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,2
+Indirana longicrus,0,Asia,India,0,1937,NA,NA,84,84,7.6,1,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Insulasaurus traanorum,0,Asia,Philippines,1,2007,NA,NA,14,14,31.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Ischnocnema pusilla,0,South America,Brazil,0,1967,NA,NA,54,54,7.13,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Ischnocnema randorum,0,South America,Brazil,0,1985,NA,NA,36,36,7.13,1,0,0,0,0,0,0,0,0,0,1,0,0,0.765,1
+Isthmohyla calypsa,0,North America,Costa Rica; Panama,0,2002,NA,NA,19,19,3.6,1,0,0,0,1,0,0,0,1,1,1,0,0,0.794,3
+Isthmohyla rivularis,0,North America,Costa Rica; Panama,0,1988,2007,19,NA,19,25.8,1,0,0,0,1,0,0,0,1,1,1,0,0,0.815,1
+Ixalotriton niger,0,North America,Mexico,0,2000,2011,11,NA,11,4.75,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,2
+Ixalotriton parvus,0,North America,Mexico,0,1985,2007,22,NA,22,1.55,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,2
+Ixalus lateralis,0,Asia,India,0,1871,2008,137,NA,137,52,1,0,0,0,1,0,0,0,0,0,0,0,0,0.645,1
+Japalura dasi,0,Asia,Nepal,0,1997,NA,NA,24,24,8,1,0,1,0,0,0,1,0,0,1,0,0,0,0.602,1
+Japalura ngoclinensis,1,Asia,Vietnam,0,2004,NA,NA,17,17,8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Kaieteurosaurus hindsi,0,South America,Guyana,0,2004,NA,NA,17,17,2.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.682,1
+Kalophrynus eok,0,Asia,Malaysia,0,2001,NA,NA,20,20,24.86,1,0,0,0,1,0,0,0,0,1,1,0,0,0.804,1
+Kalophrynus robinsoni,0,Asia,Malaysia,0,1922,NA,NA,99,99,24.86,1,0,0,0,0,0,0,0,0,0,0,0,0,0.804,1
+Kerivoula africana,0,Africa,Tanzania,0,1878,2000,122,NA,122,3.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.529,1
+Kolpophis annandalei,1,Asia,"Malaysia, Thailand, Indonesia, Singapore, Vietnam, Borneo, Java",0,1993,NA,NA,28,28,1133.3,0,0,0,0,1,0,0,1,0,1,1,0,0,0.938,1
+Kurixalus naso,0,Asia,India,0,1912,2000,88,NA,88,12.4,1,0,1,1,1,0,0,0,0,0,1,0,0,0.645,1
+Lamprolepis leucosticta,0,Asia,Indonesia,0,1956,NA,NA,65,65,15.61,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,2
+Laniarius brauni,0,Africa,Angola,0,1957,2005,48,NA,48,54.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.581,1
+Lanius newtoni,0,Africa,Sao Tome and Principe,1,1928,1990,62,NA,62,22.4,1,0,0,0,0,0,0,0,1,1,1,0,0,0.625,2
+Lankascincus munindradasai,1,Asia,Sri Lanka,0,2006,NA,NA,15,15,17.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.782,1
+Lankascincus sripadensis,0,Asia,Sri Lanka,0,2006,NA,NA,15,15,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.782,1
+Lankascincus taprobanensis,1,Asia,Sri Lanka,0,2006,NA,NA,15,15,17.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.782,1
+Lanthocincla bieti,1,Asia,China,0,1989,2008,19,NA,19,82.34,1,0,0,0,0,0,0,0,0,1,1,0,0,0.761,1
+Larutia nubisilvicola,0,Asia,Thailand,0,2007,NA,NA,14,14,31.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Larutia puehensis,0,Asia,Indonesia,0,1927,NA,NA,94,94,31.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Latastia ornata,0,Africa,Guinea Bissau,0,1938,NA,NA,83,83,13.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Latastia siebenrocki,0,Asia,Benin,0,1905,NA,NA,116,116,13.9,0,0,1,0,0,1,0,0,0,0,0,0,0,0.545,2
+Latidens salimalii,0,Asia,India,0,1948,1993,45,NA,45,49.99,1,0,0,0,0,0,1,0,0,1,1,0,0,0.645,1
+Latonia nigriventer,0,Asia,Israel,0,1955,2011,56,NA,56,21.93,0,0,0,0,1,0,0,0,0,1,0,0,0,0.919,3
+Laurentophryne parkeri,0,Africa,The Democratic Republic of Congo,0,1950,NA,NA,71,71,5.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.48,1
+Lechriodus melanopyga,0,Asia; Oceania,Indonesia; Papua New Guinea,1,1927,1956,29,NA,29,7.78,1,0,0,0,1,0,1,0,0,0,0,0,0,0.718,1
+Leimacomys buettneri,0,Africa,Togo,0,1890,NA,NA,131,131,54.99,1,0,0,0,0,0,0,0,0,0,0,0,0,0.513,2
+Leiocephalus pratensis,0,North America,Haiti,0,1966,NA,NA,55,55,26.1,1,0,0,0,0,0,0,0,1,1,1,0,0,0.51,4
+Leiocephalus rhutidira,0,North America,Haiti,0,1978,NA,NA,43,43,26.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,4
+Leontopithecus chrysopygus,0,South America,Brazil,0,1905,1970,65,NA,65,654.5,1,0,0,0,0,0,0,0,1,1,1,0,1,0.765,1
+Lepidoblepharis miyatai,0,South America,Colombia,0,1964,2015,51,NA,51,0.6,0,0,1,0,0,0,0,0,0,1,0,0,0,0.767,4
+Lepidodactylus buleli,0,Oceania,Vanuatu,1,2006,NA,NA,15,15,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.609,1
+Lepidodactylus gardineri,0,Oceania,Fiji,1,1982,NA,NA,39,39,2.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.743,1
+Lepidodactylus labialis,0,Asia,Philippines,0,1971,NA,NA,50,50,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Lepidodactylus oligoporus,0,Asia,Malaysia,0,2004,NA,NA,17,17,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0.81,2
+Lepidodactylus tepukapili,0,Oceania,Polynesia,1,1998,NA,NA,23,23,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.711,1
+Lepidophyma chicoasensis,0,North America,Mexico,0,1993,NA,NA,28,28,11.9,1,0,0,0,0,0,1,0,0,0,0,0,0,0.779,1
+Lepidophyma dontomasi,0,North America,Mexico,0,1972,2019,47,NA,47,11.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Lepidophyma lowei,0,North America,Mexico,0,1991,NA,NA,30,30,11.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Lepidophyma zongolica,0,North America,Mexico,0,2007,2018,11,NA,11,11.9,1,1,0,0,0,0,1,0,0,0,0,0,0,0.779,2
+Lepidothrix vilasboasi,0,South America,Brazil,0,1957,2002,45,NA,45,8.85,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Leptodactylus silvanimbus,0,North America,Honduras,0,1995,NA,NA,26,26,19.18,1,0,0,0,1,0,1,0,1,0,0,1,1,0.623,1
+Leptodon forbesi,0,South America,Brazil,0,1922,1987,65,NA,65,576,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Leptomys signatus,0,Oceania,Papua New Guinea,0,1936,2003,67,NA,67,88.095,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Leptoseps poilani,0,Asia,Vietnam,0,2005,NA,NA,16,16,31.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Leptosiaphos fuhni,0,Africa,Cameroon,0,1957,NA,NA,64,64,1.73,1,0,0,0,0,0,0,0,0,1,0,0,0,0.563,1
+Leptosiaphos hylophilus,0,Africa,The Democratic Republic of Congo,0,1955,NA,NA,66,66,1.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Leptosiaphos koutoui,0,Africa,Cameroon,0,2001,NA,NA,20,20,1.73,1,0,0,0,0,0,0,0,0,1,0,0,0,0.563,1
+Leptosiaphos rhomboidalis,0,Africa,Tanzania,0,1982,NA,NA,39,39,1.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0.529,1
+Leptotpyhlops telloi,0,Africa,Mozambique,0,1976,NA,NA,45,45,6.2,0,1,0,1,0,0,0,0,0,0,0,0,0,0.456,2
+Leptotyphlops pungwensis,0,Africa,Mozambique,0,1997,NA,NA,24,24,3.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0.456,1
+Lerista allanae,0,Oceania,Australia,0,1960,2009,49,NA,49,3.8,1,0,0,0,0,0,0,0,1,1,0,0,0,0.944,1
+Lerista ameles,0,Oceania,Australia,0,2006,NA,NA,15,15,3.8,0,1,0,0,0,0,0,0,1,1,0,0,0,0.944,2
+Lerista haroldi,0,Oceania,Australia,0,1995,NA,NA,26,26,3.8,0,0,0,1,0,0,0,0,0,1,0,0,0,0.944,2
+Lerista puncticauda,0,Oceania,Australia,0,2003,NA,NA,18,18,3.8,0,0,0,0,0,1,0,0,1,1,0,0,0,0.944,1
+Lerista quadrivincula,0,Oceania,Australia,0,1980,NA,NA,41,41,3.8,0,0,1,0,0,0,0,0,0,1,0,0,0,0.944,3
+Letheobia leucosticta,0,Africa,Liberia,0,1974,NA,NA,47,47,42,0,1,1,0,0,0,0,0,0,0,0,0,0,0.48,1
+Leucopeza semperi,0,North America,Saint Lucia,1,1961,NA,NA,60,60,11.41,1,0,0,0,0,0,0,0,1,1,1,0,0,0.745,3
+Leucosticte sillemi,0,Asia,China,0,1929,2012,83,NA,83,28.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Liolaemus antumalguen,0,South America,Argentina,0,2005,NA,NA,16,16,9.3,0,0,0,1,0,0,0,0,0,0,0,0,0,0.845,1
+Liolaemus crandalli,0,South America,Argentina,0,2009,NA,NA,12,12,9.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0.845,1
+Liolaemus cranwelli,0,South America,Bolivia,0,1973,NA,NA,48,48,9.3,1,0,0,0,0,0,0,0,1,1,0,0,0,0.718,3
+Liolaemus duellmani,0,South America,Argentina,0,1974,NA,NA,47,47,9.3,0,0,1,1,0,0,0,0,0,0,0,0,0,0.845,3
+Liolaemus montanezi,0,South America,Argentina,0,2005,NA,NA,16,16,9.3,0,0,1,0,0,0,0,0,0,0,0,0,0,0.845,1
+Liolaemus rabinoi,0,South America,Argentina,0,1974,2010,36,NA,36,9.3,0,0,0,0,0,1,0,0,0,1,0,0,0,0.845,4
+Lioscincus vivae,0,Oceania,New Caledonia,1,2003,NA,NA,18,18,10.5,1,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Liotyphlops schubarti,0,South America,Brazil,0,1948,NA,NA,73,73,4.7,0,1,0,0,0,0,0,0,0,1,0,0,0,0.765,1
+Lipinia albodorsalis,1,Oceania,Papua New Guinea,0,1974,NA,NA,47,47,1.3,1,0,0,0,0,0,0,0,0,0,1,0,0,0.555,1
+Lipinia cheesmanae,0,Oceania,Indonesia,0,1989,NA,NA,32,32,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia inconspicua,0,Asia,Indonesia,0,1894,NA,NA,127,127,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia miangensis,0,Asia,Indonesia,1,1901,NA,NA,120,120,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia nitens,0,Asia,Indonesia,0,1999,NA,NA,22,22,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia nototaenia,0,Oceania,Papua New Guinea,0,1975,NA,NA,46,46,1.3,1,0,0,0,0,0,0,0,0,0,1,0,0,0.555,1
+Lipinia occidentalis,0,Oceania,Indonesia,0,1962,NA,NA,59,59,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia relicta,0,Asia,Indonesia,1,2009,NA,NA,12,12,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lipinia semperi,0,Asia,Philippines,1,2007,NA,NA,14,14,1.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Lipinia subvittata,0,Asia,"Philippines, Indonesia",0,2007,NA,NA,14,14,1.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Lipinia venemai,0,Oceania,Indonesia,0,1952,NA,NA,69,69,1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lithobates fisheri,0,North America,USA,0,1942,NA,NA,79,79,108.77,1,0,0,0,1,0,0,0,1,1,0,0,0,0.926,1
+Lithobates onca,0,North America,USA,0,1950,1995,45,NA,45,76.13,0,0,0,0,1,0,0,0,1,1,0,0,0,0.926,1
+Lithobates pueblae,0,North America,Mexico,0,1948,NA,NA,73,73,108.77,1,0,0,0,1,0,0,0,0,1,1,0,0,0.767,1
+Lithobates tlaloci,0,North America,Mexico,0,1985,NA,NA,36,36,27.3,0,0,0,0,1,0,0,0,1,1,0,1,0,0.767,1
+Lithobates vibicarius,0,North America,Costa Rica; Panama,0,1990,2002,12,NA,12,76.13,1,0,0,0,1,0,1,0,1,1,1,1,0,0.815,1
+Litoria lorica,0,Oceania,Australia,0,1991,2008,17,NA,17,9.64,1,0,0,0,1,0,0,0,1,1,1,0,1,0.944,3
+Litoria nyakalensis,0,Oceania,Australia,0,1990,NA,NA,31,31,2.51,1,0,0,0,1,0,0,0,1,1,1,1,1,0.944,3
+Litoria piperata,0,Oceania,Australia,0,1973,NA,NA,48,48,2.51,1,0,0,0,1,0,0,0,1,1,1,1,0,0.944,3
+Liuixalus romeri,0,Asia,Hong Kong,0,1953,1984,31,NA,31,12.4,1,0,0,0,1,0,1,0,0,1,0,0,0,0.949,1
+Loddigesia mirabilis,0,South America,Peru,0,1835,1965,130,NA,130,3,1,0,1,0,0,0,1,0,0,1,1,0,0,0.777,1
+Lophura edwardsi,0,Asia,Vietnam,0,2000,NA,NA,21,21,1083,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,3
+Loveridgea phylofiniens,0,Africa,Tanzania,0,1899,NA,NA,122,122,72.4,0,1,0,0,0,0,0,0,0,1,0,0,0,0.529,1
+Loxops ochraceus,0,Oceania,Hawaii,1,1988,NA,NA,33,33,10.73,1,0,0,0,0,0,0,0,1,1,1,0,0,0.945,2
+Luperosaurus gulat,0,Asia,Philippines,1,2007,NA,NA,14,14,5.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Luperosaurus iskandari,0,Asia,Indonesia,0,1998,NA,NA,23,23,5.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Luperosaurus yasumai,0,Asia,Indonesia,0,1994,NA,NA,27,27,5.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lycodon kundui,0,Asia,Myanmar,0,1943,NA,NA,78,78,523.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.583,2
+Lygisaurus abscondita,0,Oceania,Australia,0,2003,NA,NA,18,18,0.9,1,0,0,0,0,0,0,0,1,1,0,0,0,0.944,1
+Lygodactylus blanci,0,Africa,Madagascar,0,2008,NA,NA,13,13,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.528,3
+Lygodactylus grandisonae,0,Africa,Kenya,0,1962,NA,NA,59,59,1.3,0,1,0,0,0,0,0,0,0,0,0,0,0,0.601,1
+Lygodactylus ornatus,0,Africa,Madagascar,0,1996,NA,NA,25,25,1.3,0,0,1,0,0,0,0,0,0,1,1,0,0,0.528,1
+Lygodactylus pauliani,0,Africa,Madagascar,0,1996,NA,NA,25,25,1.3,1,0,1,1,0,0,0,0,1,1,1,0,0,0.528,1
+Lygosoma bampfyldei,0,Asia,"Malaysia, Indonesia",0,1895,NA,NA,126,126,15.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Lygosoma boehmei,0,Asia,Vietnam,0,2006,NA,NA,15,15,15.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Lygosoma kinabatanganense,0,Asia,Malaysia,0,1999,NA,NA,22,22,15.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Lygosoma schneideri,0,Asia,Indonesia,0,1899,NA,NA,122,122,15.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Lygosoma singha,0,Asia,Sri Lanka,0,1950,NA,NA,71,71,15.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.782,1
+Lygosoma Vosmaeri,0,Asia,India,0,1839,2009,170,NA,170,15.9,0,0,1,0,0,0,0,0,0,1,0,0,0,0.645,3
+Mabuya cochonae,0,North America,Guadeloupe,1,1963,NA,NA,58,58,16.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.853,2
+Mabuya grandisterrae,0,North America,Guadeloupe,1,1920,NA,NA,101,101,16.8,1,1,0,0,0,0,0,0,0,0,0,0,0,0.853,1
+Mabuya guadeloupae,0,North America,Guadeloupe,1,1892,NA,NA,129,129,16.8,1,1,0,0,0,0,1,0,0,0,0,0,0,0.853,1
+Mabuya hispaniolae,0,North America,Dominican Republic (Hispaniola),0,1937,NA,NA,84,84,16.8,1,0,0,0,0,0,0,0,1,1,1,0,0,0.756,2
+Mabuya mabouya,0,North America,Martinique,1,1889,NA,NA,132,132,16.8,1,0,0,0,0,0,0,0,1,1,0,0,0,0.848,1
+Mabuya montserratae,0,North America,Montserrat,1,1984,NA,NA,37,37,16.8,1,0,0,0,0,0,0,0,1,1,0,0,0,0.821,3
+Macroagelaius subalaris,0,South America,Colombia,0,1953,2005,52,NA,52,77.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Macropholidus ataktolepis,0,South America,Peru,0,1991,NA,NA,30,30,1.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0.777,1
+Macropus parma,0,Oceania,Australia,0,1932,1966,34,NA,34,4203.31,1,0,0,0,0,0,0,0,1,1,1,0,0,0.944,3
+Madatyphlops madagascariensis,0,Africa,Madagascar,1,1921,NA,NA,100,100,41.64,1,0,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Malacocincla perspicillata,0,Asia,Indonesia,0,1848,2020,172,NA,172,24.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Mannophryne neblina,0,South America,Venezuela,0,1951,NA,NA,70,70,24,1,0,0,0,1,0,1,0,1,1,1,1,0,0.726,1
+Mantidactylus pauliani,0,Africa,Madagascar,0,1979,2001,22,NA,22,10.31,1,0,0,1,1,0,0,0,1,1,0,1,1,0.528,1
+Marinussaurus curupira,0,South America,Brazil,0,2007,NA,NA,14,14,2.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Marisora magnacornae,0,North America,Nicaragua,1,1928,NA,NA,93,93,12,1,0,0,0,0,0,0,0,1,0,0,0,0,0.66,1
+Marmorosphax boulinda,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,3.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.813,1
+Marmorosphax kaala,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,3.3,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Marmosa andersoni,0,South America,Peru,0,1954,1997,43,NA,43,33,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Megaelosia massarti,0,South America,Brazil,0,1930,NA,NA,91,91,3.55,1,0,0,0,1,0,0,0,1,0,0,0,0,0.765,1
+Megalurulus rufus,0,Oceania,Fiji,1,1894,2002,108,NA,108,33.75,1,0,0,0,1,0,0,0,1,1,1,0,0,0.743,1
+Megastomatohyla mixe,0,North America,Mexico,0,2005,NA,NA,16,16,17.36,1,0,0,0,1,0,0,0,0,0,1,0,0,0.767,3
+Melanobatrachus indicus,0,Asia,India,0,1878,1997,119,NA,119,24.86,1,0,0,0,1,0,1,0,0,1,0,0,0,0.645,1
+Melanocharis arfakiana,0,Asia; Oceania,Indonesia; Papua New Guinea,0,1933,1992,59,NA,59,13.775,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Melanomys zunigae,0,South America,Peru,0,1949,NA,NA,72,72,53.5,0,0,1,0,0,1,0,0,0,1,0,0,0,0.777,2
+Melanophryniscus macrogranulosus,0,South America,Brazil,0,1973,2004,31,NA,31,79.56,0,0,0,0,1,0,0,0,0,1,0,0,0,0.765,1
+Melanophryniscus pachyrhynus,0,South America,Brazil,0,1905,2005,100,NA,100,79.56,0,0,0,1,1,0,0,0,0,1,0,0,0,0.765,1
+Melanophryniscus peritus,0,South America,Brazil,0,1953,NA,NA,68,68,19.7,1,0,0,0,1,0,0,0,0,1,0,0,0,0.765,3
+Melanospiza richardsoni,0,North America,Saint Lucia,1,1886,1929,43,NA,43,20.7,1,0,1,0,0,0,1,0,1,1,0,0,0,0.759,1
+Melomys fraterculus,0,Asia,Indonesia,1,1920,NA,NA,101,101,78.66,1,0,0,0,0,0,0,0,1,0,1,0,0,0.707,2
+Melomys fulgens,0,Asia,Indonesia,1,1920,1993,73,NA,73,95.16,1,0,0,0,0,0,0,0,1,0,1,0,0,0.707,2
+Melomys rubicola,0,Oceania,Australia,1,2009,NA,NA,12,12,94,0,0,1,0,0,0,0,0,0,0,0,0,1,0.944,4
+Meristogenys macrophthalmus,0,Asia,Malaysia,0,1964,NA,NA,57,57,6.8,1,0,0,0,1,0,0,0,0,0,1,0,0,0.804,1
+Merulaxis stresemanni,0,South America,Brazil,0,1945,1995,50,NA,50,35.1,1,0,0,0,0,0,1,0,0,1,1,0,0,0.765,1
+Mesalina ercolinii,0,Africa,Somalia,0,1968,NA,NA,53,53,2.1,0,1,1,0,0,0,0,0,0,0,0,0,0,0.285,3
+Mesocapromys angelcabrerai,0,North America,Cuba,0,1979,2004,25,NA,25,1217,1,0,0,0,1,0,0,0,1,1,1,0,0,0.783,1
+Mesocapromys nanus,0,North America,Cuba,0,1951,NA,NA,70,70,500,0,0,0,0,1,0,0,0,1,1,1,0,0,0.778,3
+Mesocapromys sanfelipensis,0,North America,Cuba,1,1978,NA,NA,43,43,550,0,0,0,0,1,0,0,0,1,1,1,0,0,0.778,3
+Micrixalus kottigeharensis,0,Asia,India,0,1937,2001,64,NA,64,8.6,1,0,0,0,1,0,0,0,0,1,0,0,0,0.645,1
+Micrixalus silvaticus,0,Asia,India,0,1882,NA,NA,139,139,9.1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Microakodontomys transitorius,0,South America,Brazil,0,1993,2003,10,NA,10,25,0,0,1,1,0,0,0,0,0,1,0,0,0,0.765,1
+Microcebus myoxinus,0,Africa,Madagascar,0,1893,1993,100,NA,100,64.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.528,1
+Microhyla maculifera,0,Asia,Malaysia,0,1989,NA,NA,32,32,1.65,1,0,0,0,1,0,0,0,0,0,1,0,0,0.804,1
+Microtus bavaricus,0,Europe,Austria,0,1976,2004,28,NA,28,29.27,1,0,0,1,0,0,0,0,0,1,0,0,0,0.922,1
+Minervarya murthii,0,Asia,India,0,1979,NA,NA,42,42,7,1,0,0,0,1,0,0,0,0,1,0,0,0,0.647,1
+Minervarya parambikulamana,0,Asia,India,0,1937,NA,NA,84,84,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Minervarya sauriceps,0,Asia,India,0,1937,NA,NA,84,84,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0.647,1
+Mitophis calypso,0,North America,Dominican Republic,0,1981,NA,NA,40,40,3.5,1,0,0,0,0,0,1,0,0,1,0,0,0,0.756,1
+Mitophis leptipileptus,1,North America,Haiti,0,1984,NA,NA,37,37,3.5,1,0,0,0,0,0,1,0,0,1,1,0,0,0.51,1
+Mochlus simonettai,0,Africa,Somalia,0,1978,NA,NA,43,43,14.5,0,1,0,0,0,0,1,0,0,0,0,0,0,0.285,1
+Mokopirirakau cupola,0,Oceania,South Island (New Zealand),0,2007,NA,NA,14,14,18.4,0,0,1,0,0,0,0,0,0,0,0,0,0,0.931,3
+Mokopirirakau Okarito,0,Oceania,South Island (New Zealand),0,2000,2020,20,NA,20,18.4,1,0,1,0,0,0,0,0,0,0,0,0,0,0.931,1
+Monarcha boanensis,0,Asia,Indonesia,1,1918,1991,73,NA,73,25.98,1,0,1,0,0,0,0,0,0,1,1,0,0,0.718,3
+Monarcha julianae,0,Asia,Indonesia,1,1955,1986,31,NA,31,25.98,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Monodelphis unistriata,0,South America,Argentina; Brazil,0,1899,NA,NA,122,122,55.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.83,1
+Monopeltis adercae,0,Africa,The Democratic Republic of Congo,0,1953,NA,NA,68,68,66.4,1,1,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Monopeltis remaclei,0,Africa,The Democratic Republic of Congo,0,1933,NA,NA,88,88,66.4,0,1,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Montaspis gilvomaculata,0,Africa,South Africa,0,2000,NA,NA,21,21,883,0,0,0,1,1,0,0,0,0,0,0,0,0,0.709,2
+Muntiacus montanus,0,Asia,Indonesia,0,1930,2008,78,NA,78,19927,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Muntiacus rooseveltorum,0,Asia,Lao PDR,0,1929,1994,65,NA,65,13499.94,1,0,0,0,0,0,1,0,0,1,1,0,0,0.613,1
+Murina tenebrosa,0,Asia,Japan,1,1962,NA,NA,59,59,6.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0.919,2
+Mustela russelliana,0,Asia,China,0,1911,NA,NA,110,110,497.39,1,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Mustela tonkinensis,0,Asia,Vietnam,0,1939,NA,NA,82,82,497.39,1,0,0,0,0,0,0,0,0,0,0,0,0,0.693,2
+Myadestes lanaiensis,0,Oceania,Hawaii,1,1980,NA,NA,41,41,35.7,1,0,0,0,0,0,0,0,1,0,0,0,0,0.945,3
+Myotis planiceps,0,North America,Mexico,0,1970,2004,34,NA,34,2.99,1,0,0,0,0,0,0,0,0,0,1,0,0,0.779,1
+Myriopholis yemenicus,0,Asia,Yemen,0,1933,NA,NA,88,88,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0.47,1
+Mystacina robusta,0,Oceania,South Island (New Zealand),1,1967,NA,NA,54,54,24.25,1,0,0,0,0,0,0,0,1,0,0,0,0,0.921,3
+Nactus acutus,0,Oceania,Papua New Guinea,1,2004,NA,NA,17,17,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Nannophryne cophotis,0,South America,Peru,0,2005,NA,NA,16,16,45,0,0,1,1,1,0,1,0,1,1,1,1,0,0.777,3
+Nannoscincus garrulus,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,1.7,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Nannoscincus humectus,0,Oceania,New Caledonia,1,1996,NA,NA,25,25,1.7,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Nannoscincus koniambo,0,Oceania,New Caledonia,1,2009,NA,NA,12,12,1.7,0,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Nannoscincus manautei,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,1.7,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Nannoscincus rankini,0,Oceania,New Caledonia,1,1998,NA,NA,23,23,1.2,1,0,0,0,0,0,0,0,1,0,0,0,0,0.813,1
+Nanorana aenea,0,Asia,China; Lao PDR; Thailand; Vietnam,0,1938,2000,62,NA,62,39.9,1,0,0,0,1,0,0,0,0,1,0,0,0,0.777,1
+Nanorana mokokchungensis,0,Asia,India,0,1996,NA,NA,25,25,39.9,1,0,0,0,1,0,0,0,0,0,0,0,0,0.647,2
+Natalus primus,0,North America,Cuba,0,1919,1992,73,NA,73,4.7,0,0,0,0,0,0,0,0,0,1,0,0,1,0.783,1
+Nectophrynoides poyntoni,0,Africa,Tanzania,0,2003,NA,NA,18,18,5.2,1,0,0,0,0,0,0,0,0,0,1,0,0,0.529,3
+Nemosia rourei,0,South America,Brazil,0,1941,1998,57,NA,57,16.425,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Neodrepanis hypoxantha,0,Africa,Madagascar,0,1933,1988,55,NA,55,7.05,1,0,1,0,0,0,0,0,0,1,0,0,0,0.528,1
+Neonycteris pusilla,0,South America,Brazil,0,1929,NA,NA,92,92,6.11,1,0,0,0,0,0,0,0,0,0,1,0,0,0.765,1
+Neopteryx frosti,0,Asia,Indonesia,0,1939,1985,46,NA,46,176.65,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,2
+Neospiza concolor,0,Africa,Sao Tome and Principe,1,1888,1991,103,NA,103,50,1,0,0,0,0,0,0,0,1,1,1,0,0,0.625,2
+Nesolagus netscheri,0,Asia,Indonesia,0,1972,2000,28,NA,28,1511.67,1,0,0,0,0,0,1,0,0,1,0,0,0,0.718,3
+Nesoromys ceramicus,0,Asia,Indonesia,1,1920,1987,67,NA,67,66.5,1,0,0,0,0,0,0,0,1,0,1,0,0,0.718,1
+Nesoryzomys fernandinae,0,South America,Ecuador,1,1979,1995,16,NA,16,32.3,1,0,1,0,0,0,0,0,1,0,0,0,0,0.759,1
+Nesoryzomys swarthi,0,South America,Ecuador,1,1906,1997,91,NA,91,98.05,0,0,1,1,0,0,0,0,1,0,0,0,0,0.759,3
+Nessia deraniyagalai,0,Asia,Sri Lanka,0,1944,NA,NA,77,77,14.3,1,0,0,0,0,0,1,0,0,0,0,0,0,0.782,3
+Newtonia fanovanae,0,Africa,Madagascar,0,1933,1989,56,NA,56,12.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,3
+Nilopegamys plumbeus,0,Africa,Ethiopia,0,1925,NA,NA,96,96,60.5,0,0,0,0,1,0,0,0,0,1,0,0,0,0.47,3
+Nimbaphrynoides occidentalis,0,Africa,Côte d'Ivoire; Guinea; Liberia,0,1978,2010,32,NA,32,79.56,0,0,0,1,0,0,0,0,0,1,0,0,0,0.538,1
+Niveoscincus palfreymani,0,Oceania,Australia,1,2001,NA,NA,20,20,4.6,0,0,0,0,0,0,0,1,0,0,0,0,1,0.944,1
+Nomascus nasutus,0,Asia,China; Vietnam,0,1965,2002,37,NA,37,6568.43,1,0,0,0,0,0,0,0,0,1,1,0,0,0.761,4
+Nototriton tomamorum,0,North America,Honduras,0,2010,NA,NA,11,11,18.12,1,0,0,0,0,0,0,0,0,1,1,0,1,0.623,1
+Nucras aurantiaca,0,Africa,South Africa,0,2011,NA,NA,10,10,5.5,0,0,1,0,0,0,0,0,0,1,0,0,0,0.709,1
+Numenius borealis,0,North America; South America,Argentina; Barbados; Brazil; Canada; Chile; Mexico; Paraguay; USA; Uruguay,0,1963,NA,NA,58,58,368.5,0,0,0,1,0,0,0,0,0,1,1,0,0,0.929,4
+Nyctibius leucopterus,0,South America,Brazil; Guyana; Peru,0,1817,1993,176,NA,176,86.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Nycticebus bancanus,0,Asia,Indonesia,1,1937,NA,NA,84,84,940.19,1,0,0,0,0,0,1,0,0,1,0,0,0,0.707,1
+Nyctimene malaitensis,0,Oceania,Solomon Islands,1,1968,2004,36,NA,36,78.39,1,0,0,0,0,0,0,0,0,0,0,0,0,0.567,1
+Nymphargus armatus,0,South America,Colombia,0,1997,NA,NA,24,24,0.75,1,0,0,0,1,0,0,0,1,0,0,0,0,0.767,2
+Nymphargus bejaranoi,0,South America,Bolivia,0,2002,2020,18,NA,18,0.75,1,0,0,0,1,0,0,0,1,1,0,1,1,0.718,1
+Nymphargus truebae,0,South America,Peru,0,2005,NA,NA,16,16,0.75,1,0,0,0,1,0,0,0,1,0,0,0,0,0.777,3
+Octodon pacificus,0,South America,Chile,1,1994,NA,NA,27,27,186.96,1,0,0,0,0,0,0,0,0,1,1,0,0,0.847,2
+Oedipina altura,0,North America,Costa Rica,0,1985,NA,NA,36,36,18.12,1,0,0,0,0,0,0,0,0,1,0,0,0,0.794,1
+Oedipina maritima,0,North America,Panama,1,1991,NA,NA,30,30,18.12,1,0,0,0,0,0,0,0,0,1,1,0,1,0.795,2
+Oedipina paucidentata,0,North America,Costa Rica,0,1952,NA,NA,69,69,18.12,1,0,0,0,0,0,0,0,0,1,0,0,0,0.794,1
+Oedipina petiola,0,North America,Honduras,0,1995,NA,NA,26,26,18.12,1,0,0,0,0,0,0,0,0,1,1,0,1,0.623,3
+Ognorhynchus icterotis,0,South America,Colombia,0,1919,2005,86,NA,86,285,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Oligodon jintakunei,0,Asia,Thailand,0,2002,NA,NA,19,19,163.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Oligosoma infrapunctatum,0,Oceania,South Island (New Zealand),0,1887,NA,NA,134,134,14.7,0,0,1,1,0,0,1,0,1,1,1,0,0,0.931,3
+Oligosoma pikitanga,0,Oceania,South Island (New Zealand),0,2008,NA,NA,13,13,14.7,0,0,1,0,0,0,0,0,1,0,0,0,0,0.931,1
+Omoadiphas cannula,0,North America,Honduras,0,1989,NA,NA,32,32,363.5,1,0,0,0,0,0,1,0,0,1,1,0,0,0.634,3
+Onychogalea fraenata,0,Oceania,Australia,0,1944,1974,30,NA,30,5226.025,1,1,1,0,0,0,0,0,1,1,0,0,1,0.944,2
+Ophidiocephalus taeniatus,0,Oceania,Australia,0,1897,1978,81,NA,81,24.6,0,0,1,0,0,0,0,0,1,1,0,0,0,0.944,1
+Ophiodes luciae,0,South America,Paraguay,0,1995,NA,NA,26,26,28.23,0,1,0,0,0,0,0,0,0,0,0,0,0,0.728,1
+Ophrysia superciliosa,0,Asia,India,0,1876,NA,NA,145,145,705,0,0,1,1,0,0,0,0,0,1,1,0,1,0.647,3
+Oreobates granulosus,0,South America,Peru,0,1903,2008,105,NA,105,18.5,1,0,0,0,1,0,0,0,1,0,0,0,0,0.777,1
+Oreobates heterodactylus,0,South America,Brazil,0,1937,2005,68,NA,68,18.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0.765,1
+Oreobates zongoensis,0,South America,Bolivia,0,1996,2017,21,NA,21,18.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.718,3
+Oreonax flavicauda,0,South America,Peru,0,1926,1974,48,NA,48,8229.12,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,1
+Ornithuroscincus albodorsalis,1,Oceania,Papua New Guinea,0,1974,NA,NA,47,47,1.3,1,0,0,0,0,0,0,0,0,0,1,0,0,0.555,1
+Oroanassa magnifica,0,Asia,China; Vietnam,0,1960,1990,30,NA,30,470.5,1,0,0,0,1,0,0,0,0,1,1,1,0,0.761,1
+Oryzomys gorgasi,0,South America,Colombia; Venezuela,0,1971,2001,30,NA,30,60.5,1,0,0,1,1,0,0,0,1,1,0,0,0,0.767,2
+Oryzorictes tetradactylus,0,Africa,Madagascar,0,2008,NA,NA,13,13,35.99,1,0,1,1,1,0,0,0,0,0,0,0,0,0.521,1
+Oscaecilia osae,0,North America,Costa Rica,0,1990,2004,14,NA,14,211.18,1,0,0,0,0,0,1,0,0,0,0,0,0,0.81,1
+Otomops formosus,0,Asia,Indonesia,0,1939,1990,51,NA,51,30.39,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Otus alfredi,0,Asia,Indonesia,1,1896,1994,98,NA,98,99.8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Otus capnodes,0,Africa,Comoros,1,1886,1992,106,NA,106,101,1,0,0,0,0,0,1,0,1,1,1,0,0,0.554,3
+Otus insularis,0,Africa,Seychelles,1,1906,1959,53,NA,53,99.8,1,0,0,0,0,0,1,0,1,1,1,0,0,0.796,1
+Otus pauliani,0,Africa,Comoros,1,1886,1989,103,NA,103,69.5,1,0,1,0,0,0,0,0,1,1,1,0,0,0.554,1
+Otus siaoensis,0,Asia,Indonesia,1,1866,NA,NA,155,155,126.65,1,0,0,0,0,0,1,0,0,1,1,0,0,0.707,3
+Oxypogon cyanolaemus,0,South America,Colombia,0,1946,2015,69,NA,69,4.8,1,0,0,1,0,0,0,0,0,1,1,0,0,0.767,3
+Oxyuranus microlepidotus,0,Oceania,Australia,0,1882,1972,90,NA,90,6107,0,0,0,0,1,0,0,0,1,0,0,0,0,0.944,1
+Pachydactylus otaviensis,0,Africa,Namibia,0,2004,NA,NA,17,17,4,0,1,0,0,0,0,0,0,0,1,0,0,0,0.646,2
+Pachytriton granulosus,0,Asia,China,0,1933,2009,76,NA,76,15.29,1,0,0,0,1,0,0,0,0,1,1,0,1,0.761,1
+Panaspis burgeoni,0,Africa,The Democratic Republic of Congo,0,1932,NA,NA,89,89,1.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.48,1
+Panaspis duruarum,0,Africa,Cameroon,0,1947,NA,NA,74,74,1.7,0,1,0,0,0,0,0,0,0,0,0,0,0,0.563,2
+Panaspis helleri,0,Africa,The Democratic Republic of Congo,0,1925,NA,NA,96,96,1.7,0,0,1,1,0,0,0,0,0,0,0,0,0,0.48,1
+Panaspis tancredii,0,Africa,"Ethiopia, Zambia",0,1908,NA,NA,113,113,1.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.584,1
+Panaspis wilsoni,0,Africa,Sudan,0,1914,NA,NA,107,107,1.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.51,1
+Pantepuisaurus rodriguesi,0,South America,Guyana,0,2007,NA,NA,14,14,2.9,1,0,0,1,1,0,0,0,0,0,0,0,0,0.682,1
+Papuascincus buergersi,0,Oceania,Papua New Guinea,0,1913,NA,NA,108,108,4.2,1,1,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Papuascincus phaeodes,0,Oceania,Papua New Guinea,0,1913,NA,NA,108,108,1.6,1,1,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Paraclaravis geoffroyi,0,South America,Argentina; Paraguay; Brazil,0,2005,NA,NA,16,16,80.05,1,0,0,0,0,0,0,0,0,1,1,0,0,0.83,2
+Paracontias fasika,0,Africa,Madagascar,0,2007,NA,NA,14,14,4.9,0,0,1,0,0,0,0,1,0,1,1,0,0,0.528,1
+Paracontias kankana,0,Africa,Madagascar,0,2008,NA,NA,13,13,4.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Paracontias manify,0,Africa,Madagascar,0,2001,NA,NA,20,20,6,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Paracontias tsararano,0,Africa,Madagascar,0,1996,NA,NA,25,25,4.9,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Paracontias vermisaurus,0,Africa,Madagascar,0,2009,NA,NA,12,12,4.9,1,0,0,0,0,0,0,0,0,1,0,0,0,0.528,1
+Paragehyra austini,0,Africa,Madagascar,0,2005,NA,NA,16,16,8.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Parantechinus apicalis,0,Oceania,Australia,0,1884,1967,83,NA,83,70.655,0,0,1,0,0,0,0,0,1,1,0,0,0,0.944,3
+Paratelmatobius gaigeae,0,South America,Brazil,0,1931,2003,72,NA,72,131.79,1,0,0,0,1,0,0,0,1,0,1,0,0,0.765,1
+Paratelmatobius lutzii,0,South America,Brazil,0,1978,NA,NA,43,43,31,1,0,0,0,1,0,0,0,1,1,0,0,0,0.765,1
+Paratelmatobius mantiqueira,0,South America,Brazil,0,1953,2005,52,NA,52,131.79,1,0,0,0,1,0,0,0,1,0,1,0,0,0.765,1
+Pardofelis badia,0,Asia,Indonesia; Malaysia,0,1928,1992,64,NA,64,47362.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.81,3
+Pareudiastes pacificus,0,Oceania,Samoa,1,1873,NA,NA,148,148,373.23,1,0,0,0,0,0,0,0,1,1,1,0,0,0.707,3
+Pareudiastes silvestris,0,Oceania,Solomon Islands,1,1953,NA,NA,68,68,450,1,0,0,0,0,0,0,0,1,0,1,0,0,0.557,3
+Parhoplophryne usambarica,0,Africa,Tanzania,0,1925,NA,NA,96,96,24.86,1,0,0,0,0,0,0,0,0,1,0,0,0,0.529,3
+Paroreomyza maculata,0,Oceania,Hawaii,1,1985,NA,NA,36,36,13.15,1,0,0,0,0,0,0,0,1,1,0,0,0,0.945,2
+Parotia berlepschi,0,Asia,Indonesia,0,1981,2005,24,NA,24,146.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Paruwrobates andinus,0,South America,Colombia,0,1995,NA,NA,26,26,0.87,1,0,0,0,0,0,0,0,1,1,0,0,0,0.767,2
+Parvoscincus agtorum,0,Asia,Philippines,0,2009,NA,NA,12,12,2.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Parvoscincus banahaoensis,0,Asia,Philippines,0,2001,NA,NA,20,20,2.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Parvoscincus igorotorum,0,Asia,Philippines,0,2001,NA,NA,20,20,2.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Parvoscincus palaliensis,0,Asia,Philippines,0,2007,NA,NA,14,14,2.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Parvoscincus palawanensis,0,Asia,Philippines,1,1961,NA,NA,60,60,2.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Parvoscincus sisoni,0,Asia,Philippines,1,1992,NA,NA,29,29,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Peltophryne fluviatica,0,North America,Dominican Republic,0,1972,NA,NA,49,49,30.9,1,0,0,0,1,0,0,0,0,1,1,0,0,0.745,4
+Peltophryne lemur,0,North America,Puerto Rico,1,1930,1966,36,NA,36,79.56,1,0,0,0,1,0,0,0,1,1,0,0,1,0.845,1
+Penelope albipennis,0,South America,Peru,0,1876,1977,101,NA,101,1750,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,4
+Perdicula manipurensis,0,Asia,India,0,1932,2006,74,NA,74,71,0,0,1,1,1,0,0,0,0,1,1,0,0,0.645,2
+Peromyscus guardia,0,North America,Mexico,1,1991,NA,NA,30,30,21.75,0,0,0,0,0,1,0,0,1,1,0,0,0,0.767,2
+Peromyscus mekisturus,0,North America,Mexico,0,1948,NA,NA,73,73,40,1,0,0,0,0,0,0,0,0,1,0,0,1,0.767,1
+Petaurus gracilis,0,Oceania,Australia,0,1886,1989,103,NA,103,310,1,0,0,0,0,0,0,0,1,1,0,0,0,0.944,1
+Petinomys fuscocapillus,0,Asia,India; Sri Lanka,0,1889,1989,100,NA,100,712,1,0,0,0,0,0,1,0,0,1,1,0,0,0.782,1
+Petracola angustisoma,0,South America,Peru,0,2007,NA,NA,14,14,3.8,1,0,0,0,0,0,1,0,0,0,0,0,0,0.777,1
+Petracola labioocularis,0,South America,Peru,0,1998,NA,NA,23,23,6.6,0,0,1,0,0,0,1,0,0,1,0,0,0,0.777,1
+Pezoporus occidentalis,0,Oceania,Australia,0,1912,1979,67,NA,67,75.7,0,0,1,1,0,0,0,0,1,1,1,0,0,0.944,4
+Phaenomys ferrugineus,0,South America,Brazil,0,1940,1998,58,NA,58,93.8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Phaeoscincus ouinensis,0,Oceania,New Caledonia,1,2003,NA,NA,18,18,2.8,0,0,1,0,0,0,0,0,1,1,0,0,0,0.813,1
+Phaeoscincus taomensis,0,Oceania,New Caledonia,1,2002,NA,NA,19,19,2.8,1,0,0,0,0,0,0,0,1,1,0,0,0,0.813,1
+Phalanger matanim,0,Oceania,Papua New Guinea,0,1997,NA,NA,24,24,1442.38,1,0,0,0,0,0,0,0,0,1,1,0,0,0.543,1
+Pharotis imogene,0,Oceania,Papua New Guinea,0,1890,2012,122,NA,122,8.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.555,2
+Phelsuma gouldi,0,Africa,Madagascar,0,2009,NA,NA,12,12,21.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Phelsuma kely,0,Africa,Madagascar,0,2000,NA,NA,21,21,21.2,1,0,0,0,0,0,1,0,0,1,1,0,0,0.528,1
+Phelsuma masohoala,0,Africa,Madagascar,0,1994,2016,22,NA,22,21.2,1,0,0,0,0,0,0,0,0,0,1,0,0,0.528,1
+Philautus jacobsoni,0,Asia,Indonesia,0,1912,NA,NA,109,109,12.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.707,4
+Philautus kempii,0,Asia,India,0,1912,NA,NA,109,109,12.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.647,1
+Philautus microdiscus,0,Asia,India,0,1912,NA,NA,109,109,12.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.647,1
+Phoboscincus bocourti,0,Oceania,New Caledonia,1,1876,2003,127,NA,127,639.1,1,0,0,0,0,0,0,0,1,1,1,0,0,0.813,1
+Phodilus prigoginei,0,Africa,The Democratic Republic of Congo ,0,1951,1996,45,NA,45,195,1,0,0,1,0,0,0,0,0,1,0,0,0,0.48,1
+Phoniscus papuensis,0,Asia; Oceania,Australia; Indonesia; Papua New Guinea,0,1897,1981,84,NA,84,6.32,1,0,0,0,0,0,0,0,1,1,1,1,1,0.944,3
+Phrynobatrachus intermedius,0,Africa,Ghana,0,2010,NA,NA,11,11,1.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.596,1
+Phrynobatrachus manengoubensis,0,Africa,Cameroon,0,2008,NA,NA,13,13,0.52,0,0,0,1,1,0,0,0,1,1,1,0,0,0.563,2
+Phrynobatrachus njiomock,0,Africa,Cameroon,0,2010,NA,NA,11,11,1.2,1,0,0,0,1,0,0,0,1,1,0,0,0,0.563,4
+Phrynomedusa appendiculata,0,South America,Brazil,0,1925,NA,NA,96,96,2.44,1,0,0,0,1,0,0,0,1,0,0,0,0,0.765,1
+Phrynopus peruanus,0,South America,Peru,0,1874,2005,131,NA,131,42.48,0,0,0,1,1,0,0,0,0,1,1,0,0,0.777,1
+Phyllodactylus papenfussi,0,North America,Mexico,0,2001,NA,NA,20,20,6.7,1,0,1,0,0,1,1,0,0,0,0,0,0,0.779,1
+Phyllodactylus pulcher,0,North America,Barbados,1,1995,2011,16,NA,16,6.7,0,0,0,0,0,0,0,1,1,1,0,0,0,0.814,4
+Phyllodytes wuchereri,0,South America,Brazil,0,1873,2004,131,NA,131,17.36,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Phyllomys unicolor,0,South America,Brazil,0,1824,2004,180,NA,180,439,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Phyllonycteris aphylla,0,North America,Jamaica,1,1898,1957,59,NA,59,14.15,0,0,0,0,0,0,0,0,1,1,0,0,0,0.734,1
+Phylloscartes roquettei,0,South America,Brazil,0,1977,1993,16,NA,16,6,1,0,1,0,0,0,0,0,0,1,0,0,1,0.765,3
+Phymaturus desuetus,0,South America,Argentina,0,2006,NA,NA,15,15,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.845,1
+Physalaemus moreirae,0,South America,Brazil,0,1937,NA,NA,84,84,2.99,1,0,0,0,1,0,0,0,1,1,1,0,0,0.765,2
+Piliocolobus bouvieri,0,Africa,Congo,0,1887,2015,128,NA,128,7847,1,0,0,0,0,0,0,0,0,1,1,0,0,0.574,4
+Piliocolobus waldroni,0,Africa,Côte d'Ivoire; Ghana,0,1978,NA,NA,43,43,7848.03,1,0,0,0,0,0,1,0,0,1,1,0,0,0.596,4
+Pithecia vanzolinii,0,South America,Brazil,0,1956,2017,61,NA,61,2138.44,1,0,0,0,0,0,0,0,0,0,1,0,0,0.765,1
+Pithys castaneus,0,South America,Peru,0,1938,2001,63,NA,63,29.8,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,3
+Plagiodontia aedium,0,North America,Dominican Republic; Haiti,0,1836,1948,112,NA,112,1267,1,0,0,0,0,0,0,0,1,1,1,0,0,0.756,2
+Plagiopholis unipostocularis,0,Asia,China,0,1978,NA,NA,43,43,53,1,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Platymantis cornutus,0,Asia,Philippines,0,1922,1998,76,NA,76,9.1,1,0,0,0,0,0,1,0,0,1,1,0,1,0.718,1
+Platymantis hazelae,0,Asia,Philippines,1,1922,1998,76,NA,76,9.1,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Plectrohyla pycnochila,0,North America,Mexico,0,1954,NA,NA,67,67,20.6,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Plestiodon coreensis,0,Asia,"North Korea, South Korea",0,1936,NA,NA,85,85,9.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.916,1
+Plestiodon nietoi,0,North America,Mexico,0,2007,2017,10,NA,10,9.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.779,1
+Plethodon ainsworthi,0,North America,USA,0,1964,NA,NA,57,57,29.85,1,0,0,0,1,0,0,0,0,0,1,0,0,0.926,3
+Plethodon neomexicanus,0,North America,USA,0,1913,1950,37,NA,37,29.85,1,0,0,0,0,0,0,0,0,1,1,0,0,0.926,1
+Plica lumaria,0,South America,Venezuela,0,1990,NA,NA,31,31,44.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.711,1
+Plica pansticta,0,South America,Venezuela,0,1995,NA,NA,26,26,44.9,0,0,1,0,0,0,0,0,0,0,0,0,0,0.711,1
+Ploceus aureonucha,0,Africa,The Democratic Republic of Congo ,0,1993,2006,13,NA,13,27.46,1,0,0,0,0,0,0,0,0,1,0,0,0,0.48,1
+Ploceus megarhynchus,0,Asia,India; Nepal,0,1869,1889,20,NA,20,35.3,0,0,0,1,0,0,1,0,1,1,1,0,0,0.645,1
+Poecilotriccus senex,0,South America,Brazil,0,1830,1993,163,NA,163,7.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Polypedates chlorophthalmus,0,Asia,Malaysia,0,2003,NA,NA,18,18,21.4,1,0,0,0,1,0,0,0,0,1,1,0,0,0.804,2
+Pomarea mira,0,Oceania,French Polynesia,1,1985,NA,NA,36,36,27.96,1,0,0,0,0,0,1,0,1,1,0,0,0,0.7,3
+Porphyrio hochstetteri,0,Oceania,North Island (New Zealand),1,1898,1948,50,NA,50,2472.75,1,0,0,1,0,0,1,0,1,0,1,0,1,0.931,1
+Potamites ocellatus,0,South America,Bolivia,0,1921,NA,NA,100,100,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0.718,1
+Potorous gilbertii,0,Oceania,Australia,1,1900,1994,94,NA,94,1087.335,0,0,1,0,0,0,0,0,1,1,0,0,0,0.944,3
+Prasinohaema parkeri,0,Oceania,Papua New Guinea,0,1913,NA,NA,108,108,3.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Prionailurus planiceps,0,Asia,Brunei; Indonesia; Thailand,0,1985,1995,10,NA,10,5141.88,1,0,0,0,1,0,0,0,0,1,1,1,0,0.838,1
+Pristimantis albericoi,0,South America,Colombia,0,1986,NA,NA,35,35,2.84,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Pristimantis anotis,0,South America,Venezuela,0,1974,NA,NA,47,47,2.84,1,0,0,0,1,0,0,0,1,0,0,0,0,0.726,1
+Pristimantis bernali,0,South America,Colombia,0,1981,NA,NA,40,40,2.84,1,0,0,0,0,0,0,0,1,1,1,1,0,0.767,3
+Pristimantis cacao,0,South America,Colombia,0,2001,NA,NA,20,20,2.84,1,0,0,0,0,0,0,0,1,1,0,1,0,0.767,3
+Pristimantis caprifer,0,South America,Colombia; Ecuador,0,1983,NA,NA,38,38,2.84,1,0,0,0,1,0,1,0,1,1,1,1,0,0.761,2
+Pristimantis chrysops,0,South America,Colombia,0,1997,NA,NA,24,24,2.84,1,0,0,0,0,0,0,0,1,1,0,0,0,0.767,4
+Pristimantis cosnipatae,0,South America,Peru,0,1999,NA,NA,22,22,2.84,1,0,0,0,0,0,0,0,1,0,0,0,0,0.777,3
+Pristimantis deinops,0,South America,Colombia,0,2001,NA,NA,20,20,2.84,1,0,0,0,0,0,0,0,1,1,0,0,0,0.767,4
+Pristimantis diaphonus,0,South America,Colombia,0,1993,NA,NA,28,28,2.84,1,0,0,0,1,0,0,0,1,0,0,0,0,0.767,2
+Pristimantis diogenes,0,South America,Colombia,0,1993,NA,NA,28,28,2.84,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,3
+Pristimantis hoogmoedi,0,South America,Venezuela,0,2005,NA,NA,16,16,3.84,1,0,0,0,1,0,0,0,1,1,1,0,0,0.726,3
+Pristimantis jaimei,0,South America,Colombia,0,1993,NA,NA,28,28,2.84,1,0,0,0,1,0,0,0,1,1,0,1,0,0.767,1
+Pristimantis lichenoides,0,South America,Colombia,0,1995,NA,NA,26,26,2.84,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Pristimantis longicorpus,0,South America,Venezuela,0,2001,NA,NA,20,20,4.84,1,0,0,0,0,0,0,0,1,1,1,0,0,0.726,2
+Pristimantis mars,0,South America,Colombia,0,1992,NA,NA,29,29,2.84,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Pristimantis molybrignus,0,South America,Colombia,0,1999,NA,NA,22,22,2.84,1,0,0,0,1,0,1,0,1,1,0,0,0,0.767,2
+Pristimantis phragmipleuron,0,South America,Colombia,0,1983,NA,NA,38,38,2.84,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,2
+Pristimantis pugnax,0,South America,Colombia; Ecuador,0,1995,NA,NA,26,26,2.84,1,0,0,0,1,0,0,0,0,1,1,0,0,0.761,3
+Pristimantis signifer,0,South America,Colombia,0,1995,NA,NA,26,26,2.84,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,2
+Pristimantis spilogaster,0,South America,Colombia,0,1983,NA,NA,38,38,2.84,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Pristimantis stenodiscus,0,South America,Venezuela,0,1955,NA,NA,66,66,1.4,1,0,0,0,0,0,0,0,1,0,0,0,0,0.726,1
+Pristimantis torrenticola,0,South America,Colombia,0,1994,NA,NA,27,27,2.84,1,0,0,0,1,0,0,0,1,1,1,1,0,0.767,3
+Pristimantis xylochobates,0,South America,Colombia,0,1998,NA,NA,23,23,2.84,1,0,0,0,0,0,0,0,1,1,1,0,0,0.767,2
+Pristurus schneideri,0,Africa,Yemen,1,2004,NA,NA,17,17,0.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0.47,1
+Proablepharus barrylyoni,0,Oceania,Australia,0,1984,NA,NA,37,37,1.4,0,0,0,1,0,0,0,0,1,1,0,0,0,0.944,4
+Proceratophrys moratoi,0,South America,Brazil,0,1990,2009,19,NA,19,9.5,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,2
+Proctoporus cephalolineatus,0,South America,Venezuela,0,1985,NA,NA,36,36,7.1,1,0,0,0,0,0,0,0,0,1,0,0,0,0.711,1
+Prolemur simus,0,Africa,Madagascar,0,1955,1986,31,NA,31,1883.955,1,0,0,0,0,0,1,0,0,1,1,0,1,0.528,1
+Proscelotes aenea,0,Africa,Mozambique,0,1928,NA,NA,93,93,4.76,1,0,0,0,0,0,0,0,0,0,0,0,0,0.456,1
+Prostherapis dunni,0,South America,Venezuela,0,1977,NA,NA,44,44,13.16,1,0,0,0,1,0,0,0,1,1,0,1,0,0.726,3
+Prosymna ornatissima,0,Africa,Tanzania,0,1925,2007,82,NA,82,21,1,0,0,0,0,0,1,0,0,1,1,0,0,0.529,1
+Protohynobius puxiongensis,0,Asia,China,0,1965,2009,44,NA,44,11.58,1,0,0,0,1,0,0,0,0,1,1,0,0,0.761,1
+Pseudantechinus mimulus,0,Oceania,Australia,0,1906,1967,61,NA,61,39.99,0,1,1,1,0,0,0,0,1,1,0,0,0,0.944,2
+Pseudemydura umbrina,0,Oceania,Australia,0,1839,1953,114,NA,114,324.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.944,1
+Pseuderemias savagei,0,Africa,Somalia,0,1961,NA,NA,60,60,2.9,0,1,1,0,0,0,0,0,0,0,0,0,0,0.285,1
+Pseudoacontias madagascariensis,0,Africa,Madagascar,0,1889,NA,NA,132,132,207.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Pseudoacontias menamainty,0,Africa,Madagascar,0,2000,NA,NA,21,21,299.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.528,1
+Pseudoacontias unicolor,0,Africa,Madagascar,1,2000,NA,NA,21,21,316.2,1,0,0,0,0,0,0,0,0,1,0,0,0,0.528,1
+Pseudobulweria aterrima,0,Africa,La Réunion,1,1900,1970,70,NA,70,320.5,0,0,1,0,0,0,0,1,1,0,1,1,0,0.843,1
+Pseudobulweria becki,0,Oceania,Papua New Guinea; Solomon Islands,1,1929,2007,78,NA,78,409,1,0,0,0,0,0,0,1,1,1,0,0,0,0.567,1
+Pseudobulweria macgillivrayi,0,Oceania,Fiji,1,1855,1984,129,NA,129,143,1,0,0,0,0,0,0,1,1,0,1,0,0,0.743,3
+Pseudocalotes saravacensis,0,Asia,Malaysia,0,1993,NA,NA,28,28,9.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Pseudocophotis kontumensis,0,Asia,Vietnam,0,2006,NA,NA,15,15,12.6,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Pseudoeurycea anitae,0,North America,Mexico,0,1976,NA,NA,45,45,2.96,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,3
+Pseudoeurycea aquatica,0,North America,Mexico,0,1978,NA,NA,43,43,7.32,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Pseudoeurycea brunnata,0,North America,Guatemala; Mexico,0,1980,NA,NA,41,41,5.01,1,0,0,0,0,0,0,0,1,1,1,0,1,0.767,2
+Pseudoeurycea exspectata,0,North America,Guatemala,0,1976,NA,NA,45,45,5.06,1,0,0,0,0,0,1,0,0,1,1,0,0,0.651,4
+Pseudoeurycea goebeli,0,North America,Guatemala,0,2006,NA,NA,15,15,5.06,1,0,0,0,0,0,0,0,1,1,1,0,1,0.651,2
+Pseudoeurycea mixcoatl,0,North America,Mexico,0,1977.5,NA,NA,43.5,43.5,3.44,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,2
+Pseudoeurycea nigromaculata,0,North America,Mexico,0,1985,2006,21,NA,21,18.12,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,2
+Pseudoeurycea teotepec,0,North America,Mexico,0,1964,NA,NA,57,57,5.56,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,3
+Pseudoeurycea unguidentis,0,North America,Mexico,0,1976,NA,NA,45,45,6.09,1,0,0,0,0,0,0,0,1,1,1,0,0,0.767,1
+Pseudonestor xanthophrys,0,North America,Hawaii,1,1895,1950,55,NA,55,22.25,1,0,0,0,0,0,0,0,1,0,0,0,0,0.926,1
+Pseudophilautus hypomelas,0,Asia,Sri Lanka,0,1876,2010,134,NA,134,12.4,1,0,0,0,0,0,0,0,0,1,1,1,1,0.782,2
+Pseudophilautus stellatus,0,Asia,Sri Lanka,0,1853,2013,160,NA,160,12.4,1,0,0,0,0,0,0,0,0,1,1,1,1,0.782,2
+Psittirostra psittacea,0,Oceania,Hawaii,1,1989,NA,NA,32,32,37.85,1,0,0,0,0,0,0,0,1,1,1,0,1,0.945,3
+Pteralopex anceps,0,Oceania,Papua New Guinea; Solomon Islands,0,1925,1995,70,NA,70,532.775,1,0,0,0,0,0,0,0,0,1,1,0,0,0.567,2
+Pteralopex flanneryi,0,Oceania,Papua New Guinea; Solomon Islands,0,2000,NA,NA,21,21,393.06,1,0,0,0,0,0,0,0,0,0,1,0,0,0.557,3
+Pteralopex pulchra,0,Oceania,Solomon Islands,1,1990,NA,NA,31,31,291.15,1,0,0,0,0,0,0,0,0,0,0,0,0,0.557,1
+Pterodroma cahow,0,North America ,Bermuda,1,1620,1951,331,NA,331,246,0,0,0,0,0,0,0,1,1,1,1,1,0,0.981,1
+Pterodroma caribbaea,0,North America,Bahamas; Dominica; Guadeloupe; Jamaica,1,1879,NA,NA,142,142,278,1,0,0,0,0,0,0,1,1,0,1,0,0,0.853,3
+Pterodroma magentae,0,Oceania,Chatham Island (New Zealand),1,1869,1978,109,NA,109,465,1,0,0,0,0,0,0,1,1,0,1,0,0,0.931,3
+Pteropus aruensis,0,Asia,Indonesia,1,1992,NA,NA,29,29,874.94,1,0,0,0,0,0,0,0,0,0,0,0,0,0.707,1
+Pteropus gilliardorum,0,Oceania,Papua New Guinea,0,1959,1994,35,NA,35,406.94,1,0,0,0,0,0,0,0,0,1,1,0,1,0.555,1
+Pteropus nitendiensis,0,Oceania,Solomon Islands,1,1926,1990,64,NA,64,275.56,1,0,0,0,0,0,1,0,0,1,1,0,1,0.567,2
+Ptilinopus arcanus,0,Asia,Philippines,1,1953,NA,NA,68,68,47,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,3
+Ptychoglossus eurylepis,0,South America,Colombia,0,1984,NA,NA,37,37,1.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,1
+Ptychoglossus grandisquamatus,0,South America,Colombia,0,1981,NA,NA,40,40,1.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Ptychohyla dendrophasma,0,North America,Guatemala,0,1998,NA,NA,23,23,17.36,1,0,0,0,1,0,0,0,1,1,1,0,1,0.651,2
+Ptyodactylus homolepis,0,Asia,Pakistan,0,1876,NA,NA,145,145,8.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.557,1
+Pulchrana guttmani,0,Asia,Philippines,0,1993,2020,27,NA,27,41.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,2
+Pulchrana melanomenta,0,Asia,Philippines,1,1920,2004,84,NA,84,41.3,1,0,0,0,1,0,0,0,0,1,1,0,0,0.718,1
+Pycnonotus nieuwenhuisii,0,Asia,Brunei; Indonesia,0,1937,1992,55,NA,55,33.36,1,0,1,0,1,0,0,0,0,0,0,0,0,0.838,1
+Pyrrhula murina,0,Europe,Portugal (Azores),1,1932,1967,35,NA,35,27,1,0,1,0,0,0,1,0,1,1,1,0,0,0.864,1
+Pyrrhura subandina,0,South America,Colombia,0,1949,NA,NA,72,72,71.62,1,0,0,0,0,0,1,0,0,1,0,0,0,0.767,3
+Python kyaiktiyo,0,Asia,Myanmar,0,2003,NA,NA,18,18,26686.25,1,0,0,0,0,0,1,0,0,0,0,0,0,0.583,3
+Raclitia indica,1,Asia,"Malaysia, Singapore",0,1995,2014,19,NA,19,256.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0.938,1
+Rafetus swinhoei,0,Asia,China,0,1995,2020,25,NA,25,17604,0,0,0,0,1,0,0,0,0,1,1,1,1,0.761,4
+Rallus antarcticus,0,South America,Argentina; Chile,0,1959,1998,39,NA,39,82.57,0,0,0,0,1,0,0,0,0,1,1,0,0,0.851,1
+Ramphotyphlops aluensis,0,Oceania,Fiji,1,1887,2003,116,NA,116,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.743,3
+Rana chevronta,0,Asia,China,0,1983,NA,NA,38,38,10.7,1,0,0,0,1,0,0,0,0,1,0,1,0,0.761,2
+Raorchestes chalazodes,0,Asia,India,0,1878,2003,125,NA,125,12.4,1,0,0,0,0,0,1,0,0,1,0,0,0,0.645,1
+Raorchestes sanctisilvaticus,0,Asia,India,0,1963,2017,54,NA,54,12.4,1,0,0,0,0,0,0,0,0,1,1,0,0,0.645,1
+Raorchestes travancoricus,0,Asia,India,0,1853,2010,157,NA,157,12.4,1,0,1,0,0,0,1,0,0,1,0,0,0,0.645,4
+Rattus giluwensis,0,Oceania,Papua New Guinea,0,1983,2005,22,NA,22,101.11,1,0,0,1,0,0,0,0,0,0,0,0,0,0.555,1
+Rhacophorus bifasciatus,0,Asia,Indonesia,0,1926,2006,80,NA,80,8.45,1,0,0,0,1,0,0,0,0,1,1,0,0,0.718,1
+Rhacophorus lateralis,0,Asia,India,0,1883,2000,117,NA,117,8.45,1,0,0,0,1,0,1,0,0,1,0,0,0,0.645,1
+Rhacophorus poecilonotus,0,Asia,Indonesia,0,1920,2000,80,NA,80,8.45,1,0,0,0,1,0,1,0,0,1,1,0,0,0.718,1
+Rhagomys rufescens,0,South America,Brazil,0,1917,2003,86,NA,86,21.2,1,0,0,0,0,0,0,0,0,1,1,0,0,0.765,1
+Rhinella amabilis,0,South America,Ecuador,0,1968,NA,NA,53,53,39.93,0,0,0,0,1,0,0,0,1,1,0,0,0,0.759,2
+Rhinella chrysophora,0,North America,Honduras,0,1996,NA,NA,25,25,39.93,1,0,0,0,1,0,0,0,1,1,1,1,1,0.623,3
+Rhinella leptoscelis,0,South America,Bolivia,0,1912,2006,94,NA,94,88.5,1,0,0,0,1,0,0,0,1,1,0,0,0,0.718,1
+Rhinella rostrata,0,South America,Colombia,0,1914,NA,NA,107,107,39.93,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,1
+Rhinoderma rufum,0,South America,Chile,0,1981,NA,NA,40,40,30,1,0,0,0,1,0,0,0,1,1,0,0,1,0.847,3
+Rhinolophus hilli,0,Africa,Rwanda,0,1981,2019,38,NA,38,24.72,1,0,0,0,0,0,0,0,0,1,1,0,0,0.536,3
+Rhinolophus maclaudi,0,Africa,Guinea,0,1967,2002,35,NA,35,35.84,0,1,0,0,0,0,1,0,0,1,1,0,0,0.477,2
+Rhinolophus osgoodi,0,Asia,China; Vietnam,0,1939,2003,64,NA,64,12.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Rhinopithecus avunculus,0,Asia,Vietnam,0,1912,1992,80,NA,80,9043.095,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Rhinopithecus bieti,0,Asia,China,0,1897,1960,63,NA,63,14750,1,0,0,0,0,0,0,0,0,1,1,1,0,0.761,1
+Rhinoptilus bitorquatus,0,Asia,India,0,2009,NA,NA,12,12,164.5,0,0,1,0,0,0,0,0,0,1,1,0,0,0.647,2
+Rhipidura malaitae,0,Oceania,Solomon Islands,1,1930,1990,60,NA,60,12,1,0,0,0,0,0,0,0,1,0,0,0,1,0.567,1
+Rhodonessa caryophyllacea,0,Asia,Bangladesh; India; Myanmar; Nepal,0,1949,NA,NA,72,72,1076.5,1,0,0,0,1,0,0,0,1,1,1,0,0,0.647,3
+Rhynchomeles prattorum,0,Asia,Indonesia,1,1920,NA,NA,101,101,907,1,0,0,0,0,0,0,0,0,1,1,0,0,0.707,3
+Riama afrania,0,South America,Colombia,0,1989,NA,NA,32,32,4.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Riama inanis,0,South America,Venezuela,0,1983,NA,NA,38,38,4.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.711,4
+Riama luctuosa,0,South America,Venezuela,0,2005,NA,NA,16,16,4.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.711,1
+Riama stellae,0,South America,Colombia,0,1986,NA,NA,35,35,4.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.767,1
+Riolama luridiventris,0,South America,Venezuela,0,1992,NA,NA,29,29,4.8,1,0,1,1,0,0,0,0,0,0,0,0,0,0.711,1
+Riolama uzzelli,0,South America,Venezuela,0,1992,NA,NA,29,29,4.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0.711,1
+Ristella rurkii,0,Asia,India,0,1839,2018,179,NA,179,1.9,1,0,0,0,0,0,0,0,1,1,0,1,1,0.645,1
+Saccopteryx antioquensis,0,South America,Colombia,0,1996,NA,NA,25,25,5.81,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,1
+Sarcohyla calvicollina,0,North America,Mexico,0,1980,NA,NA,41,41,4.33,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Sarcohyla charadricola,0,North America,Mexico,0,1961,NA,NA,60,60,8.52,1,0,0,0,1,0,0,0,0,1,1,0,0,0.767,2
+Sarcohyla cyanomma,0,North America,Mexico,0,1980,NA,NA,41,41,25.1,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Sarcohyla pachyderma,0,North America,Mexico,0,1940,NA,NA,81,81,9.44,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,2
+Sarcohyla psarosema,0,North America,Mexico,0,1978,NA,NA,43,43,4.63,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,3
+Sarcohyla sabrina,0,North America,Mexico,0,1975,NA,NA,46,46,1.69,1,0,0,0,1,0,0,0,1,1,1,0,0,0.767,4
+Sarcohyla siopela,0,North America,Mexico,0,1975,NA,NA,46,46,5.92,1,0,0,0,1,0,0,0,1,1,0,0,0,0.767,3
+Sarothrura watersi,0,Africa,Madagascar,0,1930,1987,57,NA,57,26.5,0,0,1,0,1,0,1,0,0,1,0,0,0,0.528,1
+Sceloporus exsul,0,North America,Mexico,0,1972,2017,45,NA,45,17.4,0,0,1,0,0,0,0,0,0,1,0,0,0,0.779,3
+Scelotes duttoni,0,Africa,Mozambique,1,1990,NA,NA,31,31,1.1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.456,1
+Scelotes poensis,0,Africa,Equatorial Guinea,0,1895,NA,NA,126,126,1.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.592,1
+Scincella darevskii,0,Asia,Vietnam,0,2002,NA,NA,19,19,2.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Scincella inconspicua,0,Asia,Indonesia,0,1894,NA,NA,127,127,2.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Scincella macrotis,0,Asia,India,1,1867,NA,NA,154,154,2.2,1,0,1,0,0,0,0,0,0,0,0,0,0,0.645,1
+Scincella przewalskii,0,Asia,China,0,1880,NA,NA,141,141,2.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Scincella rara,0,Asia,Vietnam,0,1997,NA,NA,24,24,2.2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Scolecoseps acontias,0,Africa,Tanzania,0,1913,NA,NA,108,108,39.5,1,0,1,0,0,0,0,0,0,1,0,0,0,0.529,1
+Scolecoseps boulengeri,0,Africa,Mozambique,0,1948,NA,NA,73,73,34.4,0,0,0,0,0,0,0,1,0,0,0,0,0,0.456,1
+Scutiger maculatus,0,Asia,China,0,1978,NA,NA,43,43,52,1,0,1,1,1,0,0,0,0,1,1,0,0,0.761,3
+Setopagis maculosa,0,South America,French Guiana,0,1917,NA,NA,104,104,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0.793,3
+Siebenrockiella leytensis,0,Asia,Philippines,1,1920,2004,84,NA,84,940,1,0,0,0,1,0,0,0,0,1,1,1,0,0.718,4
+Sigaloseps balios,0,Oceania,New Caledonia,1,2009,NA,NA,12,12,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0.813,1
+Simoxenops striatus,0,South America,Bolivia; Peru,0,1935,1989,54,NA,54,42.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,1
+Siphonorhis americana,0,North America,Jamaica,1,1860,NA,NA,161,161,64.11,1,0,1,0,0,0,0,0,1,1,0,0,0,0.726,3
+Siphonorhis brewsteri,0,North America,Dominican Republic; Haiti,0,1928,1969,41,NA,41,63.33,1,0,1,0,0,0,0,0,1,1,0,0,0,0.756,1
+Sitana fusca,0,Asia,Nepal,0,1996,NA,NA,25,25,2.4,1,0,1,0,0,0,1,0,0,0,0,0,0,0.602,2
+Sitana schleichi,0,Asia,Nepal,0,2001,NA,NA,20,20,2.4,1,0,1,0,0,0,1,0,0,0,0,0,0,0.602,2
+Sminthopsis douglasi,0,Oceania,Australia,0,1972,1991,19,NA,19,55,0,1,1,1,0,0,0,0,1,1,0,0,0,0.944,2
+Sminthopsis longicaudata,0,Oceania,Australia,0,1935,1984,49,NA,49,18,0,0,1,1,0,0,0,0,0,0,0,0,0,0.944,2
+Sminthopsis psammophila,0,Oceania,Australia,0,1894,1969,75,NA,75,33.5,0,0,1,1,0,0,0,0,1,1,0,0,0,0.944,2
+Spalax istricus,0,Europe,Romania,0,1983,NA,NA,38,38,321.04,0,0,0,1,0,0,0,1,0,1,1,0,0,0.816,1
+Spelaeornis badeigularis,0,Asia,India,0,1947,2004,57,NA,57,10.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.645,1
+Sphaenorhynchus pauloalvini,0,South America,Brazil,0,1973,2007,34,NA,34,17.36,1,0,0,0,1,0,0,0,0,1,1,0,0,0.765,1
+Sphaerodactylus bromeliarum,0,North America,Cuba,0,2005,NA,NA,16,16,0.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.783,1
+Sphaerodactylus cochranae,0,North America,Dominican Republic,0,2008,NA,NA,13,13,0.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.756,1
+Sphaerodactylus elasmorhynchus,0,North America,Haiti,0,1966,NA,NA,55,55,0.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,1
+Sphaerodactylus epiurus,0,North America,Dominican Republic,0,1991,NA,NA,30,30,0.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0.756,1
+Sphaerodactylus gilvitorques,0,North America,Jamaica,1,1862,NA,NA,159,159,0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0.734,1
+Sphaerodactylus lazelli,0,North America,Haiti,0,1960,NA,NA,61,61,0.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,3
+Sphaerodactylus nycteropus,0,North America,Haiti,0,1977,NA,NA,44,44,0.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,2
+Sphaerodactylus plummeri,0,North America,Dominican Republic,0,1991,NA,NA,30,30,0.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.756,1
+Sphaerodactylus sommeri,0,North America,Haiti,0,1985,NA,NA,36,36,0.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.51,1
+Sphaerodactylus williamsi,0,North America,Haiti,0,1978,NA,NA,43,43,0.5,1,0,0,0,0,0,0,0,0,0,1,0,0,0.51,2
+Sphenomorphus bacboensis,0,Asia,Vietnam,0,1986,NA,NA,35,35,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Sphenomorphus buettikoferi,0,Asia,Indonesia,0,1894,NA,NA,127,127,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus capitolythos,0,Asia,Indonesia,1,1923,NA,NA,98,98,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,3
+Sphenomorphus cinereus,0,Oceania,Papua New Guinea,0,1969,NA,NA,52,52,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Sphenomorphus consobrinus,0,Asia,Indonesia,1,2006,NA,NA,15,15,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus cophias,0,Asia,Malaysia,0,1967,NA,NA,54,54,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Sphenomorphus courcyanus,0,Asia,"India, China",0,1912,NA,NA,109,109,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.761,1
+Sphenomorphus crassus,0,Asia,Indonesia,0,1990,NA,NA,31,31,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus dekkerae,0,Oceania,Indonesia,0,1952,NA,NA,69,69,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus fragosus,0,Oceania,Solomon Islands,1,1966,NA,NA,55,55,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.567,1
+Sphenomorphus fuscolineatus,0,Oceania,Papua New Guinea,0,2005,NA,NA,16,16,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Sphenomorphus grandisonae,0,Asia,Thailand,0,1935,NA,NA,86,86,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Sphenomorphus haasi,0,Asia,"Malaysia, Indonesia",0,1984,NA,NA,37,37,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Sphenomorphus helenae,0,Asia,Thailand,0,1923,NA,NA,98,98,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Sphenomorphus leptofasciatus,0,Oceania,Papua New Guinea,0,1986,NA,NA,35,35,17.7,1,0,0,0,0,0,1,0,0,0,0,0,0,0.555,1
+Sphenomorphus longicaudatus,0,Oceania,Papua New Guinea,0,2000,NA,NA,21,21,17.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.555,1
+Sphenomorphus louisiadensis,0,Oceania,Papua New Guinea,1,2004,NA,NA,17,17,17.7,1,0,0,0,0,0,1,0,0,0,0,0,0,0.555,1
+Sphenomorphus malaisei,0,Asia,Myanmar,0,1937,NA,NA,84,84,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.583,1
+Sphenomorphus mimikanus,0,Oceania,Papua New Guinea,0,1997,NA,NA,24,24,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Sphenomorphus modigliani,0,Asia,Indonesia,1,1894,NA,NA,127,127,17.7,1,0,0,0,0,0,0,0,0,0,1,0,0,0.718,1
+Sphenomorphus murudensis,0,Asia,Indonesia,0,1999,NA,NA,22,22,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus neuhaussi,0,Oceania,Papua New Guinea,0,1988,NA,NA,33,33,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Sphenomorphus oligolepis,0,Oceania,"Papua New Guinea, Indonesia",0,2009,NA,NA,12,12,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus orientalis,0,Asia,Myanmar,0,2005,NA,NA,16,16,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.583,1
+Sphenomorphus rarus,0,North America,Panama,0,1983,NA,NA,38,38,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.815,1
+Sphenomorphus sanana,0,Asia,Indonesia,1,1990,NA,NA,31,31,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus schlegeli,0,Asia,Indonesia,1,1969,NA,NA,52,52,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus shelfordi,0,Asia,Indonesia,0,1899,NA,NA,122,122,17.7,1,0,0,0,0,0,0,0,0,0,1,0,0,0.718,1
+Sphenomorphus tanneri,0,Oceania,Solomon Islands,0,1999,NA,NA,22,22,17.7,1,0,0,0,0,0,1,0,0,0,0,0,0,0.567,1
+Sphenomorphus taylori,0,Oceania,Solomon Islands,1,1966,NA,NA,55,55,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.567,1
+Sphenomorphus tenuiculus,0,Asia,Indonesia,0,1890,NA,NA,131,131,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus tetradactylus,0,Asia,Vietnam,0,2005,NA,NA,16,16,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Sphenomorphus transversus,0,Oceania,Solomon Islands,1,1962,NA,NA,59,59,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.567,1
+Sphenomorphus tritaeniatus,0,Asia,Vietnam,0,1937,NA,NA,84,84,17.7,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Sphenomorphus vanhuerni,0,Asia,Indonesia,0,1931,NA,NA,90,90,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Sphenomorphus wollastoni,0,Oceania,Papua New Guinea,0,1913,NA,NA,108,108,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Sphenomorphus zimmeri,0,Asia,Indonesia,0,1932,NA,NA,89,89,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Spondylurus anegadae,0,North America,British Virgin Islands,1,1968,NA,NA,53,53,12.4,1,0,0,0,0,0,0,0,1,1,0,0,0,0.945,1
+Spondylurus haitiae,0,North America,Haiti,0,1858,NA,NA,163,163,12.4,1,0,0,0,0,0,0,0,1,1,0,0,0,0.51,2
+Spondylurus lineolatus,0,North America,"Dominican Republic, Haiti",0,1985,NA,NA,36,36,12.4,1,0,0,0,0,0,0,0,1,1,1,0,0,0.756,2
+Spondylurus macleani,0,North America,British Virgin Islands,1,1996,NA,NA,25,25,12.4,0,0,0,0,0,0,0,0,0,0,0,0,1,0.945,1
+Spondylurus magnacruzae,0,North America,U.S. Virgin Islands,1,2000,NA,NA,21,21,12.4,0,0,1,0,0,0,0,0,1,0,0,0,0,0.894,1
+Spondylurus martinae,0,North America,Sint Maarten,1,1965,NA,NA,56,56,12.4,1,0,0,0,0,0,1,0,0,0,0,0,0,0.702,1
+Spondylurus monae,0,North America,Puerto Rico,1,1994,NA,NA,27,27,12.4,1,0,1,0,0,0,0,0,1,1,0,0,0,0.845,2
+Spondylurus spilonotus,0,North America,U.S. Virgin Islands,1,1877,NA,NA,144,144,12.4,1,0,0,0,0,0,0,0,1,1,0,0,0,0.894,3
+Stachyris herberti,0,Asia,Lao PDR; Vietnam,0,1920,1994,74,NA,74,23.71,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Stenocercus amydrorhytus,0,South America,Peru,0,1997,NA,NA,24,24,17.8,1,0,1,1,0,0,0,0,0,0,0,0,0,0.777,1
+Stenocercus haenschi,0,South America,Ecuador,0,1899,NA,NA,122,122,11.7,1,0,0,0,0,0,0,0,0,1,0,0,0,0.759,3
+Stenocercus ivitus,0,South America,Peru,0,1970,NA,NA,51,51,17.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.777,1
+Stenocercus johaberfellneri,0,South America,Peru,0,1997,NA,NA,24,24,17.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Stenocercus nigromaculatus,0,South America,Peru,0,1970,NA,NA,51,51,17.8,1,0,0,0,0,0,0,0,0,1,0,0,0,0.777,1
+Stenocercus praeornatus,0,South America,Peru,0,1969,NA,NA,52,52,17.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.777,1
+Stenocercus tricristatus,0,South America,Brazil,0,1851,NA,NA,170,170,17.8,1,0,1,1,0,0,0,0,0,0,0,0,0,0.765,1
+Sterna bernsteini,0,Asia,China; South Korea,0,1991,2001,10,NA,10,131.36,0,0,0,0,0,0,0,1,1,1,1,1,1,0.916,1
+Strabomantis cadenai,0,South America,Colombia,0,1982,NA,NA,39,39,4.01,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Strabomantis helonotus,0,South America,Ecuador,0,1959,NA,NA,62,62,4.01,1,0,0,0,0,0,0,0,0,1,1,0,0,0.759,1
+Strabomantis necerus,0,South America,Colombia; Ecuador,0,1995,NA,NA,26,26,4.01,1,0,0,0,1,0,0,0,1,1,1,1,0,0.761,3
+Sylvietta chapini,0,Africa,The Democratic Republic of Congo,0,1942,NA,NA,79,79,9.7,1,0,1,0,0,0,0,0,0,1,1,0,0,0.48,1
+Sylvilagus insonus,0,North America,Mexico,0,1902.5,NA,NA,118.5,118.5,2999.98,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Synallaxis kollari,0,South America,Brazil; Guyana,0,1832,1966,134,NA,134,16.67,1,0,0,0,0,0,0,0,0,1,1,1,0,0.765,1
+Tadorna cristata,0,Asia,South Korea; Russia; Japan,0,1964,NA,NA,57,57,1226,0,0,0,0,1,0,0,1,0,1,0,0,0,0.919,2
+Takydromus madaensis,0,Asia,Vietnam,0,1990,NA,NA,31,31,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0.704,1
+Takydromus sikkimensis,0,Asia,India,0,2006,NA,NA,15,15,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0.645,1
+Tantilla albiceps,0,North America,Panama,1,1925,NA,NA,96,96,22.67,1,0,0,0,0,0,0,0,0,0,0,0,0,0.815,1
+Tantilla tecta,0,North America,Guatemala,0,1992,NA,NA,29,29,22,1,0,0,0,0,0,0,0,0,1,0,0,0,0.663,2
+Tanygnathus gramineus,0,Asia,Indonesia,1,1922,1980,58,NA,58,266,1,0,0,0,0,0,0,0,0,1,1,0,0,0.718,1
+Tarsius pumilus,0,Asia,Indonesia,0,1930,2000,70,NA,70,173,1,0,0,0,0,0,0,0,0,1,0,0,0,0.718,1
+Telmatobius bolivianus,0,South America,Bolivia,0,2007,NA,NA,14,14,130,1,0,0,0,1,0,0,0,1,1,1,1,1,0.703,3
+Telmatobius ceiorum,0,South America,Argentina,0,1984,NA,NA,37,37,130,1,0,0,0,1,0,0,0,1,1,1,1,0,0.83,2
+Telmatobius cirrhacelis,0,South America,Ecuador,0,1981,NA,NA,40,40,130,1,0,0,0,1,0,0,0,1,1,1,0,1,0.759,3
+Telmatobius colanensis,0,South America,Peru,0,1978,NA,NA,43,43,130,1,0,0,0,1,0,0,0,1,0,0,0,0,0.777,1
+Telmatobius degener,0,South America,Peru,0,1972,NA,NA,49,49,130,0,0,0,1,1,0,1,0,1,1,0,0,0,0.777,1
+Telmatobius edaphonastes,0,South America,Bolivia,0,1999,NA,NA,22,22,130,1,0,0,0,1,0,0,0,1,1,1,0,0,0.703,4
+Telmatobius espadai,0,South America,Bolivia,0,1998,NA,NA,23,23,130,1,0,0,0,1,0,0,0,1,1,0,1,0,0.703,3
+Telmatobius gigas,0,South America,Bolivia,0,1966,1998,32,NA,32,14.9,0,0,0,1,1,0,0,0,1,1,1,1,0,0.718,1
+Telmatobius halli,0,South America,Chile,0,1935,2020,85,NA,85,130,0,0,0,0,1,0,0,0,0,0,0,0,0,0.851,2
+Telmatobius hockingi,0,South America,Peru,0,1992,NA,NA,29,29,130,1,0,0,0,1,0,0,0,1,1,0,0,0,0.777,1
+Telmatobius laticeps,0,South America,Argentina,0,1993,NA,NA,28,28,130,0,0,0,1,1,0,0,0,1,1,1,1,0,0.83,3
+Telmatobius mendelsoni,0,South America,Peru,0,2007,NA,NA,14,14,130,0,0,0,0,1,0,0,0,1,0,0,0,0,0.777,3
+Telmatobius necopinus,0,South America,Peru,0,1989,NA,NA,32,32,130,1,0,0,0,1,0,0,0,1,0,0,0,0,0.777,1
+Telmatobius niger,0,South America,Ecuador,0,1994,NA,NA,27,27,130,1,0,1,1,1,0,0,0,1,1,1,0,1,0.759,3
+Telmatobius pefauri,0,South America,Chile,0,1976,NA,NA,45,45,130,0,0,0,0,1,0,0,0,0,1,0,0,0,0.847,1
+Telmatobius sibiricus,0,South America,Bolivia,0,2003,NA,NA,18,18,130,1,0,0,0,1,0,1,0,1,1,1,1,0,0.703,3
+Telmatobius thompsoni,0,South America,Peru,0,1972,NA,NA,49,49,130,0,0,0,1,1,0,1,0,1,1,0,0,0,0.777,1
+Telmatobius vellardi,0,South America,Ecuador,0,1987,NA,NA,34,34,130,1,0,1,1,1,0,0,0,1,1,1,0,1,0.759,1
+Telmatobufo venustus,0,South America,Chile,0,1899,1999,100,NA,100,54.7,1,0,0,0,1,0,0,0,1,1,1,0,0,0.851,1
+Tetradactylus udzungwensis,0,Africa,Tanzania,0,2002,NA,NA,19,19,3.8,0,0,0,1,0,0,0,0,0,1,0,0,0,0.529,2
+Thallomys shortridgei,0,Africa,South Africa,0,1932,NA,NA,89,89,124.6,0,1,0,0,0,0,0,0,0,0,1,0,0,0.709,2
+Thalurania ridgwayi,0,North America,Mexico,0,1900,1950,50,NA,50,3.925,1,0,0,0,0,0,1,0,0,1,0,0,0,0.779,1
+Thamnophilus praecox,0,South America,Ecuador,0,1937,1991,54,NA,54,23.5,1,0,0,0,1,0,0,0,0,0,1,0,0,0.759,1
+Thaumatibis gigantea,0,Asia,Cambodia; Lao PDR; Vietnam,0,1962,1993,31,NA,31,3515,1,0,0,1,1,0,1,0,1,1,1,0,0,0.704,1
+Thorius infernalis,0,North America,Mexico,0,1985,NA,NA,36,36,0.17,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,2
+Thorius longicaudus,0,North America,Mexico,0,1998,NA,NA,23,23,0.17,1,0,0,0,0,0,0,0,1,1,1,0,0,0.767,3
+Thorius magnipes,0,North America,Mexico,0,2003,NA,NA,18,18,18.12,1,0,0,0,0,0,0,0,0,1,1,0,0,0.767,1
+Thorius minutissimus,0,North America,Mexico,0,1949,2001,52,NA,52,18.12,1,0,0,0,0,0,0,0,0,1,1,0,0,0.779,2
+Thoropa petropolitana,0,South America,Brazil,0,1979,NA,NA,42,42,7.5,1,0,0,0,1,0,0,0,1,1,1,0,0,0.765,1
+Thripophaga cherriei,0,South America,Colombia; Venezuela,0,1970,1999,29,NA,29,25.075,1,0,0,0,1,0,0,0,0,1,0,0,0,0.767,1
+Thryophilus nicefori,1,South America,Colombia,0,1945,1989,44,NA,44,19.57,0,0,1,0,0,0,0,0,0,1,1,0,0,0.767,1
+Thryothorus nicefori,1,South America,Colombia,0,1945,1989,44,NA,44,19.57,0,0,1,0,0,0,0,0,0,1,1,0,0,0.767,1
+Tijuca condita,0,South America,Brazil,0,1942,1980,38,NA,38,80,1,0,0,0,0,0,0,0,0,1,0,0,0,0.765,1
+Tiliqua adelaidensis,0,Oceania,Australia,0,1955,1992,37,NA,37,11.2,0,0,0,1,0,0,0,0,0,1,0,1,0,0.944,1
+Tityra leucura,0,South America,Brazil,0,2007,NA,NA,14,14,62.35,1,0,0,0,0,0,0,0,0,0,0,0,0,0.765,1
+Tokudaia muenninki,0,Asia,Okinawa Islands (Japan),1,1978,2008,30,NA,30,84.65,1,0,0,0,0,0,0,0,1,0,1,0,0,0.919,2
+Tolypeutes tricinctus,0,South America,Brazil,0,1973,1993,20,NA,20,1465.72,0,1,1,0,0,0,0,0,0,1,1,0,0,0.765,2
+Toxostoma guttatum,0,North America,Mexico,1,2004,NA,NA,17,17,52.8,1,0,1,0,0,0,0,0,1,1,0,0,1,0.767,3
+Trachyboa gularis,0,South America,Ecuador,0,2008.5,NA,NA,12.5,12.5,24.1,0,1,0,0,0,0,0,0,0,1,0,0,0,0.759,2
+Trachylepis betsileana,0,Africa,Madagascar,0,1906,NA,NA,115,115,17.3,1,1,0,0,0,0,1,0,0,0,0,0,0,0.528,1
+Trachylepis loluiensis,0,Africa,"Uganda, Tanzania, Kenya",1,2007,NA,NA,14,14,17.3,1,0,0,1,0,0,0,0,0,0,0,0,0,0.601,1
+Trachylepis nganghae,0,Africa,Cameroon,0,2001,NA,NA,20,20,17.3,0,0,0,1,0,0,0,0,0,1,0,0,0,0.563,1
+Trachylepis pendeana,0,Africa,Central African Republic,0,1994,NA,NA,27,27,17.3,0,1,0,0,0,0,0,0,0,1,0,0,0,0.397,1
+Trachylepis vezo,0,Africa,Madagascar,0,2009,NA,NA,12,12,17.3,0,0,0,0,0,0,0,0,0,1,0,0,0,0.528,1
+Trachypithecus delacouri,0,Asia,Vietnam,0,1930,1987,57,NA,57,7325,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Tragulus versicolor,0,Asia,Vietnam,0,1990,2019,29,NA,29,1700,1,0,0,0,0,0,1,0,0,1,1,0,0,0.704,2
+Tribolonotus parkeri,0,Oceania,Papua New Guinea,1,2005,NA,NA,16,16,11.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Tribolonotus ponceleti,0,Oceania,Solomon Islands,1,1986,NA,NA,35,35,41.7,1,0,0,0,0,0,0,0,0,0,1,0,0,0.567,1
+Trimetopon viquezi,0,North America,Costa Rica,0,1927,NA,NA,94,94,5.2,1,0,0,0,0,0,0,0,0,1,0,0,0,0.81,3
+Trioceros chapini,0,Africa,"The Democratic Republic of Congo, Guinea, Gabon, Congo",0,1931,NA,NA,90,90,54.3,1,0,0,0,0,0,0,0,0,1,1,0,0,0.703,1
+Tropidophis hendersoni,0,North America,Cuba,0,1945,2014,69,NA,69,29.2,1,0,0,0,0,0,0,0,1,1,1,0,0,0.783,1
+Tropidophorus hangnam,0,Asia,Thailand,0,2005,NA,NA,16,16,25.1,1,0,0,0,1,0,0,0,0,1,0,0,0,0.777,1
+Tropidophorus iniquus,0,Asia,Indonesia,0,1894,NA,NA,127,127,25.1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.718,1
+Tropidophorus latiscutatus,0,Asia,Thailand,0,1996,NA,NA,25,25,25.1,1,0,0,0,1,0,0,0,0,0,0,0,1,0.777,1
+Tropidophorus matsuii,0,Asia,Thailand,0,1996,NA,NA,25,25,25.1,1,0,0,0,1,0,0,0,0,0,0,0,1,0.777,1
+Tropidophorus murphyi,0,Asia,Vietnam,0,1998,NA,NA,23,23,25.1,1,0,0,0,0,0,0,0,0,1,0,0,0,0.704,1
+Tropiocolotes wolfgangboehmei,0,Asia,Saudi Arabia,0,2001,NA,NA,20,20,0.3,0,0,0,0,0,1,0,0,0,1,0,0,0,0.854,1
+Turnix novaecaledoniae,0,Oceania,New Caledonia,1,1911,NA,NA,110,110,62.72,0,0,0,1,0,0,0,0,1,1,1,0,0,0.8,3
+Tylomys bullaris,0,North America,Mexico,0,1970,NA,NA,51,51,280,1,0,0,0,0,0,0,0,1,1,0,0,0,0.767,1
+Tylomys tumbalensis,0,North America,Mexico,0,1970,NA,NA,51,51,280,1,0,0,0,0,0,0,0,0,1,0,0,0,0.767,2
+Tympanocryptis pinguicolla,0,Oceania,Australia,0,1969,NA,NA,52,52,9.7,0,0,0,1,0,0,0,0,1,1,0,1,0,0.944,4
+Tympanoctomys loschalchalerosorum,0,South America,Argentina,0,2000,NA,NA,21,21,78.71,0,0,0,0,1,0,0,0,0,1,0,0,0,0.83,2
+Typhlacontias rudebecki,0,Africa,Angola,0,1956,NA,NA,65,65,1.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0.581,1
+Typhlops agoralionis,0,North America,Haiti,0,1991,NA,NA,30,30,39,1,0,0,0,0,0,1,0,0,1,1,0,0,0.51,3
+Typhlops tetrathyreus,0,North America,Haiti,0,1976,NA,NA,45,45,39.5,1,0,0,0,0,0,1,0,0,1,0,0,0,0.51,3
+Tyto sororcula,0,Asia; Oceania,Indonesia,1,1923,1996,73,NA,73,630.625,1,0,1,1,0,0,1,0,0,0,0,0,0,0.944,3
+Tyto soumagnei,0,Africa,Madagascar,0,1973,1993,20,NA,20,284,1,0,0,0,0,0,1,0,0,1,1,0,0,0.528,1
+Tytthoscincus perhentianensis,0,Asia,Malaysia,1,2007,NA,NA,14,14,17.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0.81,1
+Uraeotyphlus interruptus,0,Asia,India,0,1992,NA,NA,29,29,76.1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.647,1
+Uraeotyphlus malabaricus,0,Asia,India,0,1870,NA,NA,151,151,76.1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.647,1
+Uraeotyphlus menoni,0,Asia,India,0,1913,NA,NA,108,108,76.1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.647,1
+Uraeotyphlus oommeni,0,Asia,India,0,1987,NA,NA,34,34,76.1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.647,1
+Urocotyledon rasmusseni,0,Africa,Tanzania,0,2004,NA,NA,17,17,1.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0.529,1
+Uromys emmae,0,Asia,Indonesia,1,1945,NA,NA,76,76,561.71,1,0,0,0,0,0,0,0,0,1,1,0,0,0.707,2
+Uromys imperator,0,Oceania,Solomon Islands,1,1888,NA,NA,133,133,1000,1,0,0,0,0,0,0,0,0,0,0,0,0,0.557,1
+Uromys porculus,0,Oceania,Solomon Islands,1,1888,NA,NA,133,133,287.54,1,0,0,0,0,0,0,0,0,0,0,0,0,0.557,1
+Vanellus macropterus,0,Asia,Indonesia,0,1939,NA,NA,82,82,325,0,0,0,1,1,0,1,0,0,1,1,0,0,0.707,4
+Varanus auffenbergi,0,Asia,Indonesia,1,2005,NA,NA,16,16,30.3,0,0,0,0,0,0,1,0,0,0,1,0,0,0.718,1
+Varanus douarrha,0,Oceania,Papua New Guinea,1,1823,2012,189,NA,189,1294,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Varanus telenesetes,0,Oceania,Papua New Guinea,1,1912.5,NA,NA,108.5,108.5,230,1,0,0,0,0,0,0,0,0,0,0,0,0,0.555,1
+Varanus zugorum,0,Asia,Indonesia,1,1980,NA,NA,41,41,1294,1,0,0,0,0,0,0,0,0,0,0,0,0,0.718,1
+Vermivora bachmanii,0,North America,Cuba; USA,0,1988,NA,NA,33,33,8.91,1,0,1,0,0,0,0,0,0,1,0,0,0,0.926,2
+Vietnascincus rugosus,0,Asia,Vietnam,0,1987,NA,NA,34,34,11.5,1,0,0,0,0,0,0,0,0,1,1,0,0,0.704,1
+Vijayachelys silvatica,1,Asia,India,0,1911,1982,71,NA,71,230,1,0,0,0,0,0,0,0,1,1,1,0,1,0.645,1
+Vipera anatolica,0,Asia,Turkey,0,1985,2014,29,NA,29,180.5,1,0,0,0,0,0,0,0,0,0,1,0,0,0.82,1
+Viverra civettina,0,Asia,India,0,1989,NA,NA,32,32,12871.13,1,0,0,0,1,0,1,0,0,1,1,0,0,0.647,4
+Voeltzkowia mobydick,0,Africa,Madagascar,0,2004,NA,NA,17,17,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.528,1
+Wakea madinika,0,Africa,Madagascar,0,2001,NA,NA,20,20,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.521,2
+Werneria mertensiana,0,Africa,Cameroon,0,2010,NA,NA,11,11,79.56,1,0,0,0,1,0,1,0,1,1,1,0,0,0.563,3
+Xenoglaux loweryi,0,South America,Peru,0,1976,2007,31,NA,31,48.25,1,0,0,0,0,0,0,0,0,1,1,0,0,0.777,4
+Xenotyphlops mocquardi,0,Africa,Madagascar,0,1905,2005,100,NA,100,41.6,1,0,1,0,0,0,0,1,0,0,0,0,0,0.528,1
+Xylophis stenorhynchus,0,Asia,India,0,1878,2019,141,NA,141,129,1,0,0,0,0,0,0,0,0,0,0,0,0,0.645,1
+Zaglossus attenboroughi,0,Asia,Indonesia,0,1961,NA,NA,60,60,3000,1,0,0,0,0,0,0,0,0,1,1,0,0,0.707,2
+Zosterops meeki,0,Oceania,Papua New Guinea,1,1990,2004,14,NA,14,10.5,1,0,0,0,0,0,1,0,0,1,1,0,1,0.555,1
+Zyzomys pedunculatus,0,Oceania,Australia,0,1966,1996,30,NA,30,100,0,1,1,1,0,0,0,0,1,1,0,0,1,0.944,3
