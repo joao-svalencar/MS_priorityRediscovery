@@ -1,0 +1,4 @@
+hierarchic mask layer = ../Variables/hi_mask.tif
+feature list file = feature_list_threat.txt
+condition link file = condition_link.txt
+weight groups file = weight_groups.txt

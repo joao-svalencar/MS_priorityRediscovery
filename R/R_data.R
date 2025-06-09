@@ -9,6 +9,9 @@ dd_poly <- terra::vect(here::here("data", "processed", "shapefiles", "dd_poly_te
 
 lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
 
+hmi <- terra::rast("/Users/joaosvalencar/Downloads/gHM/gHM.tif")
+
+spp_stats <- read.csv(here::here("data", "processed", "spp_hmi.csv"))
 
 # polygons to process -----------------------------------------------------
 #amphibia
@@ -28,10 +31,6 @@ birdsnp1 <- terra::vect(here::here("data", "raw", "shapefiles", "birdsnp", "data
 birdsnp2 <- terra::vect(here::here("data", "raw", "shapefiles", "birdsnp", "data_2.shp")) #dissolved
 birdsp0 <- terra::vect(here::here("data", "raw", "shapefiles", "birdsp", "data_0.shp")) #dissolved
 birdsp1 <- terra::vect(here::here("data", "raw", "shapefiles", "birdsp", "data_1.shp")) #dissolved
-
-
-# processed polygons to merge
-
 
 # processed polygons to merge ---------------------------------------------
 

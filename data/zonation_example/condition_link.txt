@@ -1,0 +1,1 @@
+1 1 ../Variables/huella_humana.tif
