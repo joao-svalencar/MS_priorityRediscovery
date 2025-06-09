@@ -1,0 +1,9 @@
+Voy a Hacer 2 priorizaciones una considerando endémicas y amenazadas otra solo con DD
+
+Con la trad los pesos son según estado de amenaza y multiplicando x2 a las endémicas 
+
+En las DD solo pondero doble el grado de enedemisidad. 
+
+Los grupos post proc serán las Clases?? quizás conviene los status  1. Anf 2. mamif 3. Rept 4. Aves (1)
+
+Los grupos de peso van a ser los

@@ -42,10 +42,7 @@ for(i in seq_along(dd_poly$SCI_NAME)){
               overwrite = TRUE)
 }
 
-
-setwd(path)
-
-dd_rasters <- dir()
+dd_rasters <- dir("/Users/joaosvalencar/Downloads/dd_rasters/")
 spp_rasters <- sub("^[^_]+_(.+)\\.tif$", "\\1", dd_rasters)
 
-sum(dd_poly$SCI_NAME%in%spp_rasters)
+sum(spp_rasters%in%dd_poly$SCI_NAME)
