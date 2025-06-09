@@ -86,5 +86,5 @@ feature_list_DD_df$filename <- feature_list_DD$filename
 
 head(feature_list_DD_df)
 
-write.table(feature_list_DD, here::here("data", "zonation_rediscovery", "feature_list_DD.txt"),
+write.table(feature_list_DD_df, here::here("data", "zonation_rediscovery", "feature_list_DD.txt"),
             row.names = FALSE, quote = FALSE)
