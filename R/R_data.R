@@ -9,6 +9,7 @@ dd_poly <- terra::vect(here::here("data", "processed", "shapefiles", "dd_poly_te
 
 lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
 
+
 # polygons to process -----------------------------------------------------
 #amphibia
 anura_poly1 <- terra::vect(here::here("data", "raw", "shapefiles", "anura", "ANURA_PART1.shp")) #dissolved
