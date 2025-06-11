@@ -1,0 +1,4 @@
+hierarchic mask layer = define?
+feature list file = feature_list_lost.txt
+condition link file = define?
+weight groups file = weight_groups.txt

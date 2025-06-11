@@ -1,0 +1,5 @@
+We are going to run two prioritizations on global scale. One considering lost species, as defined by Lindken et al. (2024), and another considering all data deficient terrestrial vertebrates.
+
+The weights were defined as the median of global Human Modification within a species range as defined by the IUCN (2025). Lost species should have a higher weight than DD?
+
+Groups are defined by terrestrial vertebrates classes: 1. Amphibia, 2. Reptilia, 3. Aves, 4. Mammalia. Groups received the same weight rational.
