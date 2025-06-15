@@ -5,25 +5,27 @@
 library(terra)
 
 # Loading vectors ---------------------------------------------------------
-lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
+lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp"))
+#lost_spp$dissolve <- 1
+#lostBG <- terra::aggregate(lost_spp, by="dissolve", cores = 9)
+lostBG <- terra::vect(here::here("data", "processed", "shapefiles", "lostBG.shp"))
+#terra::writeVector(lostBG, here::here("data", "processed", "shapefiles", "lostBG.shp"), filetype = "ESRI Shapefile", overwrite = TRUE)
+
 dd_poly <- terra::vect(here::here("data", "processed", "shapefiles", "dd_poly_terrestrial_dissolved.shp")) #dissolved
-
-bg <- terra::vect(here::here("data", "processed", "shapefiles", "lostBG.shp"))  # anuraBG shapefile
-world <- terra::vect(here::here("data", "raw", "shapefiles", "world.shp"))  # world shapefile
-
-res <- 0.0083333333
-raster_base <- terra::rast(terra::ext(world), resolution = res)
-terra::crs(raster_base) <- terra::crs(world)
+#dd_poly$dissolve <- 1
+#ddBG <- terra::aggregate(dd_poly, by="dissolve", cores = 9)
+ddBG <- terra::vect(here::here("data", "processed", "shapefiles", "ddBG.shp"))
+#terra::writeVector(ddBG, here::here("data", "processed", "shapefiles", "ddBG.shp"), filetype = "ESRI Shapefile", overwrite = TRUE)
 
 
 # Parallel for lost -------------------------------------------------------
-path_lost <- "/Users/joaosvalencar/Documents/priorityRediscovery/lost_rasters/"
+path_lost <- "/Users/joaosvalencar/Documents/priorityRediscovery/zonation/rasters/lost_rasters/"
 
 library(terra)
 library(future.apply)
 
 # Set up multithreading for terra
-terraOptions(threads = 2)  # Each raster function can use up to 2 threads
+terra::terraOptions(threads = 2)  # Each raster function can use up to 2 threads
 
 # Set up parallel plan for the whole loop
 future::plan(multisession, workers = 5)  # Use 5 parallel workers
@@ -33,7 +35,7 @@ process_species <- function(i) {
   library(terra)
   terra::terraOptions(threads = 2)  # Each raster function can use up to 4 threads
   lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
-  bg <- terra::vect(here::here("data", "processed", "shapefiles", "lostBG.shp"))  # anuraBG shapefile
+  lostBG <- terra::vect(here::here("data", "processed", "shapefiles", "lostBG.shp"))  # anuraBG shapefile
   world <- terra::vect(here::here("data", "raw", "shapefiles", "world.shp"))  # world shapefile
   
   res <- 0.0083333333
@@ -42,6 +44,7 @@ process_species <- function(i) {
   
   poly <- lost_spp[i, ]
   spp_name <- poly$species
+  spp_name <- gsub(" ", "_", spp_name)
   spp_class <- poly$class
   
   file_out <- paste0(path_lost, spp_class, "_", spp_name, ".tif")
@@ -51,7 +54,7 @@ process_species <- function(i) {
   
   tryCatch({
     r <- terra::rasterize(poly, raster_base, field = 1, background = 0, touches = TRUE)
-    r_masked <- terra::mask(r, bg)
+    r_masked <- terra::mask(r, lostBG)
     
     terra::writeRaster(r_masked,
                 file_out,
@@ -70,13 +73,22 @@ results <- future_lapply(1:nrow(lost_spp), process_species, future.seed = TRUE)
 
 
 # Parallel for DD ---------------------------------------------------------
-path_dd <- "/Users/joaosvalencar/Documents/priorityRediscovery/dd_rasters/"
+path_dd <- "/Users/joaosvalencar/Documents/priorityRediscovery/zonation/rasters/dd_rasters/"
+
+library(terra)
+library(future.apply)
+
+# Set up multithreading for terra
+terra::terraOptions(threads = 2)  # Each raster function can use up to 2 threads
+
+# Set up parallel plan for the whole loop
+future::plan(multisession, workers = 5)  # Use 5 parallel workers
 
 process_species <- function(i) {
   library(terra)
-  terra::terraOptions(threads = 2)  # Each raster function can use up to 4 threads
+  terra::terraOptions(threads = 2)
   dd_poly <- terra::vect(here::here("data", "processed", "shapefiles", "dd_poly_terrestrial_dissolved.shp")) #dissolved
-  bg <- terra::vect(here::here("data", "processed", "shapefiles", "lostBG.shp"))  # anuraBG shapefile
+  ddBG <- terra::vect(here::here("data", "processed", "shapefiles", "ddBG.shp"))
   world <- terra::vect(here::here("data", "raw", "shapefiles", "world.shp"))  # world shapefile
   
   res <- 0.0083333333
@@ -85,6 +97,7 @@ process_species <- function(i) {
   
   poly <- dd_poly[i, ]
   spp_name <- poly$species
+  spp_name <- gsub(" ", "_", spp_name)
   spp_class <- poly$class
   
   file_out <- paste0(path_dd, spp_class, "_", spp_name, ".tif")
@@ -94,7 +107,7 @@ process_species <- function(i) {
   
   tryCatch({
     r <- terra::rasterize(poly, raster_base, field = 1, background = 0, touches = TRUE)
-    r_masked <- terra::mask(r, bg)
+    r_masked <- terra::mask(r, ddBG)
     
     terra::writeRaster(r_masked,
                        file_out,
@@ -112,3 +125,15 @@ process_species <- function(i) {
 results <- future_lapply(1:nrow(dd_poly), process_species, future.seed = TRUE)
 
 
+# background raster -------------------------------------------------------
+terra::terraOptions(threads = 10)
+
+system.time(
+r <- terra::rasterize(bg, raster_base, field = 1, background = NA, touches = TRUE)
+)
+
+terra::writeRaster(r,
+                   here::here("data", "processed", "rasters", "bg.tif"),
+                   datatype = "INT1U",
+                   gdal = c("COMPRESS=DEFLATE", "ZLEVEL=1"),
+                   overwrite = TRUE)
