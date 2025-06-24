@@ -1,4 +1,5 @@
 lindken <- read.csv(here::here("data", "processed", "lindken_fixed.csv")) #lindken database
+lindkenVar <- read.csv(here::here("data", "processed", "lindken_var.csv")) #lindken database
 
 iucn <- read.csv(here::here("data", "processed", "iucn_simple.csv")) #IUCN simple_summary + assessments systems and realms
 

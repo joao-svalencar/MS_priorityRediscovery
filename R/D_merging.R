@@ -1,20 +1,24 @@
 #cleaning extra spaces:
-lindken$species <- stringr::str_squish(lindken$species)
+lindkenVar$species <- stringr::str_squish(lindkenVar$species)
 iucn$species <- stringr::str_squish(iucn$species)
 
+lindkenVar <- lindkenVar[,c(1, 6, 7)]
+
 #comparing lindken and iucn
-sum(lindken$species %in% iucn$species) #1149/1226: 91%
+sum(lindkenVar$species %in% iucn$species) #1149/1226: 91%
 
 #to search the iucn synonym database:
-toSearch <- lindken$species[which(!lindken$species %in% iucn$species)]
+toSearch <- lindkenVar$species[which(!lindkenVar$species %in% iucn$species)]
 
 sum(iucn_syn$synonyms %in% toSearch) #68 species
 
 lindken_syn <- iucn_syn[iucn_syn$synonyms %in% toSearch,]
 
-toFix <- lindken[lindken$species %in% lindken_syn$synonyms,]
-lindken <- lindken[!lindken$species %in% lindken_syn$synonyms,]
 
+toFix <- lindkenVar[lindkenVar$species %in% lindken_syn$synonyms,]
+lindkenVar <- lindkenVar[!lindkenVar$species %in% lindken_syn$synonyms,]
+
+toFix$species_new <- toFix$species
 idx <- which(toFix$species_new %in% lindken_syn$synonyms)
 
 for (j in seq_along(idx)) {
@@ -29,24 +33,33 @@ for (j in seq_along(idx)) {
   toFix$species_new[i] <- cur[1]
 }
 
-lindken <- rbind(lindken, toFix)
-sum(lindken$species %in% iucn$species) #1207/1248: 96%
+lindkenVar$species_new <- lindkenVar$species
+lindkenVar <- rbind(lindkenVar, toFix)
+sum(lindkenVar$species_new %in% iucn$species) #1207/1248: 97%
 
-lindken$species <- lindken$species_new
-lindken <- lindken[,-8]
+head(lindkenVar)
+lindkenVar$species <- lindkenVar$species_new
+lindkenVar <- lindkenVar[,-4]
 
 lindken$iucnData <- NA
 
 lindken$iucnData[!lindken$species %in% iucn$species] <- "no"
 lindken$iucnData[lindken$species %in% iucn$species] <- "yes"
 
-lindken <- lindken[ !grepl("^\\S+\\s+\\S+\\s+\\S+$", lindken$species), ] #remove subspecies
 
-lindken <- lindken[which(!duplicated(lindken$species)),] #remove duplicated entries
+lindkenVar <- lindkenVar[ !grepl("^\\S+\\s+\\S+\\s+\\S+$", lindkenVar$species), ] #remove subspecies
+
+lindkenVar <- lindkenVar[which(!duplicated(lindkenVar$species)),] #remove duplicated entries
 
 
-write.csv(lindken, here::here("data", "processed", "lindken_fixed.csv"), row.names = FALSE)
+write.csv(lost_sppA, here::here("data", "processed", "lost_spp.csv"), row.names = FALSE)
 
+head(lost_spp)
+
+sum(lost_spp$species %in% lindkenVar$species)
+
+lost_sppA <- merge(lost_spp, lindkenVar, by = "species")
+head(lost_sppA)
 # DD polygons processing --------------------------------------------------
 
 length(unique(dd_poly$SCI_NAME)) #3099 species

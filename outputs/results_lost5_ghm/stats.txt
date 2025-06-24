@@ -1,0 +1,23 @@
+Arguments given: -wWg --mode=ABF --gui settings_lost.z5 results_lost5
+Settings filename: settings_lost.z5
+Feature list filename: C:\Users\Usuario\Desktop\JP\priorityRediscovery\setup\zonation_setup\feature_list_lost.txt
+Map dimensions (width * height): 8640*3411
+Number of grid cells in map (width * height): 29471040
+Number of grid cells in map with data: 488801
+Input feature layer count: 783
+Feature layer count: 783
+Positive weight feature count: 779
+Negative weight feature count: 0
+Zero weight feature count: 4
+Total number of pixels with data across features: 382731183
+Mean feature extent across study area: 0.15%
+Memory usage of feature data: 713.60MB
+Mean quantization error: 0.0%
+Time used to read and preprocess layer data: 2m57s
+Time used in prioritization: 10s
+Number of iterations: 13
+Final convergence level: 0.00837955%
+Area under curve: 0.961819
+Total time used: 3m11s
+Number of errors: 0
+Number of warnings: 0
