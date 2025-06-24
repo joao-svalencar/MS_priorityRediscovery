@@ -5,5 +5,4 @@
 shapefiles/
 rasters/
 doc/
-dd_rasters/
-lost_rasters/
+feature_curves.csv
