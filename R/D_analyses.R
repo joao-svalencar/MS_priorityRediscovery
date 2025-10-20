@@ -55,4 +55,49 @@ sum(!is.na(iucn$yearLastSeen)) #644 info
 
 table(iucn$iucn[!is.na(iucn$yearLastSeen)])
 
+# area coverage and overlap -----------------------------------------------
+world <- terra::vect(here::here("data", "raw", "shapefiles", "world.shp"))
 
+moll_crs <- "ESRI:54009"
+
+world <- terra::project(world, moll_crs)
+
+# Base raster: 5km (5000 meters) resolution
+raster_base <- terra::rast(terra::ext(world), resolution = 5000)
+dim(raster_base)
+terra::ncell(raster_base) #21,919,680 pixels
+
+lost_priority <- terra::rast(here::here("outputs", "results_lost", "results_lost", "rankmap.tif"))
+
+#selecting the top 5%:
+# Step 1: Mask all pixels outside the desired range
+r_sub <- terra::ifel(lost_priority > 0.95 & lost_priority <= 1, 1, NA)  # set valid pixels to 1, others to NA
+terra::plot(world)
+terra::plot(r_sub, add = TRUE, col = "red")
+
+terra::writeRaster(
+  r_sub,
+  here::here("outputs", "rasters", "lostTop5.tif"),
+  datatype = "INT1U",
+  gdal = c("COMPRESS=DEFLATE", "ZLEVEL=5"),
+  overwrite = TRUE)
+
+#selecting the top 1%:
+# Step 1: Mask all pixels outside the desired range
+r_sub01 <- terra::ifel(lost_priority > 0.99 & lost_priority <= 1, 1, NA)  # set valid pixels to 1, others to NA
+
+terra::writeRaster(
+  r_sub01,
+  here::here("outputs", "rasters", "lostTop1.tif"),
+  datatype = "INT1U",
+  gdal = c("COMPRESS=DEFLATE", "ZLEVEL=5"),
+  overwrite = TRUE)
+
+#Polygonize the result
+polygons <- as.polygons(r_sub, dissolve = TRUE)  # dissolve=TRUE merges touching cells
+
+#Save the polygons (optional)
+writeVector(polygons, "high_value_area.shp", overwrite = TRUE)
+
+# Step 4: Plot (optional)
+plot(polygons)

@@ -1,0 +1,23 @@
+Arguments given: --gui --mode=ABF 0.25 -wW C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/settings_lost.z5 C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/results_lost
+Settings filename: C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/settings_lost.z5
+Feature list filename: C:\Users\Usuario\Desktop\JP\priorityRediscovery\setup\zonation_setup\feature_list_lost.txt
+Map dimensions (width * height): 7080*3096
+Number of grid cells in map (width * height): 21919680
+Number of grid cells in map with data: 353189
+Input feature layer count: 783
+Feature layer count: 783
+Positive weight feature count: 783
+Negative weight feature count: 0
+Zero weight feature count: 0
+Total number of pixels with data across features: 276546987
+Mean feature extent across study area: 0.15%
+Memory usage of feature data: 522.95MB
+Mean quantization error: 0.0%
+Time used to read and preprocess layer data: 2m11s
+Time used in prioritization: 13s
+Number of iterations: 27
+Final convergence level: 0.00959987%
+Area under curve: 0.956808
+Total time used: 2m29s
+Number of errors: 0
+Number of warnings: 0

@@ -5,4 +5,4 @@
 shapefiles/
 rasters/
 doc/
-feature_curves.csv
+outputs/results_*/feature_curves.csv

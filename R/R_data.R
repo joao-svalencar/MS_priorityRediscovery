@@ -2,17 +2,14 @@ lindken <- read.csv(here::here("data", "processed", "lindken_fixed.csv")) #lindk
 lindkenVar <- read.csv(here::here("data", "processed", "lindken_var.csv")) #lindken database
 
 iucn <- read.csv(here::here("data", "processed", "iucn_simple.csv")) #IUCN simple_summary + assessments systems and realms
-
 iucn_syn <- read.csv(here::here("data", "processed", "iucn_synonyms.csv")) #IUCN synonyms
+
+lost_spp <- read.csv(here::here("data", "processed", "lost_spp.csv")) #dissolved
 
 #dd_poly <- terra::vect(here::here("data", "raw", "shapefiles", "data_deficient_polygons", "data_0.shp")) #raw
 dd_poly <- terra::vect(here::here("data", "processed", "shapefiles", "dd_poly_terrestrial_dissolved.shp")) #dissolved
+lost_spp_shapes <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
 
-lost_spp <- terra::vect(here::here("data", "processed", "shapefiles", "lost_spp.shp")) #dissolved
-
-hmi <- terra::rast("/Users/joaosvalencar/Downloads/gHM/gHM.tif")
-
-spp_stats <- read.csv(here::here("data", "processed", "spp_hmi.csv"))
 
 # polygons to process -----------------------------------------------------
 #amphibia

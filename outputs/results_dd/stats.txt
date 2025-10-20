@@ -1,0 +1,23 @@
+Arguments given: --gui --mode=ABF 0.25 -wW C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/settings_DD.z5 C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/results_dd
+Settings filename: C:/Users/Usuario/Desktop/JP/priorityRediscovery/setup/zonation_setup/settings_DD.z5
+Feature list filename: C:\Users\Usuario\Desktop\JP\priorityRediscovery\setup\zonation_setup\feature_list_DD.txt
+Map dimensions (width * height): 7080*3096
+Number of grid cells in map (width * height): 21919680
+Number of grid cells in map with data: 2333725
+Input feature layer count: 3067
+Feature layer count: 3067
+Positive weight feature count: 3067
+Negative weight feature count: 0
+Zero weight feature count: 0
+Total number of pixels with data across features: 7157534575
+Mean feature extent across study area: 0.11%
+Memory usage of feature data: 7.67GB
+Mean quantization error: 0.0%
+Time used to read and preprocess layer data: 11m46s
+Time used in prioritization: 5m15s
+Number of iterations: 19
+Final convergence level: 0.00923889%
+Area under curve: 0.942573
+Total time used: 17m16s
+Number of errors: 0
+Number of warnings: 0

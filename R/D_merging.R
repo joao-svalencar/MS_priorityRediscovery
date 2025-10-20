@@ -5,7 +5,7 @@ iucn$species <- stringr::str_squish(iucn$species)
 lindkenVar <- lindkenVar[,c(1, 6, 7)]
 
 #comparing lindken and iucn
-sum(lindkenVar$species %in% iucn$species) #1149/1226: 91%
+sum(lindkenVar$species %in% iucn$species) #1149/1262 : 91%
 
 #to search the iucn synonym database:
 toSearch <- lindkenVar$species[which(!lindkenVar$species %in% iucn$species)]
@@ -60,6 +60,9 @@ sum(lost_spp$species %in% lindkenVar$species)
 
 lost_sppA <- merge(lost_spp, lindkenVar, by = "species")
 head(lost_sppA)
+
+write.csv(lost_sppA, here::here("data", "processed", "lost_spp.csv"), row.names = FALSE) #names and data all right.
+
 # DD polygons processing --------------------------------------------------
 
 length(unique(dd_poly$SCI_NAME)) #3099 species
